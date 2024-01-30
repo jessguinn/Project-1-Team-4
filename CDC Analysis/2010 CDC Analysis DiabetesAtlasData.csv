@@ -1,0 +1,3145 @@
+Bivariate Data for Diagnosed Diabetes; Obesity; ; 2010,,,,,,
+Data downloaded on 29-January-2024,,,,,,
+Year,County_FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Obesity (Percentage) 
+2010,56045,Weston County,Wyoming,LM,6.7,21.2
+2010,54021,Gilmer County,West Virginia,ML,7.4,18.4
+2010,54023,Grant County,West Virginia,LL,6.8,18
+2010,54025,Greenbrier County,West Virginia,HM,9,23.4
+2010,54027,Hampshire County,West Virginia,MH,7.5,30.1
+2010,54029,Hancock County,West Virginia,HM,9,24.9
+2010,54031,Hardy County,West Virginia,MM,7.5,24
+2010,54033,Harrison County,West Virginia,HH,9.6,28.8
+2010,54035,Jackson County,West Virginia,HH,9.6,29.9
+2010,54037,Jefferson County,West Virginia,HH,9.1,31.1
+2010,54039,Kanawha County,West Virginia,HH,10.1,30.5
+2010,54041,Lewis County,West Virginia,MM,8.1,24.3
+2010,54043,Lincoln County,West Virginia,MH,7.5,30.9
+2010,54045,Logan County,West Virginia,HH,12.1,35.9
+2010,54047,Mcdowell County,West Virginia,HH,12,26.9
+2010,54049,Marion County,West Virginia,HH,9.7,31.2
+2010,54051,Marshall County,West Virginia,MH,7.9,29.8
+2010,54053,Mason County,West Virginia,MH,7.7,35.3
+2010,54055,Mercer County,West Virginia,HH,10,31.9
+2010,54057,Mineral County,West Virginia,MH,7.5,29.6
+2010,54059,Mingo County,West Virginia,HH,9.4,28.6
+2010,54061,Monongalia County,West Virginia,HM,8.4,25
+2010,54063,Monroe County,West Virginia,HM,8.7,22.7
+2010,55137,Waushara County,Wisconsin,MH,7.4,26.6
+2010,55139,Winnebago County,Wisconsin,MH,7.4,27.4
+2010,55141,Wood County,Wisconsin,LL,7.1,19.8
+2010,56001,Albany County,Wyoming,LM,5.6,21.2
+2010,56003,Big Horn County,Wyoming,LM,7.1,23.5
+2010,56005,Campbell County,Wyoming,HH,8.4,32.1
+2010,56007,Carbon County,Wyoming,MH,7.6,29.3
+2010,56009,Converse County,Wyoming,LH,6.8,27.9
+2010,56011,Crook County,Wyoming,LL,6.8,18.7
+2010,56013,Fremont County,Wyoming,MM,7.4,23.5
+2010,56015,Goshen County,Wyoming,LM,7.1,23.2
+2010,56017,Hot Springs County,Wyoming,ML,7.2,18.8
+2010,56019,Johnson County,Wyoming,ML,7.3,20
+2010,56021,Laramie County,Wyoming,HM,8.5,24.9
+2010,56023,Lincoln County,Wyoming,MM,7.8,20.5
+2010,56025,Natrona County,Wyoming,MH,7.3,27.2
+2010,56027,Niobrara County,Wyoming,LL,6.7,19.5
+2010,56029,Park County,Wyoming,LM,6.1,20.6
+2010,56031,Platte County,Wyoming,ML,7.4,19.6
+2010,56033,Sheridan County,Wyoming,LM,7,23.7
+2010,56035,Sublette County,Wyoming,LM,6.6,20.7
+2010,56037,Sweetwater County,Wyoming,LH,6.9,27.9
+2010,56039,Teton County,Wyoming,LL,3.8,11.8
+2010,56041,Uinta County,Wyoming,MH,7.6,29.6
+2010,56043,Washakie County,Wyoming,ML,7.8,19
+2010,48409,San Patricio County,Texas,ML,7.9,18.1
+2010,48411,San Saba County,Texas,LL,7,17.3
+2010,48413,Schleicher County,Texas,LL,6.9,17.5
+2010,48415,Scurry County,Texas,LL,6.7,17.4
+2010,48417,Shackelford County,Texas,LL,6.9,17.7
+2010,48419,Shelby County,Texas,MM,7.3,20.4
+2010,48421,Sherman County,Texas,LL,7,17.5
+2010,48423,Smith County,Texas,HH,8.6,27.6
+2010,51193,Westmoreland County,Virginia,HL,9.4,18.8
+2010,51195,Wise County,Virginia,HH,10.2,31.9
+2010,51197,Wythe County,Virginia,MM,7.5,20.3
+2010,51199,York County,Virginia,MM,7.3,23.2
+2010,51510,Alexandria City,Virginia,LL,6.3,16.1
+2010,51515,Bedford City,Virginia,ML,7.3,17.7
+2010,51520,Bristol City,Virginia,LL,7,18
+2010,51530,Buena Vista City,Virginia,LL,7,17.2
+2010,51540,Charlottesville City,Virginia,LL,7,16.4
+2010,51550,Chesapeake City,Virginia,HM,8.3,25.2
+2010,51570,Colonial Heights City,Virginia,ML,7.3,16.5
+2010,51580,Covington City,Virginia,ML,7.4,17.4
+2010,51590,Danville City,Virginia,HM,8.9,21.3
+2010,51595,Emporia City,Virginia,HL,8.6,17.9
+2010,51600,Fairfax City,Virginia,LM,7,21.3
+2010,51610,Falls Church City,Virginia,ML,7.3,17.1
+2010,51620,Franklin City,Virginia,HL,8.5,18.1
+2010,51630,Fredericksburg City,Virginia,ML,7.5,17.5
+2010,51640,Galax City,Virginia,ML,7.2,17.4
+2010,51650,Hampton City,Virginia,HH,11,35.4
+2010,51660,Harrisonburg City,Virginia,LL,7,17.6
+2010,51670,Hopewell City,Virginia,HM,9,20.7
+2010,51678,Lexington City,Virginia,ML,7.3,17.4
+2010,51680,Lynchburg City,Virginia,HM,8.6,20.8
+2010,51683,Manassas City,Virginia,ML,8,16.8
+2010,51685,Manassas Park City,Virginia,ML,7.6,17.3
+2010,51690,Martinsville City,Virginia,HL,8.7,17.3
+2010,51700,Newport News City,Virginia,HH,10.5,31
+2010,51710,Norfolk City,Virginia,HH,9.4,30.6
+2010,51720,Norton City,Virginia,LL,7.1,17.6
+2010,51730,Petersburg City,Virginia,HM,11.5,24.7
+2010,51735,Poquoson City,Virginia,LL,6.9,17.3
+2010,51740,Portsmouth City,Virginia,HH,11.7,39.8
+2010,51750,Radford City,Virginia,ML,7.6,19.2
+2010,51760,Richmond City,Virginia,HM,9.8,25.6
+2010,51770,Roanoke City,Virginia,HH,9.7,32.9
+2010,51775,Salem City,Virginia,ML,7.2,17.8
+2010,51790,Staunton City,Virginia,ML,7.2,17
+2010,51800,Suffolk City,Virginia,HH,10.1,27.7
+2010,51810,Virginia Beach City,Virginia,MM,7.4,23.1
+2010,51820,Waynesboro City,Virginia,ML,7.4,18.1
+2010,51830,Williamsburg City,Virginia,ML,7.8,20
+2010,51840,Winchester City,Virginia,LL,7,18.5
+2010,53001,Adams County,Washington,HH,10.3,37.8
+2010,53003,Asotin County,Washington,HH,8.9,26.8
+2010,53005,Benton County,Washington,HH,8.7,31.8
+2010,53007,Chelan County,Washington,LM,7,24.8
+2010,53009,Clallam County,Washington,HM,8.4,26
+2010,53011,Clark County,Washington,HH,8.4,28.4
+2010,53013,Columbia County,Washington,MM,7.6,21
+2010,53015,Cowlitz County,Washington,HH,9.1,36.1
+2010,53017,Douglas County,Washington,MH,8,26.4
+2010,53019,Ferry County,Washington,LL,6.4,19.3
+2010,53021,Franklin County,Washington,HH,10.2,29.2
+2010,53023,Garfield County,Washington,MH,7.4,27.1
+2010,53025,Grant County,Washington,HH,8.7,32
+2010,53027,Grays Harbor County,Washington,HH,10.1,30.5
+2010,53029,Island County,Washington,MM,7.8,26.1
+2010,53031,Jefferson County,Washington,LM,6.7,24.4
+2010,53033,King County,Washington,LM,6.3,22
+2010,53035,Kitsap County,Washington,LH,7,29.1
+2010,53037,Kittitas County,Washington,LM,6.8,25
+2010,53039,Klickitat County,Washington,LM,7.1,25.8
+2010,53041,Lewis County,Washington,HH,8.5,31.7
+2010,53043,Lincoln County,Washington,LH,6.5,26.9
+2010,53045,Mason County,Washington,MH,7.8,31.3
+2010,53047,Okanogan County,Washington,MM,8.1,26
+2010,53049,Pacific County,Washington,HH,10,32.1
+2010,53051,Pend Oreille County,Washington,MH,7.3,29
+2010,53053,Pierce County,Washington,HH,9.4,30.6
+2010,53055,San Juan County,Washington,LL,4.3,17
+2010,53057,Skagit County,Washington,LM,6.4,25.9
+2010,53059,Skamania County,Washington,LM,7,25.1
+2010,53061,Snohomish County,Washington,MH,7.6,28
+2010,53063,Spokane County,Washington,MH,7.9,27.2
+2010,53065,Stevens County,Washington,MM,7.2,25.6
+2010,53067,Thurston County,Washington,MH,8.1,27.3
+2010,53069,Wahkiakum County,Washington,MM,7.8,23.2
+2010,53071,Walla Walla County,Washington,MH,8.2,27
+2010,53073,Whatcom County,Washington,LM,6.6,24.4
+2010,53075,Whitman County,Washington,MH,8.2,26.4
+2010,53077,Yakima County,Washington,HH,8.8,32.4
+2010,54001,Barbour County,West Virginia,MM,7.3,24.6
+2010,54003,Berkeley County,West Virginia,HH,9.1,27.9
+2010,54005,Boone County,West Virginia,HH,9.6,30.3
+2010,54007,Braxton County,West Virginia,HH,10.4,29.4
+2010,54009,Brooke County,West Virginia,HH,11.2,31
+2010,54011,Cabell County,West Virginia,HH,11,30.9
+2010,54013,Calhoun County,West Virginia,LL,6.9,18.3
+2010,54015,Clay County,West Virginia,MM,7.3,20.7
+2010,54017,Doddridge County,West Virginia,LL,7.1,18.1
+2010,54019,Fayette County,West Virginia,HH,10.4,31
+2010,48425,Somervell County,Texas,LL,7,17.3
+2010,48427,Starr County,Texas,MH,7.8,28.1
+2010,48429,Stephens County,Texas,LL,6.8,17.5
+2010,48431,Sterling County,Texas,LL,6.8,17.2
+2010,48433,Stonewall County,Texas,LL,7.1,17.2
+2010,48435,Sutton County,Texas,LL,6.9,17.3
+2010,48437,Swisher County,Texas,ML,7.3,17
+2010,48439,Tarrant County,Texas,HH,8.6,27.6
+2010,48441,Taylor County,Texas,MM,8.1,22.9
+2010,48443,Terrell County,Texas,LL,7,17.2
+2010,48445,Terry County,Texas,LL,7.1,17.3
+2010,48447,Throckmorton County,Texas,LL,6.9,17
+2010,48449,Titus County,Texas,LM,7,21.7
+2010,48451,Tom Green County,Texas,ML,7.9,20.1
+2010,48237,Jack County,Texas,LL,7.1,17.2
+2010,48239,Jackson County,Texas,LL,6.6,19
+2010,48241,Jasper County,Texas,HM,8.3,20.3
+2010,48243,Jeff Davis County,Texas,LL,7,17.6
+2010,48245,Jefferson County,Texas,HH,10.8,27.6
+2010,48247,Jim Hogg County,Texas,LL,7,16.9
+2010,48249,Jim Wells County,Texas,ML,7.4,19.4
+2010,48251,Johnson County,Texas,HM,9.9,25
+2010,48253,Jones County,Texas,ML,7.3,18.6
+2010,48255,Karnes County,Texas,ML,7.5,16.2
+2010,48257,Kaufman County,Texas,MM,7.6,25.9
+2010,48259,Kendall County,Texas,LL,6.6,16.2
+2010,48261,Kenedy County,Texas,LL,7,17.4
+2010,48263,Kent County,Texas,LL,7.1,16.9
+2010,48265,Kerr County,Texas,MM,8.2,22.6
+2010,51031,Campbell County,Virginia,MM,7.9,24.6
+2010,51033,Caroline County,Virginia,HM,8.9,21
+2010,51035,Carroll County,Virginia,HM,8.9,24.6
+2010,51036,Charles City County,Virginia,HL,8.7,17.4
+2010,51037,Charlotte County,Virginia,ML,7.5,18.1
+2010,51041,Chesterfield County,Virginia,HM,8.4,23.2
+2010,51043,Clarke County,Virginia,LL,6.8,18.3
+2010,51045,Craig County,Virginia,LL,6.8,17.1
+2010,51047,Culpeper County,Virginia,MH,8.2,28.2
+2010,51049,Cumberland County,Virginia,ML,7.9,17.8
+2010,51051,Dickenson County,Virginia,MM,8.2,25.9
+2010,51053,Dinwiddie County,Virginia,MM,7.8,22.6
+2010,51057,Essex County,Virginia,ML,8.2,19
+2010,51059,Fairfax County,Virginia,ML,7.2,19.9
+2010,51061,Fauquier County,Virginia,MM,7.2,22.9
+2010,51063,Floyd County,Virginia,MM,8.2,22.5
+2010,51065,Fluvanna County,Virginia,ML,7.4,18.8
+2010,51067,Franklin County,Virginia,MH,7.7,26.9
+2010,51069,Frederick County,Virginia,MM,7.4,25.3
+2010,51071,Giles County,Virginia,MM,8.1,21.4
+2010,51073,Gloucester County,Virginia,MM,7.6,25.3
+2010,51075,Goochland County,Virginia,ML,7.8,19.1
+2010,51077,Grayson County,Virginia,MM,8.1,21.2
+2010,51079,Greene County,Virginia,LL,6.8,17.3
+2010,51081,Greensville County,Virginia,HM,9.2,21.7
+2010,51083,Halifax County,Virginia,HH,10.6,28.8
+2010,51085,Hanover County,Virginia,LM,7.1,22.1
+2010,51087,Henrico County,Virginia,HM,8.3,25.8
+2010,51089,Henry County,Virginia,HM,9.3,23
+2010,51091,Highland County,Virginia,LL,6.9,17.1
+2010,51093,Isle Of Wight County,Virginia,HM,11.1,25.8
+2010,47039,Decatur County,Tennessee,LL,6.8,17.5
+2010,47041,Dekalb County,Tennessee,LM,7.1,23.2
+2010,47043,Dickson County,Tennessee,MM,7.8,21.2
+2010,47045,Dyer County,Tennessee,HH,8.9,27.6
+2010,47047,Fayette County,Tennessee,HM,9.4,24.8
+2010,47049,Fentress County,Tennessee,MH,8.2,27.8
+2010,47051,Franklin County,Tennessee,LM,6.6,25.6
+2010,47053,Gibson County,Tennessee,HH,8.7,30.8
+2010,47055,Giles County,Tennessee,MH,7.3,27.7
+2010,47057,Grainger County,Tennessee,LL,6.6,20.1
+2010,47059,Greene County,Tennessee,HM,8.6,26
+2010,47061,Grundy County,Tennessee,ML,7.3,18.5
+2010,47063,Hamblen County,Tennessee,HM,8.3,24
+2010,47065,Hamilton County,Tennessee,HH,8.7,27.7
+2010,47067,Hancock County,Tennessee,LL,6.8,17.6
+2010,47069,Hardeman County,Tennessee,HH,8.5,29.2
+2010,47071,Hardin County,Tennessee,MM,7.2,22
+2010,47073,Hawkins County,Tennessee,HH,9.4,29.6
+2010,47075,Haywood County,Tennessee,HM,9,24.8
+2010,47077,Henderson County,Tennessee,LH,6.9,28.4
+2010,47079,Henry County,Tennessee,HH,8.8,27.8
+2010,47081,Hickman County,Tennessee,HM,8.3,26.1
+2010,47083,Houston County,Tennessee,LL,6.9,16.9
+2010,47085,Humphreys County,Tennessee,ML,8.2,18.4
+2010,47087,Jackson County,Tennessee,ML,7.6,18.9
+2010,47089,Jefferson County,Tennessee,MM,8,22.8
+2010,47091,Johnson County,Tennessee,HM,8.9,25.2
+2010,47093,Knox County,Tennessee,HH,9,28.8
+2010,47095,Lake County,Tennessee,ML,7.7,17.8
+2010,48267,Kimble County,Texas,LL,7,16.9
+2010,48269,King County,Texas,LL,7,17.3
+2010,48271,Kinney County,Texas,LL,7,17
+2010,48273,Kleberg County,Texas,LL,7,19
+2010,48275,Knox County,Texas,LL,7.1,17.4
+2010,48277,Lamar County,Texas,ML,7.7,17
+2010,48279,Lamb County,Texas,LL,6.9,16.9
+2010,48281,Lampasas County,Texas,LL,6.8,17.2
+2010,48283,La Salle County,Texas,LL,6.9,17.6
+2010,48285,Lavaca County,Texas,LL,6.5,18.9
+2010,48287,Lee County,Texas,LL,7.1,18
+2010,48289,Leon County,Texas,HM,8.4,22.8
+2010,48291,Liberty County,Texas,MM,8,24.5
+2010,48293,Limestone County,Texas,ML,7.7,16.9
+2010,48295,Lipscomb County,Texas,LL,7.1,17.6
+2010,48297,Live Oak County,Texas,LL,7.1,17.2
+2010,48299,Llano County,Texas,ML,7.9,18.9
+2010,48301,Loving County,Texas,ML,7.2,17.1
+2010,48303,Lubbock County,Texas,HH,8.6,27.5
+2010,48305,Lynn County,Texas,LL,7,16.9
+2010,48307,Mcculloch County,Texas,LL,7,17.1
+2010,48309,Mclennan County,Texas,HM,8.7,23.8
+2010,48311,Mcmullen County,Texas,ML,7.2,17.4
+2010,48313,Madison County,Texas,ML,7.3,17
+2010,48315,Marion County,Texas,ML,7.7,18.1
+2010,48317,Martin County,Texas,LL,7,17.6
+2010,48319,Mason County,Texas,LL,6.8,17
+2010,48321,Matagorda County,Texas,ML,8,17.7
+2010,48323,Maverick County,Texas,HH,10.3,33.4
+2010,48325,Medina County,Texas,ML,7.4,17.5
+2010,48327,Menard County,Texas,LL,6.9,17.3
+2010,48329,Midland County,Texas,MM,7.8,24.6
+2010,48331,Milam County,Texas,MM,8.1,23.4
+2010,48333,Mills County,Texas,LL,7,16.7
+2010,48335,Mitchell County,Texas,ML,7.3,17.2
+2010,48337,Montague County,Texas,ML,7.4,19.2
+2010,48339,Montgomery County,Texas,MM,8,25.2
+2010,48341,Moore County,Texas,LL,6.6,19.3
+2010,48343,Morris County,Texas,ML,7.8,18.6
+2010,48345,Motley County,Texas,LL,7,17.5
+2010,48347,Nacogdoches County,Texas,ML,7.2,18.8
+2010,48349,Navarro County,Texas,MM,7.3,24.4
+2010,48351,Newton County,Texas,ML,7.7,18
+2010,48353,Nolan County,Texas,LL,6.9,17
+2010,48355,Nueces County,Texas,HH,8.6,27.6
+2010,48357,Ochiltree County,Texas,LL,6.9,17
+2010,48359,Oldham County,Texas,LL,7,17.6
+2010,48361,Orange County,Texas,HM,9,20.3
+2010,48363,Palo Pinto County,Texas,ML,7.2,17.2
+2010,48365,Panola County,Texas,ML,7.7,19.5
+2010,48367,Parker County,Texas,HH,9.9,29.9
+2010,48369,Parmer County,Texas,LL,6.9,17.2
+2010,48371,Pecos County,Texas,HH,8.9,26.9
+2010,48373,Polk County,Texas,HH,8.6,27.2
+2010,48375,Potter County,Texas,HH,8.6,32.2
+2010,48377,Presidio County,Texas,LL,6.9,16.6
+2010,48379,Rains County,Texas,LL,7.1,18
+2010,48381,Randall County,Texas,HM,8.4,24.1
+2010,48383,Reagan County,Texas,LL,7,17.4
+2010,48385,Real County,Texas,LL,7.1,17.1
+2010,48387,Red River County,Texas,MM,7.4,23.6
+2010,48389,Reeves County,Texas,ML,7.3,17.7
+2010,48391,Refugio County,Texas,LL,6.9,17.4
+2010,48393,Roberts County,Texas,LL,6.8,17.5
+2010,45049,Hampton County,South Carolina,HH,13.3,39.8
+2010,45051,Horry County,South Carolina,HH,9.8,27.5
+2010,45053,Jasper County,South Carolina,HH,11.1,39
+2010,45055,Kershaw County,South Carolina,MH,7.8,26.7
+2010,45057,Lancaster County,South Carolina,HH,9,28.1
+2010,45059,Laurens County,South Carolina,HH,11.1,35.7
+2010,45061,Lee County,South Carolina,HH,10.8,32.5
+2010,45063,Lexington County,South Carolina,HH,8.3,29.9
+2010,45065,Mccormick County,South Carolina,HM,9.1,22.4
+2010,45067,Marion County,South Carolina,HH,11.5,34.7
+2010,45069,Marlboro County,South Carolina,HH,11.3,39.5
+2010,45071,Newberry County,South Carolina,HH,8.5,28.8
+2010,45073,Oconee County,South Carolina,HH,8.4,29.8
+2010,45075,Orangeburg County,South Carolina,HH,13.7,39.3
+2010,45077,Pickens County,South Carolina,MM,8,24.1
+2010,45079,Richland County,South Carolina,HH,11,30.9
+2010,45081,Saluda County,South Carolina,HM,9.6,23.6
+2010,45083,Spartanburg County,South Carolina,HH,9.2,28.3
+2010,45085,Sumter County,South Carolina,HH,12.8,35.2
+2010,45087,Union County,South Carolina,HH,11,31.9
+2010,45089,Williamsburg County,South Carolina,HH,12.7,40.1
+2010,45091,York County,South Carolina,HH,8.5,27.4
+2010,46003,Aurora County,South Dakota,LL,6.9,18.8
+2010,46005,Beadle County,South Dakota,LH,5.5,28.4
+2010,46007,Bennett County,South Dakota,MM,8.2,22.7
+2010,46009,Bon Homme County,South Dakota,ML,7.3,19.6
+2010,46011,Brookings County,South Dakota,LM,6.1,23.8
+2010,46013,Brown County,South Dakota,LH,6.8,29.1
+2010,46015,Brule County,South Dakota,LM,6.8,21.6
+2010,46017,Buffalo County,South Dakota,HM,9.8,22.2
+2010,46019,Butte County,South Dakota,ML,7.4,20
+2010,46021,Campbell County,South Dakota,LL,7.1,18.1
+2010,46023,Charles Mix County,South Dakota,MM,7.7,26.1
+2010,46025,Clark County,South Dakota,LM,7.1,21
+2010,46027,Clay County,South Dakota,LH,6.1,26.5
+2010,46029,Codington County,South Dakota,LH,6.7,27
+2010,46031,Corson County,South Dakota,HM,9,25.5
+2010,46033,Custer County,South Dakota,LM,6.8,20.3
+2010,46035,Davison County,South Dakota,MM,7.3,23.4
+2010,46037,Day County,South Dakota,LL,6.9,18.9
+2010,46039,Deuel County,South Dakota,LL,7.1,19
+2010,46041,Dewey County,South Dakota,HH,10,29.1
+2010,46043,Douglas County,South Dakota,LM,7,22.5
+2010,46045,Edmunds County,South Dakota,LM,6.9,21.1
+2010,46047,Fall River County,South Dakota,ML,7.3,20
+2010,46049,Faulk County,South Dakota,LL,7,17.4
+2010,46051,Grant County,South Dakota,ML,7.9,19
+2010,46053,Gregory County,South Dakota,MM,7.5,21.9
+2010,46055,Haakon County,South Dakota,LL,6.9,19
+2010,46057,Hamlin County,South Dakota,ML,7.2,18.9
+2010,46059,Hand County,South Dakota,LM,7.1,20.5
+2010,46061,Hanson County,South Dakota,LL,6.8,17
+2010,46063,Harding County,South Dakota,LL,6.8,18.2
+2010,46065,Hughes County,South Dakota,HH,8.4,26.8
+2010,46067,Hutchinson County,South Dakota,LL,6.9,20.2
+2010,46069,Hyde County,South Dakota,MM,7.3,21.2
+2010,46071,Jackson County,South Dakota,HM,8.6,20.9
+2010,48107,Crosby County,Texas,LL,6.8,17.3
+2010,48109,Culberson County,Texas,LL,7,17.2
+2010,48111,Dallam County,Texas,LL,7,17.1
+2010,48113,Dallas County,Texas,HH,10.1,30.8
+2010,48115,Dawson County,Texas,ML,7.5,19.1
+2010,48117,Deaf Smith County,Texas,LL,7,17.7
+2010,48119,Delta County,Texas,ML,7.3,17
+2010,48121,Denton County,Texas,MH,8.1,27.8
+2010,48123,Dewitt County,Texas,LL,6.8,15.7
+2010,48125,Dickens County,Texas,LL,7.1,18
+2010,48127,Dimmit County,Texas,LL,6.9,17.4
+2010,40077,Latimer County,Oklahoma,ML,7.6,18.1
+2010,40079,Le Flore County,Oklahoma,HH,8.8,29.6
+2010,40081,Lincoln County,Oklahoma,HH,9.4,26.5
+2010,40083,Logan County,Oklahoma,HH,10,29.2
+2010,40085,Love County,Oklahoma,ML,7.6,17.4
+2010,40087,Mcclain County,Oklahoma,HH,9.2,30
+2010,40089,Mccurtain County,Oklahoma,HH,9,29.7
+2010,40091,Mcintosh County,Oklahoma,HH,8.4,30.1
+2010,40093,Major County,Oklahoma,LL,6.8,18
+2010,40095,Marshall County,Oklahoma,MH,7.7,26.2
+2010,40097,Mayes County,Oklahoma,HH,10.8,31.9
+2010,40099,Murray County,Oklahoma,MM,7.9,20.9
+2010,40101,Muskogee County,Oklahoma,HH,9.6,28.5
+2010,40103,Noble County,Oklahoma,ML,7.2,18.9
+2010,40105,Nowata County,Oklahoma,ML,7.8,18.6
+2010,40107,Okfuskee County,Oklahoma,ML,7.9,17.1
+2010,40109,Oklahoma County,Oklahoma,HH,9.7,29.7
+2010,40111,Okmulgee County,Oklahoma,HH,9.3,27.8
+2010,40113,Osage County,Oklahoma,HH,8.3,26.5
+2010,40115,Ottawa County,Oklahoma,HH,9.5,30.3
+2010,40117,Pawnee County,Oklahoma,HH,10.6,26.5
+2010,40119,Payne County,Oklahoma,MM,8.2,26
+2010,40121,Pittsburg County,Oklahoma,HH,10.8,29
+2010,40123,Pontotoc County,Oklahoma,HH,9.5,29.3
+2010,40125,Pottawatomie County,Oklahoma,HH,8.7,32.1
+2010,40127,Pushmataha County,Oklahoma,ML,7.8,18.9
+2010,40129,Roger Mills County,Oklahoma,LL,7.1,18
+2010,40131,Rogers County,Oklahoma,HH,9.7,28.3
+2010,40133,Seminole County,Oklahoma,HH,8.8,30.6
+2010,40135,Sequoyah County,Oklahoma,HH,12.3,33.1
+2010,40137,Stephens County,Oklahoma,MM,7.8,25.3
+2010,40139,Texas County,Oklahoma,LM,7,23.4
+2010,40141,Tillman County,Oklahoma,ML,7.8,17.8
+2010,40143,Tulsa County,Oklahoma,HH,9.4,29.2
+2010,40145,Wagoner County,Oklahoma,HH,11,27.8
+2010,40147,Washington County,Oklahoma,MH,7.6,27.3
+2010,40149,Washita County,Oklahoma,ML,7.2,16.7
+2010,40151,Woods County,Oklahoma,LL,7.1,17.8
+2010,40153,Woodward County,Oklahoma,MH,7.6,26.4
+2010,41001,Baker County,Oregon,ML,7.3,19.9
+2010,41003,Benton County,Oregon,LM,6.2,21.4
+2010,41005,Clackamas County,Oregon,MH,7.9,26.6
+2010,41007,Clatsop County,Oregon,MM,7.5,24.1
+2010,41009,Columbia County,Oregon,MM,7.9,25.6
+2010,41011,Coos County,Oregon,LH,6.9,28.3
+2010,41013,Crook County,Oregon,MM,7.4,21.2
+2010,41015,Curry County,Oregon,MH,7.8,27
+2010,41017,Deschutes County,Oregon,LL,6,19.1
+2010,41019,Douglas County,Oregon,HH,9.6,31.5
+2010,41021,Gilliam County,Oregon,LL,6.9,17
+2010,46073,Jerauld County,South Dakota,LL,6.6,17.4
+2010,46075,Jones County,South Dakota,LL,6.9,19.2
+2010,46077,Kingsbury County,South Dakota,LL,6.3,18.8
+2010,46079,Lake County,South Dakota,LM,6.7,20.6
+2010,46081,Lawrence County,South Dakota,LM,5.8,20.6
+2010,46083,Lincoln County,South Dakota,LM,5.6,23.9
+2010,46085,Lyman County,South Dakota,MM,8.1,23.5
+2010,46087,Mccook County,South Dakota,LL,6.8,16.3
+2010,46089,Mcpherson County,South Dakota,LL,6.9,19.9
+2010,46091,Marshall County,South Dakota,ML,7.7,17.6
+2010,46093,Meade County,South Dakota,HM,8.3,23.9
+2010,46095,Mellette County,South Dakota,HL,8.5,19.4
+2010,46097,Miner County,South Dakota,LL,7,18
+2010,46099,Minnehaha County,South Dakota,LH,6.7,27.4
+2010,46101,Moody County,South Dakota,LL,7.1,19.3
+2010,46103,Pennington County,South Dakota,MM,7.5,25.7
+2010,46105,Perkins County,South Dakota,ML,7.2,19
+2010,46107,Potter County,South Dakota,LL,6.6,17.9
+2010,46109,Roberts County,South Dakota,MM,7.7,22.8
+2010,46111,Sanborn County,South Dakota,LL,7,18.5
+2010,46113,Shannon County,South Dakota,HH,11.8,28.3
+2010,46115,Spink County,South Dakota,LM,7,21.7
+2010,39017,Butler County,Ohio,HH,10.6,29.5
+2010,39019,Carroll County,Ohio,LM,6.6,21.9
+2010,39021,Champaign County,Ohio,LH,7.1,27.4
+2010,39023,Clark County,Ohio,HH,8.4,26.5
+2010,39025,Clermont County,Ohio,MM,7.8,25.9
+2010,39027,Clinton County,Ohio,MM,7.8,20.8
+2010,39029,Columbiana County,Ohio,HH,9.9,31.8
+2010,39031,Coshocton County,Ohio,MM,8.1,25.2
+2010,39033,Crawford County,Ohio,HH,8.3,31.1
+2010,39035,Cuyahoga County,Ohio,HH,9.1,27.1
+2010,39037,Darke County,Ohio,MM,7.5,25.7
+2010,39039,Defiance County,Ohio,MM,7.6,20.9
+2010,39041,Delaware County,Ohio,MM,7.3,23.2
+2010,39043,Erie County,Ohio,MM,7.8,22.4
+2010,39045,Fairfield County,Ohio,HH,8.7,29
+2010,39047,Fayette County,Ohio,MM,7.3,21.6
+2010,39049,Franklin County,Ohio,HH,10,30
+2010,39051,Fulton County,Ohio,HM,8.8,22.9
+2010,39053,Gallia County,Ohio,HH,8.3,28.5
+2010,39055,Geauga County,Ohio,LL,6.2,17.6
+2010,39057,Greene County,Ohio,MM,7.7,23
+2010,39059,Guernsey County,Ohio,MM,7.4,24.5
+2010,39061,Hamilton County,Ohio,HH,9.2,27.7
+2010,39063,Hancock County,Ohio,LM,6.8,25.3
+2010,39065,Hardin County,Ohio,MM,7.5,21.9
+2010,39067,Harrison County,Ohio,HM,9.3,21.9
+2010,39069,Henry County,Ohio,LH,6.8,26.4
+2010,39071,Highland County,Ohio,MM,7.8,21.2
+2010,39073,Hocking County,Ohio,HH,8.4,28.5
+2010,39075,Holmes County,Ohio,LM,6.5,21.4
+2010,39077,Huron County,Ohio,MH,7.6,27
+2010,39079,Jackson County,Ohio,MM,8.2,25.1
+2010,39081,Jefferson County,Ohio,HH,10.9,36.1
+2010,39083,Knox County,Ohio,HM,8.8,24
+2010,39085,Lake County,Ohio,HM,9.4,25.6
+2010,39087,Lawrence County,Ohio,HH,10.3,32.7
+2010,39089,Licking County,Ohio,HH,10.7,31.5
+2010,39091,Logan County,Ohio,HM,8.7,23.3
+2010,39093,Lorain County,Ohio,HH,9.6,29.6
+2010,39095,Lucas County,Ohio,HH,9.9,31.1
+2010,39097,Madison County,Ohio,HH,9,26.3
+2010,39099,Mahoning County,Ohio,HH,9.3,29.2
+2010,39101,Marion County,Ohio,HH,8.4,27.5
+2010,39103,Medina County,Ohio,MM,8.2,24
+2010,39105,Meigs County,Ohio,MM,7.9,24.6
+2010,39107,Mercer County,Ohio,ML,7.7,19.4
+2010,39109,Miami County,Ohio,HM,8.6,25.4
+2010,39111,Monroe County,Ohio,MM,7.3,25.7
+2010,39113,Montgomery County,Ohio,HH,10.4,29.6
+2010,39115,Morgan County,Ohio,MM,7.5,22
+2010,39117,Morrow County,Ohio,LM,7,25.1
+2010,39119,Muskingum County,Ohio,HM,8.7,24
+2010,39121,Noble County,Ohio,LM,7.1,22.5
+2010,39123,Ottawa County,Ohio,MH,7.5,26.6
+2010,39125,Paulding County,Ohio,LM,6.5,20.8
+2010,39127,Perry County,Ohio,HH,8.8,28.9
+2010,39129,Pickaway County,Ohio,HH,8.8,28.8
+2010,39131,Pike County,Ohio,HM,8.7,20.7
+2010,39133,Portage County,Ohio,MH,7.4,26.5
+2010,39135,Preble County,Ohio,MM,7.3,23.6
+2010,39137,Putnam County,Ohio,LM,6.4,21.2
+2010,39139,Richland County,Ohio,MH,7.7,28.1
+2010,39141,Ross County,Ohio,MH,8.1,26.3
+2010,39143,Sandusky County,Ohio,HH,8.4,28.4
+2010,39145,Scioto County,Ohio,HH,8.6,31.3
+2010,39147,Seneca County,Ohio,LM,6.9,22
+2010,39149,Shelby County,Ohio,MM,7.6,21.6
+2010,39151,Stark County,Ohio,HH,9.1,31.1
+2010,39153,Summit County,Ohio,HH,9.2,29
+2010,39155,Trumbull County,Ohio,LH,7.1,28.3
+2010,39157,Tuscarawas County,Ohio,MH,7.4,30.8
+2010,39159,Union County,Ohio,MH,7.5,31.7
+2010,39161,Van Wert County,Ohio,MM,7.6,24.7
+2010,39163,Vinton County,Ohio,MM,7.6,21.7
+2010,39165,Warren County,Ohio,MM,7.6,21.3
+2010,39167,Washington County,Ohio,MH,8.2,28.7
+2010,39169,Wayne County,Ohio,LH,6.9,26.6
+2010,39171,Williams County,Ohio,MM,7.6,21.7
+2010,39173,Wood County,Ohio,MH,7.5,26.3
+2010,39175,Wyandot County,Ohio,ML,7.7,18.4
+2010,40001,Adair County,Oklahoma,HM,9.6,26
+2010,40003,Alfalfa County,Oklahoma,ML,7.3,17.2
+2010,40005,Atoka County,Oklahoma,HM,9.2,23.2
+2010,40007,Beaver County,Oklahoma,LL,6.7,17.6
+2010,40009,Beckham County,Oklahoma,HH,8.3,31.5
+2010,40011,Blaine County,Oklahoma,LL,6.9,19.9
+2010,40013,Bryan County,Oklahoma,HH,8.6,27.5
+2010,40015,Caddo County,Oklahoma,HH,8.3,27.6
+2010,40017,Canadian County,Oklahoma,HH,9.9,29.4
+2010,37001,Alamance County,North Carolina,HH,10.2,32.1
+2010,37003,Alexander County,North Carolina,ML,7.6,19.1
+2010,37005,Alleghany County,North Carolina,LL,7,17
+2010,37007,Anson County,North Carolina,HM,9.7,24
+2010,37009,Ashe County,North Carolina,LL,6.9,19.6
+2010,37011,Avery County,North Carolina,MM,7.9,21.9
+2010,37013,Beaufort County,North Carolina,HH,8.4,28.3
+2010,37015,Bertie County,North Carolina,HL,9.2,20
+2010,37017,Bladen County,North Carolina,HH,11.2,29.6
+2010,37019,Brunswick County,North Carolina,MM,7.8,26.1
+2010,37021,Buncombe County,North Carolina,HM,8.3,23.4
+2010,37023,Burke County,North Carolina,HH,10.1,27.6
+2010,37025,Cabarrus County,North Carolina,HH,9,30.7
+2010,37027,Caldwell County,North Carolina,HH,8.5,27.8
+2010,37029,Camden County,North Carolina,ML,7.5,19.8
+2010,37031,Carteret County,North Carolina,MM,7.3,23.1
+2010,37033,Caswell County,North Carolina,HM,8.7,22.8
+2010,37035,Catawba County,North Carolina,MM,7.9,24.9
+2010,37037,Chatham County,North Carolina,LM,6.9,20.3
+2010,37039,Cherokee County,North Carolina,HM,8.7,24.6
+2010,37041,Chowan County,North Carolina,MM,8.1,20.5
+2010,37043,Clay County,North Carolina,LL,7,17.1
+2010,37045,Cleveland County,North Carolina,HH,11,27.7
+2010,37047,Columbus County,North Carolina,HH,9.4,28
+2010,37049,Craven County,North Carolina,HH,9.2,30.7
+2010,37051,Cumberland County,North Carolina,HH,12.6,31.8
+2010,37053,Currituck County,North Carolina,LM,6.9,24.7
+2010,37055,Dare County,North Carolina,LL,6.8,19.9
+2010,37057,Davidson County,North Carolina,HH,8.5,27.2
+2010,37059,Davie County,North Carolina,MM,7.4,21
+2010,37061,Duplin County,North Carolina,HH,10.2,31.9
+2010,37063,Durham County,North Carolina,HH,8.8,29
+2010,37065,Edgecombe County,North Carolina,HM,9.3,23.5
+2010,37067,Forsyth County,North Carolina,HM,8.6,24.2
+2010,37069,Franklin County,North Carolina,MM,7.5,25.6
+2010,37071,Gaston County,North Carolina,HM,9.2,24.4
+2010,37073,Gates County,North Carolina,MM,8.2,21.5
+2010,37075,Graham County,North Carolina,ML,7.5,17.5
+2010,37077,Granville County,North Carolina,HM,8.8,23.3
+2010,37079,Greene County,North Carolina,HL,8.6,19.8
+2010,37081,Guilford County,North Carolina,HH,9.8,27.2
+2010,37083,Halifax County,North Carolina,HH,10.5,30
+2010,37085,Harnett County,North Carolina,HH,8.3,29.7
+2010,37087,Haywood County,North Carolina,MM,7.6,23.5
+2010,37089,Henderson County,North Carolina,LM,7.1,20.8
+2010,37091,Hertford County,North Carolina,HM,8.4,24.6
+2010,37093,Hoke County,North Carolina,HH,11.8,32
+2010,37095,Hyde County,North Carolina,ML,8,18.6
+2010,37097,Iredell County,North Carolina,MH,7.6,27.6
+2010,37099,Jackson County,North Carolina,HH,10.4,29.4
+2010,37101,Johnston County,North Carolina,HH,11.4,33.6
+2010,37103,Jones County,North Carolina,ML,8.1,19.8
+2010,37105,Lee County,North Carolina,HM,8.6,24.4
+2010,37107,Lenoir County,North Carolina,HH,10.6,26.6
+2010,37109,Lincoln County,North Carolina,HM,8.3,23.2
+2010,37111,Mcdowell County,North Carolina,HH,10.9,30.6
+2010,37113,Macon County,North Carolina,LM,6.8,21.2
+2010,37115,Madison County,North Carolina,HM,8.3,24.3
+2010,37117,Martin County,North Carolina,HL,8.9,20.2
+2010,37119,Mecklenburg County,North Carolina,HM,8.7,25.9
+2010,37121,Mitchell County,North Carolina,MM,7.2,25
+2010,37123,Montgomery County,North Carolina,HM,9.2,21
+2010,37125,Moore County,North Carolina,MM,7.2,22.3
+2010,37127,Nash County,North Carolina,HH,9.8,28.1
+2010,37129,New Hanover County,North Carolina,HM,10.1,24
+2010,37131,Northampton County,North Carolina,HM,8.8,22.2
+2010,37133,Onslow County,North Carolina,HH,9.3,28.7
+2010,37135,Orange County,North Carolina,LM,6,20.8
+2010,37137,Pamlico County,North Carolina,ML,7.3,16.6
+2010,37139,Pasquotank County,North Carolina,HL,8.7,18.9
+2010,37141,Pender County,North Carolina,HM,9.6,23.8
+2010,40019,Carter County,Oklahoma,HH,8.3,33.3
+2010,40021,Cherokee County,Oklahoma,HH,9.4,33
+2010,40023,Choctaw County,Oklahoma,HM,9.1,23.5
+2010,40025,Cimarron County,Oklahoma,LL,6.8,17
+2010,40027,Cleveland County,Oklahoma,MH,8.1,28.1
+2010,40029,Coal County,Oklahoma,ML,7.2,17
+2010,40031,Comanche County,Oklahoma,HH,9.5,31.2
+2010,40033,Cotton County,Oklahoma,ML,7.4,18.9
+2010,40035,Craig County,Oklahoma,HH,8.6,26.3
+2010,40037,Creek County,Oklahoma,HH,9.4,33.9
+2010,40039,Custer County,Oklahoma,MH,7.7,26.3
+2010,40041,Delaware County,Oklahoma,HH,10.6,28.6
+2010,40043,Dewey County,Oklahoma,LL,7.1,18.5
+2010,40045,Ellis County,Oklahoma,LL,6.7,17.4
+2010,40047,Garfield County,Oklahoma,MH,7.4,30
+2010,40049,Garvin County,Oklahoma,HM,8.4,25.5
+2010,40051,Grady County,Oklahoma,LH,7,37.3
+2010,40053,Grant County,Oklahoma,LL,7,17.7
+2010,40055,Greer County,Oklahoma,LL,7.1,16.9
+2010,40057,Harmon County,Oklahoma,LL,7,18
+2010,40059,Harper County,Oklahoma,ML,7.3,17.6
+2010,40061,Haskell County,Oklahoma,ML,7.3,19.6
+2010,40063,Hughes County,Oklahoma,HM,8.5,22.3
+2010,40065,Jackson County,Oklahoma,HH,9.5,29.2
+2010,40067,Jefferson County,Oklahoma,ML,7.6,18.2
+2010,40069,Johnston County,Oklahoma,ML,7.2,18.4
+2010,40071,Kay County,Oklahoma,HH,10.6,32.8
+2010,40073,Kingfisher County,Oklahoma,HM,8.8,25.6
+2010,40075,Kiowa County,Oklahoma,ML,7.3,18.7
+2010,32009,Esmeralda County,Nevada,LL,7,17
+2010,32011,Eureka County,Nevada,LL,7,17.5
+2010,32013,Humboldt County,Nevada,LM,6.8,26
+2010,32015,Lander County,Nevada,ML,7.2,18.4
+2010,32017,Lincoln County,Nevada,ML,7.8,18.6
+2010,32019,Lyon County,Nevada,MH,7.5,28.3
+2010,32021,Mineral County,Nevada,MM,8,21
+2010,32023,Nye County,Nevada,MH,7.9,30.2
+2010,32027,Pershing County,Nevada,ML,7.3,19.4
+2010,32029,Storey County,Nevada,LL,6.9,16.9
+2010,32031,Washoe County,Nevada,LM,6.3,21.8
+2010,32033,White Pine County,Nevada,MM,7.3,20.5
+2010,32510,Carson City,Nevada,LM,7.1,20.6
+2010,33001,Belknap County,New Hampshire,MM,7.9,24.6
+2010,33003,Carroll County,New Hampshire,MM,7.4,24.4
+2010,33005,Cheshire County,New Hampshire,MH,8,26.9
+2010,33007,Coos County,New Hampshire,MH,8.2,30.4
+2010,33009,Grafton County,New Hampshire,LM,7,23.3
+2010,33011,Hillsborough County,New Hampshire,MH,7.9,26.3
+2010,33013,Merrimack County,New Hampshire,LM,6.8,23.7
+2010,33015,Rockingham County,New Hampshire,LM,6.6,25.4
+2010,33017,Strafford County,New Hampshire,MH,8,28.8
+2010,33019,Sullivan County,New Hampshire,LH,7.1,27.4
+2010,34001,Atlantic County,New Jersey,HH,8.5,27.7
+2010,34003,Bergen County,New Jersey,LM,6.4,21.8
+2010,34005,Burlington County,New Jersey,MH,7.9,27.2
+2010,34007,Camden County,New Jersey,HH,9.3,28.3
+2010,34009,Cape May County,New Jersey,HM,8.8,24.4
+2010,34011,Cumberland County,New Jersey,HH,11,34
+2010,34013,Essex County,New Jersey,HM,9.5,25.9
+2010,34015,Gloucester County,New Jersey,HH,9.3,26.8
+2010,34017,Hudson County,New Jersey,HM,8.3,24.1
+2010,37143,Perquimans County,North Carolina,MM,7.8,22.4
+2010,37145,Person County,North Carolina,HH,8.9,27.6
+2010,37147,Pitt County,North Carolina,HH,9.2,35.9
+2010,37149,Polk County,North Carolina,LL,5.8,16.7
+2010,37151,Randolph County,North Carolina,HH,9.3,28.7
+2010,37153,Richmond County,North Carolina,HL,8.5,19.4
+2010,37155,Robeson County,North Carolina,HH,13.2,39.7
+2010,37157,Rockingham County,North Carolina,HH,8.9,29.7
+2010,37159,Rowan County,North Carolina,HH,11.1,31.1
+2010,37161,Rutherford County,North Carolina,HM,9.4,26
+2010,37163,Sampson County,North Carolina,HH,9.2,26.3
+2010,37165,Scotland County,North Carolina,HH,13.3,31.7
+2010,37167,Stanly County,North Carolina,ML,7.9,17.8
+2010,37169,Stokes County,North Carolina,LL,6.7,19.6
+2010,37171,Surry County,North Carolina,HH,10,29.5
+2010,37173,Swain County,North Carolina,HH,12.3,29.2
+2010,37175,Transylvania County,North Carolina,LM,6.5,21.3
+2010,37177,Tyrrell County,North Carolina,ML,8,18
+2010,37179,Union County,North Carolina,MM,7.8,26
+2010,37181,Vance County,North Carolina,HM,10.8,23.2
+2010,37183,Wake County,North Carolina,LM,6.7,24.2
+2010,37185,Warren County,North Carolina,HM,9.1,21.3
+2010,37187,Washington County,North Carolina,HL,8.8,18.2
+2010,37189,Watauga County,North Carolina,HM,10.1,23.1
+2010,37191,Wayne County,North Carolina,HH,10.5,31.6
+2010,37193,Wilkes County,North Carolina,HH,10,29
+2010,37195,Wilson County,North Carolina,HH,9.7,28.7
+2010,37197,Yadkin County,North Carolina,MM,7.4,22.4
+2010,37199,Yancey County,North Carolina,LM,6.7,23
+2010,38001,Adams County,North Dakota,ML,7.3,17.6
+2010,38003,Barnes County,North Dakota,LM,6.8,20.8
+2010,38005,Benson County,North Dakota,ML,8.1,19.2
+2010,38007,Billings County,North Dakota,LL,7,17.1
+2010,38009,Bottineau County,North Dakota,ML,7.5,19.8
+2010,38011,Bowman County,North Dakota,ML,7.3,18.3
+2010,38013,Burke County,North Dakota,LL,7.1,18.8
+2010,38015,Burleigh County,North Dakota,LM,6.7,24
+2010,38017,Cass County,North Dakota,LH,7.1,26.9
+2010,38019,Cavalier County,North Dakota,LL,7.1,19.3
+2010,38021,Dickey County,North Dakota,LL,7.1,19.1
+2010,38023,Divide County,North Dakota,LL,6.8,18.5
+2010,38025,Dunn County,North Dakota,ML,7.8,18.8
+2010,38027,Eddy County,North Dakota,LL,7.1,18
+2010,38029,Emmons County,North Dakota,LL,7,19.1
+2010,38031,Foster County,North Dakota,ML,7.4,17.5
+2010,38033,Golden Valley County,North Dakota,LL,6.7,17.3
+2010,38035,Grand Forks County,North Dakota,LH,7,29.4
+2010,38037,Grant County,North Dakota,LM,6.6,20.7
+2010,38039,Griggs County,North Dakota,LL,6.8,18
+2010,38041,Hettinger County,North Dakota,LL,7,17.8
+2010,38043,Kidder County,North Dakota,ML,7.2,17.1
+2010,38045,Lamoure County,North Dakota,LL,6.4,18.3
+2010,38047,Logan County,North Dakota,LL,6.9,17.6
+2010,38049,Mchenry County,North Dakota,MM,7.7,21.3
+2010,38051,Mcintosh County,North Dakota,LM,6.7,21.4
+2010,38053,Mckenzie County,North Dakota,MM,7.2,20.5
+2010,38055,Mclean County,North Dakota,LM,6.9,22
+2010,38057,Mercer County,North Dakota,LM,7.1,20.9
+2010,38059,Morton County,North Dakota,LH,6.7,28.4
+2010,38061,Mountrail County,North Dakota,MM,7.3,21.5
+2010,38063,Nelson County,North Dakota,ML,7.2,17.5
+2010,38065,Oliver County,North Dakota,ML,7.2,17.3
+2010,38067,Pembina County,North Dakota,MM,7.2,20.8
+2010,38069,Pierce County,North Dakota,LL,7.1,18.7
+2010,38071,Ramsey County,North Dakota,LM,6.6,21.4
+2010,38073,Ransom County,North Dakota,LL,7,19.5
+2010,38075,Renville County,North Dakota,LL,6.8,17.3
+2010,38077,Richland County,North Dakota,LH,5.9,29.3
+2010,34019,Hunterdon County,New Jersey,LL,5.9,19.2
+2010,34021,Mercer County,New Jersey,HM,9,24.1
+2010,34023,Middlesex County,New Jersey,MM,8.1,22.9
+2010,34025,Monmouth County,New Jersey,LM,7.1,21.3
+2010,34027,Morris County,New Jersey,LM,6.7,20.8
+2010,34029,Ocean County,New Jersey,HH,9.2,26.2
+2010,34031,Passaic County,New Jersey,HM,8.3,24.8
+2010,34033,Salem County,New Jersey,HH,10.1,34.9
+2010,34035,Somerset County,New Jersey,LM,5.4,21
+2010,34037,Sussex County,New Jersey,LM,7,25
+2010,34039,Union County,New Jersey,MM,8.2,22
+2010,34041,Warren County,New Jersey,MM,7.7,25.8
+2010,35001,Bernalillo County,New Mexico,LL,6.4,19.7
+2010,35003,Catron County,New Mexico,LL,7.1,16.8
+2010,35005,Chaves County,New Mexico,HH,8.6,31
+2010,35006,Cibola County,New Mexico,HH,12.2,31.7
+2010,35007,Colfax County,New Mexico,MM,7.4,23.1
+2010,35009,Curry County,New Mexico,HH,9.4,28.3
+2010,35011,De Baca County,New Mexico,LL,6.8,16.8
+2010,35013,Doña Ana County,New Mexico,HH,8.5,27.2
+2010,35015,Eddy County,New Mexico,HH,10.6,31.5
+2010,35017,Grant County,New Mexico,MM,7.3,24.8
+2010,35019,Guadalupe County,New Mexico,LL,7.1,17.4
+2010,35021,Harding County,New Mexico,LL,6.8,16.9
+2010,35023,Hidalgo County,New Mexico,LL,6.9,17.2
+2010,35025,Lea County,New Mexico,HH,8.6,33.6
+2010,35027,Lincoln County,New Mexico,LL,6.3,17.9
+2010,35028,Los Alamos County,New Mexico,LL,5.4,16.1
+2010,35029,Luna County,New Mexico,HH,8.5,28.2
+2010,35031,Mckinley County,New Mexico,HH,11.2,34.4
+2010,35033,Mora County,New Mexico,LL,6.8,17.6
+2010,35035,Otero County,New Mexico,HM,8.5,24.2
+2010,35037,Quay County,New Mexico,LM,6.8,20.6
+2010,35039,Rio Arriba County,New Mexico,MM,8.1,24.4
+2010,35041,Roosevelt County,New Mexico,LM,6.4,25.5
+2010,35043,Sandoval County,New Mexico,LM,6.5,23.4
+2010,35045,San Juan County,New Mexico,MH,7.9,28.7
+2010,35047,San Miguel County,New Mexico,MM,7.3,22.9
+2010,35049,Santa Fe County,New Mexico,LL,4.4,15
+2010,35051,Sierra County,New Mexico,MM,7.5,24.3
+2010,35053,Socorro County,New Mexico,MH,7.4,26.3
+2010,35055,Taos County,New Mexico,LL,6.7,19.9
+2010,35057,Torrance County,New Mexico,LM,7.1,25
+2010,35059,Union County,New Mexico,LL,7,17.8
+2010,35061,Valencia County,New Mexico,MH,7.9,27
+2010,36001,Albany County,New York,MM,7.2,23
+2010,36003,Allegany County,New York,MM,7.9,23.8
+2010,36005,Bronx County,New York,HH,9.9,27.5
+2010,36007,Broome County,New York,MH,7.8,29.4
+2010,36009,Cattaraugus County,New York,HM,9.1,25.4
+2010,36011,Cayuga County,New York,ML,8.1,18.3
+2010,36013,Chautauqua County,New York,MM,7.3,23.9
+2010,36015,Chemung County,New York,MM,7.9,24
+2010,36017,Chenango County,New York,LM,6.5,21.8
+2010,36019,Clinton County,New York,LH,6.8,27.2
+2010,36021,Columbia County,New York,LM,6.3,21.2
+2010,36023,Cortland County,New York,LL,6.7,19.3
+2010,36025,Delaware County,New York,MM,7.9,22.7
+2010,36027,Dutchess County,New York,HH,9.2,26.2
+2010,36029,Erie County,New York,HH,9.2,28.4
+2010,36031,Essex County,New York,MM,7.9,22.3
+2010,36033,Franklin County,New York,MM,7.7,21.8
+2010,36035,Fulton County,New York,MM,7.9,22.6
+2010,36037,Genesee County,New York,HM,8.4,21.9
+2010,36039,Greene County,New York,MM,7.3,22.9
+2010,36041,Hamilton County,New York,LL,6.9,17.6
+2010,36043,Herkimer County,New York,MH,7.4,30.1
+2010,36045,Jefferson County,New York,HH,8.5,31.6
+2010,36047,Kings County,New York,HM,10.1,24.3
+2010,36049,Lewis County,New York,MM,7.6,22.3
+2010,36051,Livingston County,New York,MM,7.7,21.7
+2010,36053,Madison County,New York,LM,6.4,21.4
+2010,36055,Monroe County,New York,HH,8.9,30.7
+2010,36057,Montgomery County,New York,LH,6.5,27.5
+2010,36059,Nassau County,New York,LM,6.9,20.4
+2010,36061,New York County,New York,ML,7.3,15.3
+2010,36063,Niagara County,New York,MH,8.2,28
+2010,36065,Oneida County,New York,MH,7.9,27.2
+2010,36067,Onondaga County,New York,MH,7.9,27.4
+2010,36069,Ontario County,New York,LM,7.1,23.6
+2010,36071,Orange County,New York,MM,7.9,24.7
+2010,36073,Orleans County,New York,MH,7.7,26.4
+2010,36075,Oswego County,New York,HH,9.1,34.1
+2010,36077,Otsego County,New York,LH,6.9,27.5
+2010,36079,Putnam County,New York,LH,6,27.3
+2010,36081,Queens County,New York,HM,8.9,21.7
+2010,36083,Rensselaer County,New York,MM,7.7,25.8
+2010,36085,Richmond County,New York,HH,8.4,28.4
+2010,36087,Rockland County,New York,MM,8,21.6
+2010,36089,St. Lawrence County,New York,HH,8.5,29.7
+2010,36091,Saratoga County,New York,LM,6.8,25
+2010,36093,Schenectady County,New York,HM,9,24.8
+2010,36095,Schoharie County,New York,LM,6.6,23
+2010,36097,Schuyler County,New York,LM,6.1,23.2
+2010,36099,Seneca County,New York,LM,6.8,24.3
+2010,36101,Steuben County,New York,HH,8.7,29.8
+2010,36103,Suffolk County,New York,LM,6.7,24.9
+2010,36105,Sullivan County,New York,HM,8.6,21.6
+2010,36107,Tioga County,New York,MH,7.8,26.5
+2010,36109,Tompkins County,New York,LL,6.3,17.5
+2010,30027,Fergus County,Montana,LL,6.6,19.1
+2010,30029,Flathead County,Montana,LL,5.5,19.9
+2010,30031,Gallatin County,Montana,LL,4.7,17
+2010,30033,Garfield County,Montana,LL,6.9,18
+2010,30035,Glacier County,Montana,HM,9.7,24.7
+2010,30037,Golden Valley County,Montana,LL,6.9,17.9
+2010,30039,Granite County,Montana,LL,6.9,17.8
+2010,30041,Hill County,Montana,LH,7.1,31.1
+2010,30043,Jefferson County,Montana,LL,6.8,19
+2010,30045,Judith Basin County,Montana,LL,6.8,17.3
+2010,30047,Lake County,Montana,LH,6.8,26.8
+2010,30049,Lewis And Clark County,Montana,LM,5.9,22.6
+2010,30051,Liberty County,Montana,LL,7,17.8
+2010,30053,Lincoln County,Montana,MH,7.7,26.4
+2010,30055,Mccone County,Montana,LL,6.7,19.1
+2010,30057,Madison County,Montana,LL,6.6,19
+2010,30059,Meagher County,Montana,LL,7,18
+2010,30061,Mineral County,Montana,LL,7,18.3
+2010,30063,Missoula County,Montana,LL,5.2,20
+2010,30065,Musselshell County,Montana,LL,6.7,17.6
+2010,30067,Park County,Montana,LL,4.9,17.8
+2010,30069,Petroleum County,Montana,LL,7,17.6
+2010,30071,Phillips County,Montana,LL,6.9,16.3
+2010,30073,Pondera County,Montana,LL,7.1,19.3
+2010,30075,Powder River County,Montana,LL,7,17.9
+2010,30077,Powell County,Montana,ML,7.6,18.2
+2010,30079,Prairie County,Montana,LL,7.1,18.6
+2010,30081,Ravalli County,Montana,LL,5.3,20.2
+2010,30083,Richland County,Montana,LM,7.1,20.7
+2010,30085,Roosevelt County,Montana,HM,8.9,20.6
+2010,30087,Rosebud County,Montana,MM,7.5,23
+2010,30089,Sanders County,Montana,ML,7.2,18.5
+2010,30091,Sheridan County,Montana,LL,6.7,20
+2010,30093,Silver Bow County,Montana,LM,7,25.2
+2010,30095,Stillwater County,Montana,LL,6.4,18.6
+2010,30097,Sweet Grass County,Montana,LL,6.8,17.3
+2010,30099,Teton County,Montana,LM,6.9,20.5
+2010,30101,Toole County,Montana,LL,6.9,18.2
+2010,30103,Treasure County,Montana,LL,7,17.5
+2010,30105,Valley County,Montana,LM,7.1,20.8
+2010,30107,Wheatland County,Montana,LL,7,18.1
+2010,30109,Wibaux County,Montana,LL,7,17.5
+2010,30111,Yellowstone County,Montana,MH,7.4,28.1
+2010,31001,Adams County,Nebraska,MH,7.5,28.2
+2010,31003,Antelope County,Nebraska,LM,6.8,21.3
+2010,31005,Arthur County,Nebraska,LL,6.8,17.3
+2010,31007,Banner County,Nebraska,LL,6.9,18.3
+2010,31009,Blaine County,Nebraska,LL,6.8,17
+2010,31011,Boone County,Nebraska,LM,6.9,20.4
+2010,31013,Box Butte County,Nebraska,MM,7.2,23.4
+2010,31015,Boyd County,Nebraska,LL,6.6,18.4
+2010,31017,Brown County,Nebraska,LM,7,20.3
+2010,31019,Buffalo County,Nebraska,LH,7,27.7
+2010,31021,Burt County,Nebraska,LM,6.8,23.2
+2010,31023,Butler County,Nebraska,LM,6.6,21.1
+2010,31025,Cass County,Nebraska,MH,7.6,27.9
+2010,31027,Cedar County,Nebraska,LM,6.4,23
+2010,31029,Chase County,Nebraska,LL,6.6,18.8
+2010,31031,Cherry County,Nebraska,LL,6.9,19.7
+2010,31033,Cheyenne County,Nebraska,LL,6.3,19.8
+2010,31035,Clay County,Nebraska,MM,7.2,24.6
+2010,31037,Colfax County,Nebraska,MM,7.6,23
+2010,31039,Cuming County,Nebraska,LM,6.3,20.7
+2010,31041,Custer County,Nebraska,LM,6.5,25
+2010,31043,Dakota County,Nebraska,HH,9.3,33
+2010,31045,Dawes County,Nebraska,LM,6.9,20.8
+2010,31047,Dawson County,Nebraska,HH,8.8,32
+2010,31049,Deuel County,Nebraska,LL,6.6,17.7
+2010,31051,Dixon County,Nebraska,LH,6.5,26.3
+2010,31053,Dodge County,Nebraska,MH,7.7,28.6
+2010,31055,Douglas County,Nebraska,HH,8.3,26.7
+2010,31057,Dundy County,Nebraska,MM,7.6,21
+2010,31059,Fillmore County,Nebraska,LM,6.9,20.7
+2010,31061,Franklin County,Nebraska,ML,7.3,18.6
+2010,31063,Frontier County,Nebraska,LM,6.6,21.7
+2010,31065,Furnas County,Nebraska,MM,7.5,22.9
+2010,31067,Gage County,Nebraska,HH,8.4,31.3
+2010,31069,Garden County,Nebraska,ML,7.7,19.6
+2010,31071,Garfield County,Nebraska,LL,7,18.5
+2010,31073,Gosper County,Nebraska,LL,6.9,17.2
+2010,31075,Grant County,Nebraska,LL,7,17.5
+2010,31077,Greeley County,Nebraska,LM,7,22.5
+2010,31079,Hall County,Nebraska,MH,7.7,29.3
+2010,31081,Hamilton County,Nebraska,LM,6.9,22.9
+2010,31083,Harlan County,Nebraska,LL,6.6,16.8
+2010,31085,Hayes County,Nebraska,LL,6.7,19
+2010,31087,Hitchcock County,Nebraska,MM,7.4,21.6
+2010,31089,Holt County,Nebraska,MM,7.3,23.6
+2010,31091,Hooker County,Nebraska,LL,7,18
+2010,31093,Howard County,Nebraska,LM,6.3,21.2
+2010,31095,Jefferson County,Nebraska,MM,7.3,22.3
+2010,31097,Johnson County,Nebraska,MM,7.2,21.8
+2010,31099,Kearney County,Nebraska,LL,6.5,18
+2010,36111,Ulster County,New York,MM,7.6,24
+2010,36113,Warren County,New York,MH,7.4,26.2
+2010,36115,Washington County,New York,HM,8.7,24.9
+2010,36117,Wayne County,New York,MM,7.7,25.7
+2010,36119,Westchester County,New York,LL,6.6,15.3
+2010,36121,Wyoming County,New York,MM,7.3,24.8
+2010,36123,Yates County,New York,ML,7.3,19.5
+2010,28141,Tishomingo County,Mississippi,HM,8.4,23.4
+2010,28143,Tunica County,Mississippi,HL,8.8,20.1
+2010,28145,Union County,Mississippi,HH,9,27
+2010,28147,Walthall County,Mississippi,HH,9.8,33.9
+2010,28149,Warren County,Mississippi,HH,9.3,34.3
+2010,28151,Washington County,Mississippi,HH,10.8,35.3
+2010,28153,Wayne County,Mississippi,HH,8.6,28.7
+2010,28155,Webster County,Mississippi,ML,7.9,19.9
+2010,28157,Wilkinson County,Mississippi,HL,9.5,19
+2010,28159,Winston County,Mississippi,HH,12.3,28.1
+2010,28161,Yalobusha County,Mississippi,HH,12.3,33.1
+2010,28163,Yazoo County,Mississippi,HH,10.9,29.2
+2010,29001,Adair County,Missouri,MM,8.2,22.6
+2010,29003,Andrew County,Missouri,LM,6.9,26.1
+2010,29005,Atchison County,Missouri,LL,7,17.5
+2010,29007,Audrain County,Missouri,LM,6.3,20.4
+2010,29009,Barry County,Missouri,LM,7,21.8
+2010,29011,Barton County,Missouri,ML,7.3,17.9
+2010,29013,Bates County,Missouri,ML,7.6,19.8
+2010,29015,Benton County,Missouri,MM,8.1,23.6
+2010,29017,Bollinger County,Missouri,LL,6.8,18.3
+2010,29019,Boone County,Missouri,LM,6.3,21.6
+2010,29021,Buchanan County,Missouri,HH,9.9,35.8
+2010,29023,Butler County,Missouri,LM,6.5,25.7
+2010,29025,Caldwell County,Missouri,LL,7.1,18.5
+2010,29027,Callaway County,Missouri,HM,8.6,26.1
+2010,29029,Camden County,Missouri,LL,6.5,18.5
+2010,29031,Cape Girardeau County,Missouri,MM,7.6,21.3
+2010,29033,Carroll County,Missouri,LL,6.9,19.4
+2010,29035,Carter County,Missouri,LL,7,17
+2010,29037,Cass County,Missouri,HH,8.6,31.3
+2010,29039,Cedar County,Missouri,LL,6.8,16.3
+2010,29041,Chariton County,Missouri,ML,7.7,17.4
+2010,29043,Christian County,Missouri,LM,6.4,20.4
+2010,29045,Clark County,Missouri,LL,6.8,18.7
+2010,29047,Clay County,Missouri,HM,8.5,25.5
+2010,29049,Clinton County,Missouri,MM,7.9,24.5
+2010,29051,Cole County,Missouri,MM,7.5,25.3
+2010,29053,Cooper County,Missouri,ML,7.8,18.2
+2010,29055,Crawford County,Missouri,LM,6.2,21.5
+2010,29057,Dade County,Missouri,LL,7.1,17.7
+2010,29059,Dallas County,Missouri,LL,6.5,18.5
+2010,29061,Daviess County,Missouri,ML,7.2,18.5
+2010,29063,Dekalb County,Missouri,LM,6.6,24.6
+2010,29065,Dent County,Missouri,LL,7,20
+2010,29067,Douglas County,Missouri,MM,7.5,20.4
+2010,29069,Dunklin County,Missouri,HM,8.9,26
+2010,29071,Franklin County,Missouri,LM,6.8,24.1
+2010,29073,Gasconade County,Missouri,LM,6.9,20.9
+2010,29075,Gentry County,Missouri,LL,7,18.6
+2010,29077,Greene County,Missouri,MH,8,28.1
+2010,29079,Grundy County,Missouri,LL,6.8,17.1
+2010,29081,Harrison County,Missouri,LL,6.9,19.4
+2010,31101,Keith County,Nebraska,LM,6.8,21.5
+2010,31103,Keya Paha County,Nebraska,LL,6.8,18.3
+2010,31105,Kimball County,Nebraska,LL,7,17.5
+2010,31107,Knox County,Nebraska,LM,7.1,21.3
+2010,31109,Lancaster County,Nebraska,LH,7.1,27.4
+2010,31111,Lincoln County,Nebraska,MH,8,30.2
+2010,31113,Logan County,Nebraska,LL,6.9,17.5
+2010,31115,Loup County,Nebraska,LL,7,18.3
+2010,31117,Mcpherson County,Nebraska,ML,7.2,18.7
+2010,31119,Madison County,Nebraska,LH,6.9,28.9
+2010,31121,Merrick County,Nebraska,LM,7,24.8
+2010,31123,Morrill County,Nebraska,ML,7.5,19.2
+2010,31125,Nance County,Nebraska,LL,6.8,18.2
+2010,31127,Nemaha County,Nebraska,LM,6.7,22.1
+2010,31129,Nuckolls County,Nebraska,LM,7,20.8
+2010,31131,Otoe County,Nebraska,MH,7.4,30.5
+2010,31133,Pawnee County,Nebraska,MM,7.3,21.3
+2010,54065,Morgan County,West Virginia,MM,7.6,23.3
+2010,54067,Nicholas County,West Virginia,HH,8.5,29.9
+2010,54069,Ohio County,West Virginia,HH,8.5,26.3
+2010,54071,Pendleton County,West Virginia,LL,6.7,18.4
+2010,54073,Pleasants County,West Virginia,LL,7.1,17.9
+2010,54075,Pocahontas County,West Virginia,LL,6.9,17.9
+2010,54077,Preston County,West Virginia,MH,7.2,29.9
+2010,54079,Putnam County,West Virginia,HM,8.6,25.8
+2010,54081,Raleigh County,West Virginia,HH,9.8,31.3
+2010,54083,Randolph County,West Virginia,HH,8.3,27.1
+2010,54085,Ritchie County,West Virginia,LL,7.1,18.2
+2010,54087,Roane County,West Virginia,HH,10.4,29.9
+2010,54089,Summers County,West Virginia,MH,7.5,27.1
+2010,54091,Taylor County,West Virginia,MM,7.9,25.5
+2010,54093,Tucker County,West Virginia,LL,7.1,19.6
+2010,54095,Tyler County,West Virginia,LL,6.7,18.1
+2010,54097,Upshur County,West Virginia,HM,9.8,24.8
+2010,54099,Wayne County,West Virginia,HH,9.6,31.5
+2010,54101,Webster County,West Virginia,ML,7.2,19.6
+2010,54103,Wetzel County,West Virginia,MM,8.2,24.9
+2010,54105,Wirt County,West Virginia,ML,7.5,19.6
+2010,54107,Wood County,West Virginia,HH,11.4,30.9
+2010,54109,Wyoming County,West Virginia,HH,12.1,29.6
+2010,55001,Adams County,Wisconsin,MM,7.4,25.9
+2010,55003,Ashland County,Wisconsin,MM,7.5,21.1
+2010,55005,Barron County,Wisconsin,LH,6.7,27.7
+2010,55007,Bayfield County,Wisconsin,LM,6.6,22.4
+2010,55009,Brown County,Wisconsin,HH,8.3,27.7
+2010,55011,Buffalo County,Wisconsin,MM,7.9,26
+2010,55013,Burnett County,Wisconsin,MM,7.2,24.5
+2010,55015,Calumet County,Wisconsin,LM,7,25.9
+2010,55017,Chippewa County,Wisconsin,HH,8.5,29.3
+2010,55019,Clark County,Wisconsin,LM,6.7,25.2
+2010,55021,Columbia County,Wisconsin,MH,7.3,30
+2010,55023,Crawford County,Wisconsin,LM,7.1,25
+2010,55025,Dane County,Wisconsin,LM,5.8,21.9
+2010,55027,Dodge County,Wisconsin,MH,8,32.6
+2010,55029,Door County,Wisconsin,LH,6.4,26.7
+2010,55031,Douglas County,Wisconsin,LM,6.7,20.9
+2010,55033,Dunn County,Wisconsin,LM,6.3,23.9
+2010,55035,Eau Claire County,Wisconsin,LM,6.2,23.9
+2010,55037,Florence County,Wisconsin,LM,6.7,20.8
+2010,55039,Fond Du Lac County,Wisconsin,LH,7.1,27.2
+2010,55041,Forest County,Wisconsin,MM,7.5,20.8
+2010,55043,Grant County,Wisconsin,HM,8.4,24
+2010,55045,Green County,Wisconsin,LM,6.5,21.4
+2010,55047,Green Lake County,Wisconsin,MM,7.8,24.7
+2010,55049,Iowa County,Wisconsin,MH,8,26.4
+2010,55051,Iron County,Wisconsin,LL,7.1,19.3
+2010,55053,Jackson County,Wisconsin,MM,7.6,25.4
+2010,55055,Jefferson County,Wisconsin,MH,7.9,27.2
+2010,55057,Juneau County,Wisconsin,MM,8,23.9
+2010,55059,Kenosha County,Wisconsin,MM,7.7,25.5
+2010,55061,Kewaunee County,Wisconsin,MH,7.4,27
+2010,55063,La Crosse County,Wisconsin,LM,6.6,20.3
+2010,55065,Lafayette County,Wisconsin,LM,6.9,25.7
+2010,55067,Langlade County,Wisconsin,MM,7.4,25.1
+2010,55069,Lincoln County,Wisconsin,MM,7.5,21.4
+2010,55071,Manitowoc County,Wisconsin,MH,7.5,28.3
+2010,55073,Marathon County,Wisconsin,MH,7.4,26.3
+2010,55075,Marinette County,Wisconsin,LH,7.1,27.9
+2010,55077,Marquette County,Wisconsin,LH,6.5,27.3
+2010,51095,James City County,Virginia,LL,6.4,18.7
+2010,51097,King And Queen County,Virginia,ML,7.8,18.1
+2010,51099,King George County,Virginia,ML,7.4,16.9
+2010,51101,King William County,Virginia,LL,6.8,19.8
+2010,51103,Lancaster County,Virginia,ML,7.4,17.6
+2010,51105,Lee County,Virginia,HH,8.9,27
+2010,51107,Loudoun County,Virginia,MM,7.2,21
+2010,51109,Louisa County,Virginia,MM,8.2,25.7
+2010,51111,Lunenburg County,Virginia,HM,10,20.5
+2010,51113,Madison County,Virginia,LM,6.6,22.8
+2010,51115,Mathews County,Virginia,LL,7.1,17.5
+2010,51117,Mecklenburg County,Virginia,HH,9.2,28.6
+2010,51119,Middlesex County,Virginia,ML,7.4,16.8
+2010,51121,Montgomery County,Virginia,LM,6.6,24.7
+2010,51125,Nelson County,Virginia,ML,7.2,16
+2010,51127,New Kent County,Virginia,ML,7.8,19.9
+2010,51131,Northampton County,Virginia,HM,10.2,22.9
+2010,51133,Northumberland County,Virginia,MM,7.4,22.2
+2010,51135,Nottoway County,Virginia,MM,7.9,24.6
+2010,51137,Orange County,Virginia,HH,8.9,28.5
+2010,51139,Page County,Virginia,MM,7.7,25.4
+2010,51141,Patrick County,Virginia,MM,7.8,21.7
+2010,51143,Pittsylvania County,Virginia,HH,9.1,26.9
+2010,51145,Powhatan County,Virginia,ML,7.2,18.4
+2010,51147,Prince Edward County,Virginia,MH,7.9,27.8
+2010,51149,Prince George County,Virginia,HM,12,25
+2010,51153,Prince William County,Virginia,MM,7.9,25.5
+2010,51155,Pulaski County,Virginia,ML,8.2,19.9
+2010,51157,Rappahannock County,Virginia,LL,7,17.3
+2010,51159,Richmond County,Virginia,ML,7.9,17.9
+2010,51161,Roanoke County,Virginia,MM,8.2,24
+2010,51163,Rockbridge County,Virginia,MM,7.4,22.2
+2010,51165,Rockingham County,Virginia,LM,7.1,21.6
+2010,51167,Russell County,Virginia,HH,8.9,27.1
+2010,51169,Scott County,Virginia,LM,7.1,24.4
+2010,51171,Shenandoah County,Virginia,MM,7.7,25.4
+2010,51173,Smyth County,Virginia,LH,6.5,26.7
+2010,51175,Southampton County,Virginia,HM,10.1,20.5
+2010,51177,Spotsylvania County,Virginia,MM,8.1,23.3
+2010,51179,Stafford County,Virginia,LM,6.8,25.3
+2010,51181,Surry County,Virginia,HL,8.4,17.9
+2010,51183,Sussex County,Virginia,HM,9,22.9
+2010,51185,Tazewell County,Virginia,HH,8.6,29.4
+2010,51187,Warren County,Virginia,MM,7.8,21.1
+2010,51191,Washington County,Virginia,HM,8.9,25.1
+2010,55078,Menominee County,Wisconsin,HM,10.1,22.6
+2010,55079,Milwaukee County,Wisconsin,HH,10.2,32.4
+2010,55081,Monroe County,Wisconsin,MM,7.5,23.6
+2010,55083,Oconto County,Wisconsin,LM,6.3,24
+2010,55085,Oneida County,Wisconsin,LM,6.6,23.6
+2010,55087,Outagamie County,Wisconsin,HH,9,27.5
+2010,55089,Ozaukee County,Wisconsin,LM,6.5,21.2
+2010,55091,Pepin County,Wisconsin,MM,7.5,22
+2010,55093,Pierce County,Wisconsin,LM,7,22.2
+2010,55095,Polk County,Wisconsin,LM,6.7,25.9
+2010,55097,Portage County,Wisconsin,LM,6.7,23.4
+2010,55099,Price County,Wisconsin,MM,7.7,25.8
+2010,55101,Racine County,Wisconsin,MH,7.6,27.6
+2010,55103,Richland County,Wisconsin,MM,8.2,25.1
+2010,55105,Rock County,Wisconsin,MH,7.2,28.9
+2010,55107,Rusk County,Wisconsin,MM,7.5,22.4
+2010,55109,St. Croix County,Wisconsin,LM,6.9,23.6
+2010,55111,Sauk County,Wisconsin,HM,8.6,25.2
+2010,55113,Sawyer County,Wisconsin,MM,7.4,20.6
+2010,55115,Shawano County,Wisconsin,MH,8.1,28.3
+2010,55117,Sheboygan County,Wisconsin,MM,7.5,22.9
+2010,55119,Taylor County,Wisconsin,MM,7.4,23.2
+2010,55121,Trempealeau County,Wisconsin,MH,7.2,27.4
+2010,55123,Vernon County,Wisconsin,LM,6.9,21.7
+2010,55125,Vilas County,Wisconsin,LL,5.9,20.2
+2010,55127,Walworth County,Wisconsin,LM,6,21.1
+2010,55129,Washburn County,Wisconsin,HM,8.7,24.6
+2010,55131,Washington County,Wisconsin,LM,6.9,24.3
+2010,55133,Waukesha County,Wisconsin,LM,5.3,22.8
+2010,55135,Waupaca County,Wisconsin,MH,8,27.9
+2010,48453,Travis County,Texas,MM,7.8,24.5
+2010,48455,Trinity County,Texas,ML,8.1,19.6
+2010,48457,Tyler County,Texas,MM,8.2,20.4
+2010,48459,Upshur County,Texas,HM,8.6,22.7
+2010,48461,Upton County,Texas,LL,7,17.5
+2010,48463,Uvalde County,Texas,LL,6.7,17.6
+2010,48465,Val Verde County,Texas,HH,9.6,30.7
+2010,48467,Van Zandt County,Texas,MH,8.2,26.8
+2010,48469,Victoria County,Texas,MM,7.4,23.6
+2010,48471,Walker County,Texas,MM,8,24.3
+2010,48473,Waller County,Texas,LL,7,17.7
+2010,48475,Ward County,Texas,ML,7.2,17.2
+2010,48477,Washington County,Texas,LL,6.9,16.1
+2010,48479,Webb County,Texas,HH,10.7,33.3
+2010,48481,Wharton County,Texas,MM,7.6,22.1
+2010,48483,Wheeler County,Texas,LL,6.8,17.9
+2010,48485,Wichita County,Texas,HH,10.5,30.8
+2010,48487,Wilbarger County,Texas,ML,7.4,17.1
+2010,48489,Willacy County,Texas,LL,6.7,16.7
+2010,48491,Williamson County,Texas,LH,7.1,26.3
+2010,48493,Wilson County,Texas,MM,7.9,21.7
+2010,48495,Winkler County,Texas,LL,7,16.9
+2010,48497,Wise County,Texas,LM,6.1,22
+2010,48499,Wood County,Texas,MM,7.6,22.7
+2010,48501,Yoakum County,Texas,LL,7,17.6
+2010,48503,Young County,Texas,ML,7.3,16.1
+2010,48505,Zapata County,Texas,LL,7.1,17.5
+2010,48507,Zavala County,Texas,LL,6.9,17.3
+2010,49001,Beaver County,Utah,LL,7.1,17.2
+2010,49003,Box Elder County,Utah,MM,7.7,25.2
+2010,49005,Cache County,Utah,LM,6.5,22.9
+2010,49007,Carbon County,Utah,MM,8,23.3
+2010,49009,Daggett County,Utah,LL,7,18.5
+2010,49011,Davis County,Utah,LM,6.8,24.7
+2010,49013,Duchesne County,Utah,HH,8.6,26.4
+2010,49015,Emery County,Utah,LM,6.7,21.4
+2010,49017,Garfield County,Utah,LL,7,17.9
+2010,49019,Grand County,Utah,LL,6.8,16.4
+2010,49021,Iron County,Utah,MM,7.6,23.4
+2010,49023,Juab County,Utah,ML,7.2,19.7
+2010,49025,Kane County,Utah,LL,6.9,17.1
+2010,49027,Millard County,Utah,LL,7.1,17.1
+2010,49029,Morgan County,Utah,LL,7,17.4
+2010,49031,Piute County,Utah,LL,6.9,17.6
+2010,49033,Rich County,Utah,LL,6.9,17.6
+2010,49035,Salt Lake County,Utah,MM,7.5,24.5
+2010,49037,San Juan County,Utah,LH,7.1,26.7
+2010,49039,Sanpete County,Utah,MM,7.2,24.9
+2010,49041,Sevier County,Utah,HM,8.8,25.1
+2010,49043,Summit County,Utah,LL,4,15.5
+2010,49045,Tooele County,Utah,HH,10,27.8
+2010,49047,Uintah County,Utah,MH,8.2,28.4
+2010,49049,Utah County,Utah,MM,7.2,25.7
+2010,49051,Wasatch County,Utah,LM,6.4,22.7
+2010,49053,Washington County,Utah,LM,6.5,23
+2010,49055,Wayne County,Utah,LL,7,16.9
+2010,49057,Weber County,Utah,MH,8.2,27.7
+2010,50001,Addison County,Vermont,LM,5.9,21.5
+2010,50003,Bennington County,Vermont,LM,5.9,22.8
+2010,50005,Caledonia County,Vermont,MM,7.4,24.6
+2010,50007,Chittenden County,Vermont,LL,5.4,20
+2010,50009,Essex County,Vermont,LL,6.1,18
+2010,50011,Franklin County,Vermont,MH,7.8,28
+2010,50013,Grand Isle County,Vermont,LL,6.4,18.9
+2010,50015,Lamoille County,Vermont,MM,7.2,25.9
+2010,50017,Orange County,Vermont,MH,7.2,27.1
+2010,50019,Orleans County,Vermont,LH,7.1,28.5
+2010,50021,Rutland County,Vermont,LH,6.9,29.1
+2010,50023,Washington County,Vermont,LM,6.1,21.5
+2010,50025,Windham County,Vermont,LM,5.4,22.1
+2010,50027,Windsor County,Vermont,LM,6.7,23.3
+2010,51001,Accomack County,Virginia,HH,10.1,30.7
+2010,51003,Albemarle County,Virginia,MM,8.2,25.3
+2010,51005,Alleghany County,Virginia,LL,6.5,19.4
+2010,51007,Amelia County,Virginia,MM,7.7,23.8
+2010,51009,Amherst County,Virginia,ML,8.1,20
+2010,51011,Appomattox County,Virginia,MM,8.2,21.4
+2010,51013,Arlington County,Virginia,LL,5.5,15.5
+2010,51015,Augusta County,Virginia,MM,7.3,21.6
+2010,51017,Bath County,Virginia,LL,6.9,17.3
+2010,51019,Bedford County,Virginia,LL,6.3,20.2
+2010,51021,Bland County,Virginia,ML,7.2,17.3
+2010,51023,Botetourt County,Virginia,MM,7.7,22
+2010,51025,Brunswick County,Virginia,HM,10.3,22.1
+2010,51027,Buchanan County,Virginia,HM,9.7,25.2
+2010,51029,Buckingham County,Virginia,HL,8.6,19.4
+2010,48129,Donley County,Texas,LL,7.1,17.3
+2010,48131,Duval County,Texas,LL,6.8,17.1
+2010,48133,Eastland County,Texas,ML,7.4,17.5
+2010,48135,Ector County,Texas,HH,9.2,32.8
+2010,48137,Edwards County,Texas,LL,6.9,17.3
+2010,48139,Ellis County,Texas,MM,7.2,21.8
+2010,48141,El Paso County,Texas,HM,9.4,25.2
+2010,48143,Erath County,Texas,ML,7.9,16.5
+2010,48145,Falls County,Texas,ML,7.8,17.8
+2010,48147,Fannin County,Texas,MM,7.2,21.1
+2010,48149,Fayette County,Texas,LL,7,17.4
+2010,48151,Fisher County,Texas,LL,6.9,17.4
+2010,48153,Floyd County,Texas,LL,6.9,17.5
+2010,48155,Foard County,Texas,LL,7,17.2
+2010,48157,Fort Bend County,Texas,HM,8.6,25
+2010,48159,Franklin County,Texas,LL,7,16.9
+2010,48161,Freestone County,Texas,ML,7.6,17.5
+2010,48163,Frio County,Texas,LL,6.6,17
+2010,48165,Gaines County,Texas,LM,7.1,24.6
+2010,48167,Galveston County,Texas,HM,8.6,25.2
+2010,48169,Garza County,Texas,LL,7.1,17.5
+2010,48171,Gillespie County,Texas,LL,6.8,17.8
+2010,48173,Glasscock County,Texas,LL,6.9,17.1
+2010,48175,Goliad County,Texas,LL,7,17.3
+2010,48177,Gonzales County,Texas,LL,6.9,18.9
+2010,48179,Gray County,Texas,HM,9.7,23
+2010,48181,Grayson County,Texas,ML,7.7,19.5
+2010,48183,Gregg County,Texas,HH,10.2,31.6
+2010,48185,Grimes County,Texas,LM,7.1,22.6
+2010,48187,Guadalupe County,Texas,LH,7.1,27.4
+2010,48189,Hale County,Texas,MM,7.8,25.4
+2010,48191,Hall County,Texas,LL,7.1,17.5
+2010,48193,Hamilton County,Texas,LL,6.9,17.8
+2010,48195,Hansford County,Texas,LL,7.1,17.6
+2010,48197,Hardeman County,Texas,LL,6.9,17
+2010,48199,Hardin County,Texas,HM,10,25.3
+2010,48201,Harris County,Texas,HH,9,28.9
+2010,48203,Harrison County,Texas,HH,8.7,30.4
+2010,48205,Hartley County,Texas,ML,7.3,17.4
+2010,48207,Haskell County,Texas,LL,7,17.6
+2010,48209,Hays County,Texas,MH,7.3,26.5
+2010,48211,Hemphill County,Texas,LL,6.9,16.4
+2010,48213,Henderson County,Texas,ML,7.6,18.7
+2010,48215,Hidalgo County,Texas,HH,11.2,34
+2010,48217,Hill County,Texas,MM,7.3,24.2
+2010,48219,Hockley County,Texas,LM,6.9,24.4
+2010,48221,Hood County,Texas,LM,7,23.4
+2010,48223,Hopkins County,Texas,HH,8.7,26.8
+2010,48225,Houston County,Texas,MM,7.8,20.4
+2010,48227,Howard County,Texas,ML,7.7,17.9
+2010,48229,Hudspeth County,Texas,LL,7.1,17.4
+2010,48231,Hunt County,Texas,HM,8.8,22.5
+2010,48233,Hutchinson County,Texas,LL,6.8,17.9
+2010,48235,Irion County,Texas,LL,7.1,17
+2010,48395,Robertson County,Texas,ML,7.7,18.9
+2010,48397,Rockwall County,Texas,LL,6.9,16.1
+2010,48399,Runnels County,Texas,LL,7.1,17.4
+2010,48401,Rusk County,Texas,MM,7.2,25.3
+2010,48403,Sabine County,Texas,LL,7,17
+2010,48405,San Augustine County,Texas,ML,7.3,17.3
+2010,48407,San Jacinto County,Texas,LL,6.9,17.5
+2010,47097,Lauderdale County,Tennessee,HH,9.8,29.5
+2010,47099,Lawrence County,Tennessee,HM,8.9,23.8
+2010,47101,Lewis County,Tennessee,LL,7,16.9
+2010,47103,Lincoln County,Tennessee,LH,6.9,29.1
+2010,47105,Loudon County,Tennessee,HM,8.6,21.7
+2010,47107,Mcminn County,Tennessee,MH,8.1,26.9
+2010,47109,Mcnairy County,Tennessee,MH,8,30.7
+2010,47111,Macon County,Tennessee,HM,9.2,24
+2010,47113,Madison County,Tennessee,HH,10.1,33.8
+2010,47115,Marion County,Tennessee,LM,7,23.5
+2010,47117,Marshall County,Tennessee,LM,6.7,21.4
+2010,47119,Maury County,Tennessee,HH,8.4,27.5
+2010,47121,Meigs County,Tennessee,LL,6.8,18.8
+2010,47123,Monroe County,Tennessee,HH,8.4,26.8
+2010,47125,Montgomery County,Tennessee,HH,10.9,28.3
+2010,47127,Moore County,Tennessee,LL,6.9,17.2
+2010,47129,Morgan County,Tennessee,LL,6.6,18.3
+2010,47131,Obion County,Tennessee,HH,8.6,28.1
+2010,47133,Overton County,Tennessee,LM,7.1,24.7
+2010,47135,Perry County,Tennessee,LL,7,19
+2010,47137,Pickett County,Tennessee,LL,6.9,17.3
+2010,47139,Polk County,Tennessee,HH,8.4,26.5
+2010,47141,Putnam County,Tennessee,MH,7.3,28.3
+2010,47143,Rhea County,Tennessee,LH,7.1,27.7
+2010,47145,Roane County,Tennessee,HH,9.6,30.2
+2010,47147,Robertson County,Tennessee,HM,8.6,22.2
+2010,47149,Rutherford County,Tennessee,HM,8.4,24.7
+2010,47151,Scott County,Tennessee,LL,6.9,18.9
+2010,47153,Sequatchie County,Tennessee,ML,7.2,20.2
+2010,47155,Sevier County,Tennessee,HH,8.7,26.6
+2010,47157,Shelby County,Tennessee,HH,11.2,33.3
+2010,47159,Smith County,Tennessee,MM,8.1,23.3
+2010,47161,Stewart County,Tennessee,LL,7,18.2
+2010,47163,Sullivan County,Tennessee,HH,10.9,33.7
+2010,47165,Sumner County,Tennessee,MM,7.6,23.3
+2010,47167,Tipton County,Tennessee,HH,9.7,30.1
+2010,47169,Trousdale County,Tennessee,LL,7.1,17.5
+2010,47171,Unicoi County,Tennessee,MM,7.8,25.8
+2010,47173,Union County,Tennessee,LM,7,21.7
+2010,47175,Van Buren County,Tennessee,LL,6.9,17.5
+2010,47177,Warren County,Tennessee,MH,8.1,28.2
+2010,47179,Washington County,Tennessee,HH,8.9,27.5
+2010,47181,Wayne County,Tennessee,MM,7.4,22
+2010,47183,Weakley County,Tennessee,MM,7.7,25
+2010,47185,White County,Tennessee,MM,7.5,25.7
+2010,47187,Williamson County,Tennessee,LL,6.6,16.9
+2010,47189,Wilson County,Tennessee,MM,7.3,23.5
+2010,48001,Anderson County,Texas,MM,8.2,25.5
+2010,48003,Andrews County,Texas,LL,6.9,17.4
+2010,48005,Angelina County,Texas,HM,9.4,24.5
+2010,48007,Aransas County,Texas,ML,7.3,18.7
+2010,48009,Archer County,Texas,LL,7.1,18.4
+2010,48011,Armstrong County,Texas,LL,7,17.6
+2010,48013,Atascosa County,Texas,LL,6.9,17.8
+2010,48015,Austin County,Texas,LM,6.8,21.9
+2010,48017,Bailey County,Texas,LL,6.9,17.2
+2010,48019,Bandera County,Texas,HM,8.4,24.6
+2010,48021,Bastrop County,Texas,MM,7.8,23.9
+2010,48023,Baylor County,Texas,ML,7.2,17.4
+2010,48025,Bee County,Texas,ML,7.4,18.5
+2010,48027,Bell County,Texas,HM,8.8,23.6
+2010,48029,Bexar County,Texas,HH,9.4,30.1
+2010,48031,Blanco County,Texas,LL,7,16.7
+2010,48033,Borden County,Texas,LL,7,17.3
+2010,48035,Bosque County,Texas,LL,6.7,15.5
+2010,48037,Bowie County,Texas,MM,7.5,26
+2010,48039,Brazoria County,Texas,MM,8.2,23.4
+2010,48041,Brazos County,Texas,MH,7.7,27.4
+2010,48043,Brewster County,Texas,LL,7.1,17.6
+2010,48045,Briscoe County,Texas,LL,7,17.2
+2010,48047,Brooks County,Texas,LL,6.9,16.8
+2010,48049,Brown County,Texas,MM,7.6,22.5
+2010,48051,Burleson County,Texas,MM,7.2,20.9
+2010,48053,Burnet County,Texas,MM,7.7,21.1
+2010,48055,Caldwell County,Texas,ML,7.5,18.9
+2010,48057,Calhoun County,Texas,MM,7.3,20.9
+2010,48059,Callahan County,Texas,LL,6.5,18.8
+2010,48061,Cameron County,Texas,HH,9.3,29.5
+2010,48063,Camp County,Texas,ML,7.5,17.5
+2010,48065,Carson County,Texas,ML,7.5,18.1
+2010,48067,Cass County,Texas,HM,8.4,22.6
+2010,48069,Castro County,Texas,LL,7.1,16.9
+2010,48071,Chambers County,Texas,LL,6.7,18.4
+2010,48073,Cherokee County,Texas,HM,9.5,25.6
+2010,48075,Childress County,Texas,ML,7.3,17.5
+2010,48077,Clay County,Texas,LL,6.8,20.1
+2010,48079,Cochran County,Texas,LL,7.1,17.3
+2010,48081,Coke County,Texas,LL,6.7,17.8
+2010,48083,Coleman County,Texas,LL,6.8,16.8
+2010,48085,Collin County,Texas,LM,6.3,22.8
+2010,48087,Collingsworth County,Texas,ML,7.2,17.4
+2010,48089,Colorado County,Texas,LL,7,17
+2010,48091,Comal County,Texas,MM,7.5,21.6
+2010,48093,Comanche County,Texas,LL,6.8,15.8
+2010,48095,Concho County,Texas,ML,7.2,17.6
+2010,48097,Cooke County,Texas,MM,7.6,25.1
+2010,48099,Coryell County,Texas,HL,9.2,19.4
+2010,48101,Cottle County,Texas,LL,7,17.1
+2010,48103,Crane County,Texas,LL,7.1,17.1
+2010,48105,Crockett County,Texas,LL,6.9,17.3
+2010,42129,Westmoreland County,Pennsylvania,HH,8.3,28.5
+2010,42131,Wyoming County,Pennsylvania,LM,6.2,25.3
+2010,42133,York County,Pennsylvania,HH,8.6,31.6
+2010,44001,Bristol County,Rhode Island,LM,4.7,20.6
+2010,44003,Kent County,Rhode Island,MH,7.8,26.8
+2010,44005,Newport County,Rhode Island,LM,6.4,22
+2010,44007,Providence County,Rhode Island,HH,8.5,27.9
+2010,44009,Washington County,Rhode Island,LM,5.5,20.4
+2010,45001,Abbeville County,South Carolina,HH,10.9,31.1
+2010,45003,Aiken County,South Carolina,HH,9.7,32
+2010,45005,Allendale County,South Carolina,HL,9.3,20
+2010,45007,Anderson County,South Carolina,HH,9.3,28.9
+2010,45009,Bamberg County,South Carolina,HH,10.4,36.4
+2010,45011,Barnwell County,South Carolina,HH,10.2,31.6
+2010,45013,Beaufort County,South Carolina,LM,6.6,20.9
+2010,45015,Berkeley County,South Carolina,HH,11.4,35.8
+2010,45017,Calhoun County,South Carolina,HH,11,37.7
+2010,45019,Charleston County,South Carolina,HH,9.6,27.1
+2010,45021,Cherokee County,South Carolina,HM,9.1,25.8
+2010,45023,Chester County,South Carolina,HM,8.6,20.3
+2010,45025,Chesterfield County,South Carolina,HH,9.2,26.2
+2010,45027,Clarendon County,South Carolina,HH,12,31.2
+2010,45029,Colleton County,South Carolina,HH,11.4,31.7
+2010,45031,Darlington County,South Carolina,HH,12.3,32.2
+2010,45033,Dillon County,South Carolina,HH,9.7,37.1
+2010,45035,Dorchester County,South Carolina,HH,9.3,26.8
+2010,45037,Edgefield County,South Carolina,HH,8.9,33.3
+2010,45039,Fairfield County,South Carolina,HH,12.5,33.7
+2010,45041,Florence County,South Carolina,HH,11.1,31.1
+2010,45043,Georgetown County,South Carolina,HH,9.4,33.8
+2010,45045,Greenville County,South Carolina,HH,9.1,27.9
+2010,45047,Greenwood County,South Carolina,HH,8.4,31.4
+2010,46117,Stanley County,South Dakota,LM,7,21
+2010,46119,Sully County,South Dakota,MM,7.3,21.5
+2010,46121,Todd County,South Dakota,HH,10,27
+2010,46123,Tripp County,South Dakota,LM,6.9,25.6
+2010,46125,Turner County,South Dakota,LL,7,19.6
+2010,46127,Union County,South Dakota,LM,5.6,23.9
+2010,46129,Walworth County,South Dakota,MM,7.6,21.2
+2010,46135,Yankton County,South Dakota,LH,7,29.4
+2010,46137,Ziebach County,South Dakota,HM,10.2,23.4
+2010,47001,Anderson County,Tennessee,MM,7.8,24.1
+2010,47003,Bedford County,Tennessee,HH,9,30.4
+2010,47005,Benton County,Tennessee,HH,8.9,26.3
+2010,47007,Bledsoe County,Tennessee,HM,8.4,21.5
+2010,47009,Blount County,Tennessee,MH,7.9,27.3
+2010,47011,Bradley County,Tennessee,HM,10.5,24.2
+2010,47013,Campbell County,Tennessee,MM,8.2,26
+2010,47015,Cannon County,Tennessee,LL,6.8,20
+2010,47017,Carroll County,Tennessee,MH,8.2,30.2
+2010,47019,Carter County,Tennessee,HH,8.5,28.4
+2010,47021,Cheatham County,Tennessee,LM,6.7,20.9
+2010,47023,Chester County,Tennessee,MM,7.4,24.2
+2010,47025,Claiborne County,Tennessee,MM,7.8,20.9
+2010,47027,Clay County,Tennessee,LL,6.9,17.1
+2010,47029,Cocke County,Tennessee,HM,8.6,23.3
+2010,47031,Coffee County,Tennessee,HH,9.5,27.2
+2010,47033,Crockett County,Tennessee,HM,8.6,22.2
+2010,47035,Cumberland County,Tennessee,MM,7.3,20.6
+2010,47037,Davidson County,Tennessee,HH,9,28
+2010,38079,Rolette County,North Dakota,HM,9.6,23.7
+2010,38081,Sargent County,North Dakota,LL,7,18.5
+2010,38083,Sheridan County,North Dakota,LL,6.9,18.5
+2010,38085,Sioux County,North Dakota,HM,9.8,20.5
+2010,38087,Slope County,North Dakota,LL,6.9,17.1
+2010,38089,Stark County,North Dakota,MH,8,27
+2010,38091,Steele County,North Dakota,ML,7.3,19.1
+2010,38093,Stutsman County,North Dakota,MH,7.5,27.6
+2010,38095,Towner County,North Dakota,LL,7,18.4
+2010,38097,Traill County,North Dakota,LM,6.9,20.3
+2010,38099,Walsh County,North Dakota,LM,6.7,21.1
+2010,41023,Grant County,Oregon,ML,7.4,17.6
+2010,41025,Harney County,Oregon,LL,7,17.9
+2010,41027,Hood River County,Oregon,LL,6.6,16.5
+2010,41029,Jackson County,Oregon,LM,6.1,22.1
+2010,41031,Jefferson County,Oregon,MM,7.2,23.4
+2010,41033,Josephine County,Oregon,HM,8.7,24
+2010,41035,Klamath County,Oregon,LH,7.1,26.9
+2010,41037,Lake County,Oregon,ML,7.2,17.5
+2010,41039,Lane County,Oregon,MH,7.3,26.6
+2010,41041,Lincoln County,Oregon,MM,7.7,24.5
+2010,41043,Linn County,Oregon,MH,7.5,28.8
+2010,41045,Malheur County,Oregon,LM,7,22.9
+2010,41047,Marion County,Oregon,MH,8,31.5
+2010,41049,Morrow County,Oregon,LL,6.9,18.1
+2010,41051,Multnomah County,Oregon,MM,7.5,24.4
+2010,41053,Polk County,Oregon,MH,8,27.7
+2010,41055,Sherman County,Oregon,LL,7.1,17.3
+2010,41057,Tillamook County,Oregon,LM,7.1,25.2
+2010,41059,Umatilla County,Oregon,HH,8.3,34.1
+2010,41061,Union County,Oregon,LM,7.1,23.5
+2010,41063,Wallowa County,Oregon,LL,6.9,18.2
+2010,41065,Wasco County,Oregon,MH,8,32.8
+2010,41067,Washington County,Oregon,LM,5.8,24.1
+2010,41069,Wheeler County,Oregon,LL,6.9,16.9
+2010,41071,Yamhill County,Oregon,LM,5.7,25.1
+2010,42001,Adams County,Pennsylvania,HM,8.7,21.9
+2010,42003,Allegheny County,Pennsylvania,HH,8.4,28.7
+2010,42005,Armstrong County,Pennsylvania,MH,7.8,31.3
+2010,42007,Beaver County,Pennsylvania,HH,8.9,28.5
+2010,42009,Bedford County,Pennsylvania,HH,8.9,27.2
+2010,42011,Berks County,Pennsylvania,MH,7.3,27.1
+2010,42013,Blair County,Pennsylvania,MH,8,29.6
+2010,42015,Bradford County,Pennsylvania,MH,7.3,32.5
+2010,42017,Bucks County,Pennsylvania,MM,7.8,21.5
+2010,42019,Butler County,Pennsylvania,MM,8.2,25.5
+2010,42021,Cambria County,Pennsylvania,HH,11.2,35.2
+2010,42023,Cameron County,Pennsylvania,LL,6.8,17.6
+2010,42025,Carbon County,Pennsylvania,HH,8.8,27.5
+2010,42027,Centre County,Pennsylvania,LM,6.5,23.4
+2010,42029,Chester County,Pennsylvania,LL,6.7,18.1
+2010,42031,Clarion County,Pennsylvania,HH,9,27.9
+2010,42033,Clearfield County,Pennsylvania,MM,7.5,25.2
+2010,42035,Clinton County,Pennsylvania,LH,6.7,31.6
+2010,42037,Columbia County,Pennsylvania,MH,7.8,35.2
+2010,42039,Crawford County,Pennsylvania,HH,9.1,26.4
+2010,42041,Cumberland County,Pennsylvania,MM,7.6,24.1
+2010,42043,Dauphin County,Pennsylvania,HH,9.5,32.6
+2010,42045,Delaware County,Pennsylvania,MM,8.1,25.5
+2010,42047,Elk County,Pennsylvania,HH,9.7,27.1
+2010,42049,Erie County,Pennsylvania,HH,8.7,26.6
+2010,42051,Fayette County,Pennsylvania,HH,10.6,34.6
+2010,42053,Forest County,Pennsylvania,ML,7.4,17.7
+2010,42055,Franklin County,Pennsylvania,HH,8.5,30.5
+2010,42057,Fulton County,Pennsylvania,ML,7.3,17.9
+2010,42059,Greene County,Pennsylvania,MM,7.3,24.4
+2010,42061,Huntingdon County,Pennsylvania,MH,7.7,27.8
+2010,42063,Indiana County,Pennsylvania,MH,7.6,26.9
+2010,42065,Jefferson County,Pennsylvania,HH,10.4,26.5
+2010,42067,Juniata County,Pennsylvania,MM,8.1,24.3
+2010,42069,Lackawanna County,Pennsylvania,MM,8.1,23.2
+2010,42071,Lancaster County,Pennsylvania,HH,8.8,28.3
+2010,42073,Lawrence County,Pennsylvania,MH,8.1,26.3
+2010,42075,Lebanon County,Pennsylvania,MH,7.8,29.4
+2010,42077,Lehigh County,Pennsylvania,HH,8.6,29.1
+2010,42079,Luzerne County,Pennsylvania,HH,8.5,29.8
+2010,42081,Lycoming County,Pennsylvania,HH,8.6,30.3
+2010,42083,Mckean County,Pennsylvania,HH,8.8,29.6
+2010,42085,Mercer County,Pennsylvania,HH,9.6,27.5
+2010,42087,Mifflin County,Pennsylvania,HM,8.8,25.9
+2010,42089,Monroe County,Pennsylvania,HH,8.3,27.9
+2010,42091,Montgomery County,Pennsylvania,LM,7,23.8
+2010,42093,Montour County,Pennsylvania,HM,8.6,23.9
+2010,42095,Northampton County,Pennsylvania,LH,6.7,28.3
+2010,42097,Northumberland County,Pennsylvania,MH,7.2,31.6
+2010,42099,Perry County,Pennsylvania,MH,7.9,27.4
+2010,42101,Philadelphia County,Pennsylvania,HH,11.3,31.4
+2010,42103,Pike County,Pennsylvania,MM,7.5,25.6
+2010,42105,Potter County,Pennsylvania,MH,8.2,28.7
+2010,42107,Schuylkill County,Pennsylvania,MH,7.9,29.5
+2010,42109,Snyder County,Pennsylvania,HH,9.3,28.9
+2010,42111,Somerset County,Pennsylvania,HH,8.6,28.4
+2010,42113,Sullivan County,Pennsylvania,LL,7,18.6
+2010,42115,Susquehanna County,Pennsylvania,HM,10.1,25.3
+2010,42117,Tioga County,Pennsylvania,MH,8.1,31.3
+2010,42119,Union County,Pennsylvania,MM,8.1,22.3
+2010,42121,Venango County,Pennsylvania,LH,6.8,27.9
+2010,42123,Warren County,Pennsylvania,HM,8.3,24.2
+2010,42125,Washington County,Pennsylvania,HM,8.7,24.6
+2010,42127,Wayne County,Pennsylvania,MM,7.4,23.9
+2010,38101,Ward County,North Dakota,MH,8.2,29.7
+2010,38103,Wells County,North Dakota,LL,6.7,19
+2010,38105,Williams County,North Dakota,LH,6.9,27
+2010,39001,Adams County,Ohio,LM,7,24.7
+2010,39003,Allen County,Ohio,MH,7.9,33.5
+2010,39005,Ashland County,Ohio,HM,8.3,22.9
+2010,39007,Ashtabula County,Ohio,MH,7.9,26.5
+2010,39009,Athens County,Ohio,HH,8.9,27.8
+2010,39011,Auglaize County,Ohio,MH,7.8,30.3
+2010,39013,Belmont County,Ohio,HH,8.6,27.5
+2010,39015,Brown County,Ohio,HH,9,28
+2010,31135,Perkins County,Nebraska,LL,6.7,17
+2010,31137,Phelps County,Nebraska,LM,6.4,20.5
+2010,31139,Pierce County,Nebraska,LM,6.6,21.7
+2010,31141,Platte County,Nebraska,LH,6.7,26.8
+2010,31143,Polk County,Nebraska,MM,7.5,24.7
+2010,31145,Red Willow County,Nebraska,LM,6.7,25
+2010,31147,Richardson County,Nebraska,LH,7,26.4
+2010,31149,Rock County,Nebraska,ML,7.4,19.2
+2010,31151,Saline County,Nebraska,MH,7.4,30.3
+2010,31153,Sarpy County,Nebraska,MH,7.6,28.2
+2010,31155,Saunders County,Nebraska,LH,6.8,29.5
+2010,31157,Scotts Bluff County,Nebraska,HH,8.8,32.2
+2010,31159,Seward County,Nebraska,MH,7.6,28.3
+2010,31161,Sheridan County,Nebraska,LL,7,19.4
+2010,31163,Sherman County,Nebraska,LM,6.7,21.1
+2010,31165,Sioux County,Nebraska,LL,6.8,19.1
+2010,31167,Stanton County,Nebraska,LM,6.5,24
+2010,31169,Thayer County,Nebraska,LM,6.5,21.6
+2010,31171,Thomas County,Nebraska,LL,7,18.5
+2010,31173,Thurston County,Nebraska,HM,8.9,22.5
+2010,31175,Valley County,Nebraska,LM,6.9,22
+2010,31177,Washington County,Nebraska,LH,6.8,28.4
+2010,31179,Wayne County,Nebraska,LM,6.5,23.2
+2010,31181,Webster County,Nebraska,LL,7,19.1
+2010,31183,Wheeler County,Nebraska,LL,6.6,17.6
+2010,31185,York County,Nebraska,MH,7.3,32.8
+2010,32001,Churchill County,Nevada,MH,7.4,27.6
+2010,32003,Clark County,Nevada,HM,9,25
+2010,32005,Douglas County,Nevada,LM,6.4,20.6
+2010,32007,Elko County,Nevada,LH,6.9,29.5
+2010,27037,Dakota County,Minnesota,LM,5.8,25.2
+2010,27039,Dodge County,Minnesota,MH,7.2,30.1
+2010,27041,Douglas County,Minnesota,LM,6.3,23.4
+2010,27043,Faribault County,Minnesota,LM,6.9,21.6
+2010,27045,Fillmore County,Minnesota,LM,6.5,21.9
+2010,27047,Freeborn County,Minnesota,MM,7.3,26
+2010,27049,Goodhue County,Minnesota,LM,7.1,22.6
+2010,27051,Grant County,Minnesota,LL,6.8,18.1
+2010,27053,Hennepin County,Minnesota,LL,5.6,20.2
+2010,27055,Houston County,Minnesota,MM,7.2,22.4
+2010,27057,Hubbard County,Minnesota,LL,6.3,17.8
+2010,27059,Isanti County,Minnesota,MM,7.8,24.5
+2010,27061,Itasca County,Minnesota,LM,6.9,23.3
+2010,29083,Henry County,Missouri,MM,7.5,20.7
+2010,29085,Hickory County,Missouri,LL,7.1,17
+2010,29087,Holt County,Missouri,ML,7.2,17.7
+2010,29089,Howard County,Missouri,LL,7,17.4
+2010,29091,Howell County,Missouri,MM,8.2,23.7
+2010,29093,Iron County,Missouri,LL,7,19.9
+2010,29095,Jackson County,Missouri,HH,9.1,32.5
+2010,29097,Jasper County,Missouri,MH,7.7,28.8
+2010,29099,Jefferson County,Missouri,HH,9.1,31.2
+2010,29101,Johnson County,Missouri,HH,10.7,31.5
+2010,29103,Knox County,Missouri,LL,6.7,16.8
+2010,29105,Laclede County,Missouri,MM,7.6,23.3
+2010,29107,Lafayette County,Missouri,LM,6.9,22.2
+2010,29109,Lawrence County,Missouri,LM,6.8,22.5
+2010,29111,Lewis County,Missouri,LL,6.8,18.1
+2010,29113,Lincoln County,Missouri,HM,8.9,20.6
+2010,29115,Linn County,Missouri,LM,7.1,20.8
+2010,29117,Livingston County,Missouri,ML,8.2,20.1
+2010,29119,Mcdonald County,Missouri,LL,6.7,19.7
+2010,29121,Macon County,Missouri,MM,7.2,25.7
+2010,29123,Madison County,Missouri,LL,6.9,18
+2010,29125,Maries County,Missouri,LL,7,17.7
+2010,29127,Marion County,Missouri,LM,6.8,24.1
+2010,29129,Mercer County,Missouri,LL,6.9,17.6
+2010,29131,Miller County,Missouri,LM,6.8,24
+2010,29133,Mississippi County,Missouri,ML,8,19.2
+2010,29135,Moniteau County,Missouri,LM,7,20.5
+2010,29137,Monroe County,Missouri,LL,6.9,19
+2010,29139,Montgomery County,Missouri,ML,7.3,18
+2010,29141,Morgan County,Missouri,MM,7.3,23.2
+2010,29143,New Madrid County,Missouri,HM,9.1,21
+2010,29145,Newton County,Missouri,HH,9.1,26.7
+2010,29147,Nodaway County,Missouri,MM,7.4,25
+2010,29149,Oregon County,Missouri,LL,6.9,18.1
+2010,29151,Osage County,Missouri,ML,7.2,18.3
+2010,29153,Ozark County,Missouri,LL,7.1,16.8
+2010,29155,Pemiscot County,Missouri,MM,7.3,22.8
+2010,29157,Perry County,Missouri,HM,8.3,23.8
+2010,29159,Pettis County,Missouri,LM,6.8,22.1
+2010,29161,Phelps County,Missouri,MM,7.4,25.5
+2010,29163,Pike County,Missouri,HH,8.9,27
+2010,29165,Platte County,Missouri,MM,7.8,22.8
+2010,29167,Polk County,Missouri,HM,8.4,24.2
+2010,29169,Pulaski County,Missouri,MM,7.4,21.1
+2010,29171,Putnam County,Missouri,LL,6.8,18.4
+2010,29173,Ralls County,Missouri,LL,6.8,17.5
+2010,29175,Randolph County,Missouri,HH,9.4,29.3
+2010,29177,Ray County,Missouri,LM,7.1,23.2
+2010,29179,Reynolds County,Missouri,LL,7,17.5
+2010,29181,Ripley County,Missouri,MM,7.4,23.5
+2010,29183,St. Charles County,Missouri,LH,6.6,26.3
+2010,29185,St. Clair County,Missouri,LL,7.1,17.6
+2010,29186,Ste. Genevieve County,Missouri,MM,7.9,21.8
+2010,29187,St. Francois County,Missouri,MH,7.5,27.3
+2010,29189,St. Louis County,Missouri,MH,8.1,29.5
+2010,29195,Saline County,Missouri,HH,8.5,27.6
+2010,29197,Schuyler County,Missouri,ML,7.2,17
+2010,29199,Scotland County,Missouri,LL,6.7,18.7
+2010,29201,Scott County,Missouri,HH,8.9,29
+2010,29203,Shannon County,Missouri,LL,7,18.3
+2010,29205,Shelby County,Missouri,ML,7.3,19.5
+2010,29207,Stoddard County,Missouri,LM,7.1,22.8
+2010,29209,Stone County,Missouri,MM,7.6,22.6
+2010,29211,Sullivan County,Missouri,LL,7.1,18.2
+2010,29213,Taney County,Missouri,MM,7.7,22.1
+2010,29215,Texas County,Missouri,LH,6.7,29.3
+2010,29217,Vernon County,Missouri,ML,7.5,19.8
+2010,29219,Warren County,Missouri,LL,7.1,19.2
+2010,29221,Washington County,Missouri,LL,7,19.2
+2010,29223,Wayne County,Missouri,ML,7.4,18
+2010,29225,Webster County,Missouri,MM,7.4,25.2
+2010,29227,Worth County,Missouri,LL,6.8,17.8
+2010,29229,Wright County,Missouri,LM,6.9,25.9
+2010,29510,St. Louis City,Missouri,HH,11.8,33.3
+2010,30001,Beaverhead County,Montana,ML,7.2,18.8
+2010,30003,Big Horn County,Montana,HM,9.6,24.9
+2010,30005,Blaine County,Montana,HM,9,23.3
+2010,30007,Broadwater County,Montana,LL,6.9,17
+2010,30009,Carbon County,Montana,LL,6.7,19.8
+2010,30011,Carter County,Montana,LL,6.9,18.1
+2010,30013,Cascade County,Montana,MM,7.7,25
+2010,30015,Chouteau County,Montana,ML,7.4,18.7
+2010,30017,Custer County,Montana,LL,7,18
+2010,30019,Daniels County,Montana,LL,6.9,17.1
+2010,30021,Dawson County,Montana,ML,7.2,20.2
+2010,30023,Deer Lodge County,Montana,LM,7.1,20.4
+2010,30025,Fallon County,Montana,LL,6.8,17.9
+2010,27063,Jackson County,Minnesota,LL,7,17.5
+2010,27065,Kanabec County,Minnesota,MM,7.2,21.4
+2010,27067,Kandiyohi County,Minnesota,LH,6.9,27.4
+2010,27069,Kittson County,Minnesota,LL,6.9,17.8
+2010,27071,Koochiching County,Minnesota,MH,8.2,27
+2010,27073,Lac Qui Parle County,Minnesota,LL,6.8,17.3
+2010,27075,Lake County,Minnesota,LL,7,16.9
+2010,27077,Lake Of The Woods County,Minnesota,LL,7,17.2
+2010,27079,Le Sueur County,Minnesota,LM,6.7,24.4
+2010,27081,Lincoln County,Minnesota,LL,6.8,17.5
+2010,27083,Lyon County,Minnesota,MM,7.7,24.4
+2010,27085,Mcleod County,Minnesota,LM,6.8,24.2
+2010,27087,Mahnomen County,Minnesota,ML,7.9,18
+2010,27089,Marshall County,Minnesota,LL,6.8,17.3
+2010,27091,Martin County,Minnesota,LL,6.3,18
+2010,27093,Meeker County,Minnesota,HM,8.6,21.2
+2010,27095,Mille Lacs County,Minnesota,LL,6.7,20.1
+2010,27097,Morrison County,Minnesota,LM,6.7,22.1
+2010,27099,Mower County,Minnesota,MM,7.4,24.6
+2010,27101,Murray County,Minnesota,LL,6.8,16.9
+2010,27103,Nicollet County,Minnesota,MM,7.7,23.3
+2010,27105,Nobles County,Minnesota,MM,8.2,21.4
+2010,27107,Norman County,Minnesota,LL,7.1,17.5
+2010,27109,Olmsted County,Minnesota,MM,7.3,24.7
+2010,27111,Otter Tail County,Minnesota,MH,7.3,28.1
+2010,27113,Pennington County,Minnesota,HM,8.6,21.8
+2010,27115,Pine County,Minnesota,LL,6.3,19
+2010,27117,Pipestone County,Minnesota,LL,6.9,17.1
+2010,27119,Polk County,Minnesota,MH,7.4,26.8
+2010,27121,Pope County,Minnesota,LL,6.8,18.1
+2010,27123,Ramsey County,Minnesota,LM,6.5,23
+2010,27125,Red Lake County,Minnesota,LL,7.1,17
+2010,27127,Redwood County,Minnesota,LM,6.4,24.9
+2010,27129,Renville County,Minnesota,LH,7,27.7
+2010,27131,Rice County,Minnesota,LM,6.8,21.6
+2010,27133,Rock County,Minnesota,LL,7,17.1
+2010,27135,Roseau County,Minnesota,LM,6.7,25.9
+2010,27137,St. Louis County,Minnesota,LH,6.9,26.5
+2010,27139,Scott County,Minnesota,LM,5.9,20.3
+2010,27141,Sherburne County,Minnesota,HH,8.5,29.6
+2010,27143,Sibley County,Minnesota,LM,6.6,21.4
+2010,27145,Stearns County,Minnesota,MH,7.6,26.8
+2010,27147,Steele County,Minnesota,LM,6.3,23.1
+2010,27149,Stevens County,Minnesota,LL,7.1,17.5
+2010,27151,Swift County,Minnesota,LL,6.8,17.2
+2010,27153,Todd County,Minnesota,MM,7.8,23.4
+2010,27155,Traverse County,Minnesota,LL,7,17.1
+2010,27157,Wabasha County,Minnesota,LL,6.1,18.8
+2010,27159,Wadena County,Minnesota,HM,8.6,23.4
+2010,27161,Waseca County,Minnesota,HH,8.3,26.2
+2010,27163,Washington County,Minnesota,LM,6.7,23.1
+2010,27165,Watonwan County,Minnesota,LL,6.9,16.9
+2010,27167,Wilkin County,Minnesota,LL,7.1,18.1
+2010,27169,Winona County,Minnesota,MM,7.2,25.6
+2010,27171,Wright County,Minnesota,LM,5.8,21
+2010,27173,Yellow Medicine County,Minnesota,LL,6.9,17.8
+2010,28001,Adams County,Mississippi,HH,11.8,33.7
+2010,28003,Alcorn County,Mississippi,HH,9.6,28
+2010,28005,Amite County,Mississippi,HH,9.8,31.5
+2010,28007,Attala County,Mississippi,HH,11,35.3
+2010,28009,Benton County,Mississippi,ML,7.8,19.1
+2010,28011,Bolivar County,Mississippi,HH,12.4,33.2
+2010,28013,Calhoun County,Mississippi,HM,10.5,25.7
+2010,28015,Carroll County,Mississippi,ML,8,20
+2010,28017,Chickasaw County,Mississippi,HM,8.9,24.6
+2010,28019,Choctaw County,Mississippi,ML,8.1,20
+2010,28021,Claiborne County,Mississippi,HL,9.5,19.5
+2010,28023,Clarke County,Mississippi,HH,9.7,28.5
+2010,28025,Clay County,Mississippi,HH,10.2,33.4
+2010,28027,Coahoma County,Mississippi,HH,13.1,38.2
+2010,28029,Copiah County,Mississippi,HH,9.3,29.5
+2010,28031,Covington County,Mississippi,HH,9.6,31.7
+2010,28033,Desoto County,Mississippi,HH,9,30
+2010,28035,Forrest County,Mississippi,HH,11.3,32.7
+2010,28037,Franklin County,Mississippi,MM,8.1,20.6
+2010,28039,George County,Mississippi,HH,8.7,34
+2010,28041,Greene County,Mississippi,HH,10.7,31
+2010,28043,Grenada County,Mississippi,HH,10.5,33.2
+2010,28045,Hancock County,Mississippi,HH,9.1,31.3
+2010,28047,Harrison County,Mississippi,HH,10.7,33.6
+2010,28049,Hinds County,Mississippi,HH,12.3,35.9
+2010,28051,Holmes County,Mississippi,HH,12.1,33.2
+2010,28053,Humphreys County,Mississippi,HM,9.6,21.6
+2010,28055,Issaquena County,Mississippi,HL,8.5,18.2
+2010,28057,Itawamba County,Mississippi,HH,10,30.8
+2010,28059,Jackson County,Mississippi,HH,10.4,30.5
+2010,28061,Jasper County,Mississippi,HH,12.4,33.8
+2010,28063,Jefferson County,Mississippi,HM,9.2,21.5
+2010,28065,Jefferson Davis County,Mississippi,HM,8.6,21.3
+2010,28067,Jones County,Mississippi,HH,11.2,34.1
+2010,28069,Kemper County,Mississippi,HM,9.4,21.9
+2010,28071,Lafayette County,Mississippi,HH,8.7,28.8
+2010,28073,Lamar County,Mississippi,MH,7.6,28.5
+2010,28075,Lauderdale County,Mississippi,HH,13.1,32.9
+2010,28077,Lawrence County,Mississippi,HH,12.2,31.8
+2010,28079,Leake County,Mississippi,HH,11.4,29.4
+2010,28081,Lee County,Mississippi,HH,11.4,30.5
+2010,28083,Leflore County,Mississippi,HH,13.1,37.1
+2010,28085,Lincoln County,Mississippi,HH,10.9,30.7
+2010,28087,Lowndes County,Mississippi,HH,12,34.2
+2010,24003,Anne Arundel County,Maryland,HH,8.6,27.3
+2010,24005,Baltimore County,Maryland,HH,9,27.1
+2010,24009,Calvert County,Maryland,MH,8.2,26.9
+2010,24011,Caroline County,Maryland,HH,10.6,31.8
+2010,24013,Carroll County,Maryland,MH,8.1,26.5
+2010,24015,Cecil County,Maryland,HH,8.4,32.5
+2010,24017,Charles County,Maryland,HH,9.5,32.5
+2010,24019,Dorchester County,Maryland,HH,11,34.6
+2010,24021,Frederick County,Maryland,MM,7.7,25.6
+2010,24023,Garrett County,Maryland,HH,9.7,30.5
+2010,24025,Harford County,Maryland,MH,8.2,28.5
+2010,24027,Howard County,Maryland,LM,6.4,22.2
+2010,24029,Kent County,Maryland,HM,8.4,26.1
+2010,24031,Montgomery County,Maryland,LL,6.4,17.4
+2010,24033,Prince George&#39;s County,Maryland,HH,11.4,34.1
+2010,24035,Queen Anne&#39;s County,Maryland,LM,7,24.9
+2010,24037,St. Mary&#39;s County,Maryland,HH,9.2,26.8
+2010,24039,Somerset County,Maryland,HH,9.7,34.9
+2010,24041,Talbot County,Maryland,MH,7.6,26.6
+2010,24043,Washington County,Maryland,HH,9.6,30.1
+2010,24045,Wicomico County,Maryland,HH,10,32.8
+2010,24047,Worcester County,Maryland,HH,8.9,32.1
+2010,24510,Baltimore City,Maryland,HH,11.1,30
+2010,25001,Barnstable County,Massachusetts,LL,6,17.4
+2010,25003,Berkshire County,Massachusetts,MM,7.2,22.1
+2010,25005,Bristol County,Massachusetts,HH,9.7,28.8
+2010,25007,Dukes County,Massachusetts,LL,7.1,16.9
+2010,25009,Essex County,Massachusetts,HM,8.3,23.3
+2010,25011,Franklin County,Massachusetts,LM,6.3,23.2
+2010,25013,Hampden County,Massachusetts,HH,9.6,28.9
+2010,25015,Hampshire County,Massachusetts,LM,5.9,21.4
+2010,25017,Middlesex County,Massachusetts,MM,7.3,22.6
+2010,25019,Nantucket County,Massachusetts,LL,7.1,16.7
+2010,25021,Norfolk County,Massachusetts,LM,6.5,20.3
+2010,25023,Plymouth County,Massachusetts,MM,7.5,22.9
+2010,25025,Suffolk County,Massachusetts,HM,9,22.7
+2010,25027,Worcester County,Massachusetts,HM,8.3,25.9
+2010,26001,Alcona County,Michigan,LL,6.9,17.8
+2010,26003,Alger County,Michigan,LL,7,17.8
+2010,26005,Allegan County,Michigan,LH,6.8,30.9
+2010,26007,Alpena County,Michigan,LH,7,28.4
+2010,26009,Antrim County,Michigan,LM,6.3,25.7
+2010,26011,Arenac County,Michigan,LM,6.9,24.9
+2010,26013,Baraga County,Michigan,ML,7.4,17.1
+2010,26015,Barry County,Michigan,MH,7.4,33
+2010,26017,Bay County,Michigan,HH,9.1,31
+2010,26019,Benzie County,Michigan,LL,6.4,18.7
+2010,26021,Berrien County,Michigan,HH,9.6,33.5
+2010,26023,Branch County,Michigan,MM,8.1,25.7
+2010,26025,Calhoun County,Michigan,HH,10.3,33.6
+2010,26027,Cass County,Michigan,LM,6.8,24.8
+2010,26029,Charlevoix County,Michigan,ML,7.8,18.7
+2010,26031,Cheboygan County,Michigan,MH,7.7,33.2
+2010,26033,Chippewa County,Michigan,HM,9.1,22.1
+2010,26035,Clare County,Michigan,MM,8.2,24.1
+2010,26037,Clinton County,Michigan,MH,7.4,27.1
+2010,26039,Crawford County,Michigan,LL,6.8,19.1
+2010,26041,Delta County,Michigan,MM,7.3,22.1
+2010,26043,Dickinson County,Michigan,LL,6.8,19.8
+2010,26045,Eaton County,Michigan,MH,7.7,29.8
+2010,26047,Emmet County,Michigan,LM,6.8,24.1
+2010,26049,Genesee County,Michigan,HH,10.2,34
+2010,26051,Gladwin County,Michigan,MH,7.5,28.9
+2010,26053,Gogebic County,Michigan,LL,6.7,18.7
+2010,26055,Grand Traverse County,Michigan,LH,6.4,28
+2010,26057,Gratiot County,Michigan,MH,7.6,28
+2010,26059,Hillsdale County,Michigan,HM,9,23.8
+2010,26061,Houghton County,Michigan,ML,7.4,18
+2010,26063,Huron County,Michigan,LM,6.1,24
+2010,26065,Ingham County,Michigan,MH,7.9,30.4
+2010,26067,Ionia County,Michigan,HH,8.7,27.8
+2010,26069,Iosco County,Michigan,MH,7.5,27
+2010,26071,Iron County,Michigan,LL,6.9,17.1
+2010,26073,Isabella County,Michigan,MH,7.5,29.3
+2010,28089,Madison County,Mississippi,HM,10,24.6
+2010,28091,Marion County,Mississippi,HH,9.6,33.8
+2010,28093,Marshall County,Mississippi,HH,13.1,35.6
+2010,28095,Monroe County,Mississippi,HH,10.4,30.6
+2010,28097,Montgomery County,Mississippi,HM,8.5,20.6
+2010,28099,Neshoba County,Mississippi,HH,12.1,31.4
+2010,28101,Newton County,Mississippi,HM,9.9,22.8
+2010,28103,Noxubee County,Mississippi,HL,8.8,19.6
+2010,28105,Oktibbeha County,Mississippi,HH,10.6,28.6
+2010,28107,Panola County,Mississippi,HH,10.9,32.7
+2010,28109,Pearl River County,Mississippi,HH,11,31.8
+2010,28111,Perry County,Mississippi,MM,7.6,20.6
+2010,28113,Pike County,Mississippi,HH,12,37
+2010,28115,Pontotoc County,Mississippi,HH,9.6,29.3
+2010,28117,Prentiss County,Mississippi,HH,10.3,28.3
+2010,28119,Quitman County,Mississippi,HL,8.7,18.9
+2010,28121,Rankin County,Mississippi,HH,10.3,31.8
+2010,28123,Scott County,Mississippi,HH,12.3,36.3
+2010,28125,Sharkey County,Mississippi,HL,8.6,18.3
+2010,28127,Simpson County,Mississippi,HM,8.5,25.4
+2010,28129,Smith County,Mississippi,HH,8.6,29.4
+2010,28131,Stone County,Mississippi,HH,9.7,29
+2010,28133,Sunflower County,Mississippi,HH,12.4,35.3
+2010,28135,Tallahatchie County,Mississippi,HM,8.7,20.8
+2010,28137,Tate County,Mississippi,HH,12.1,31.8
+2010,28139,Tippah County,Mississippi,HH,8.9,28
+2010,21129,Lee County,Kentucky,LL,7,19
+2010,21131,Leslie County,Kentucky,ML,7.9,19.9
+2010,21133,Letcher County,Kentucky,HH,14.8,35.6
+2010,21135,Lewis County,Kentucky,HH,10.4,31.5
+2010,21137,Lincoln County,Kentucky,HH,8.7,31.4
+2010,21139,Livingston County,Kentucky,ML,7.3,18.2
+2010,21141,Logan County,Kentucky,MH,7.2,27.5
+2010,21143,Lyon County,Kentucky,LL,6.9,19.5
+2010,21145,Mccracken County,Kentucky,MH,8,27.7
+2010,21147,Mccreary County,Kentucky,HM,9,25.7
+2010,21149,Mclean County,Kentucky,ML,7.4,18.1
+2010,21151,Madison County,Kentucky,MM,7.5,22.9
+2010,21153,Magoffin County,Kentucky,HM,8.8,25
+2010,21155,Marion County,Kentucky,MH,7.4,27
+2010,21157,Marshall County,Kentucky,MH,7.4,31.4
+2010,21159,Martin County,Kentucky,ML,7.2,20.2
+2010,21161,Mason County,Kentucky,HH,9.4,27.4
+2010,21163,Meade County,Kentucky,MH,8.1,29.8
+2010,21165,Menifee County,Kentucky,MM,7.6,21.9
+2010,21167,Mercer County,Kentucky,MM,7.2,22.6
+2010,21169,Metcalfe County,Kentucky,LL,6.7,19.3
+2010,21171,Monroe County,Kentucky,LM,7,20.5
+2010,21173,Montgomery County,Kentucky,HH,8.3,27.1
+2010,21175,Morgan County,Kentucky,HH,11,32
+2010,21177,Muhlenberg County,Kentucky,MH,8.1,29.4
+2010,21179,Nelson County,Kentucky,MM,7.2,25.3
+2010,21181,Nicholas County,Kentucky,LL,7,17.6
+2010,21183,Ohio County,Kentucky,HH,9.7,26.9
+2010,21185,Oldham County,Kentucky,LL,6.6,19.8
+2010,21187,Owen County,Kentucky,LL,7.1,17.5
+2010,21189,Owsley County,Kentucky,ML,7.2,16.8
+2010,21191,Pendleton County,Kentucky,MM,7.2,26
+2010,21193,Perry County,Kentucky,HH,12.5,36.9
+2010,21195,Pike County,Kentucky,HH,12.8,34.1
+2010,21197,Powell County,Kentucky,HL,8.3,19.9
+2010,21199,Pulaski County,Kentucky,HH,8.9,28.1
+2010,26075,Jackson County,Michigan,HH,8.6,33
+2010,26077,Kalamazoo County,Michigan,HM,8.4,25.5
+2010,26079,Kalkaska County,Michigan,HL,8.4,19.3
+2010,26081,Kent County,Michigan,HH,8.7,29.9
+2010,26083,Keweenaw County,Michigan,LL,6.9,18
+2010,26085,Lake County,Michigan,ML,7.3,18.4
+2010,26087,Lapeer County,Michigan,MH,7.4,30.2
+2010,26089,Leelanau County,Michigan,MM,7.9,23.5
+2010,26091,Lenawee County,Michigan,MH,8,28.7
+2010,26093,Livingston County,Michigan,LM,6.8,24.1
+2010,26095,Luce County,Michigan,ML,7.2,17.4
+2010,26097,Mackinac County,Michigan,ML,7.3,18.6
+2010,26099,Macomb County,Michigan,HH,9.4,30.3
+2010,26101,Manistee County,Michigan,LL,6.7,17.5
+2010,26103,Marquette County,Michigan,LM,7,24.3
+2010,26105,Mason County,Michigan,MH,7.7,26.6
+2010,26107,Mecosta County,Michigan,HH,8.5,27.1
+2010,26109,Menominee County,Michigan,LM,6.8,22.4
+2010,26111,Midland County,Michigan,MM,7.2,26
+2010,26113,Missaukee County,Michigan,MM,8,23.1
+2010,26115,Monroe County,Michigan,HH,9.2,31.5
+2010,26117,Montcalm County,Michigan,LH,7,28
+2010,26119,Montmorency County,Michigan,LL,7.1,17.4
+2010,26121,Muskegon County,Michigan,HH,9.3,32.2
+2010,26123,Newaygo County,Michigan,HH,10.6,28.9
+2010,26125,Oakland County,Michigan,HH,8.3,26.7
+2010,26127,Oceana County,Michigan,HH,8.8,28
+2010,26129,Ogemaw County,Michigan,MM,7.9,25.6
+2010,26131,Ontonagon County,Michigan,LL,7,17.5
+2010,26133,Osceola County,Michigan,HH,8.5,27.2
+2010,26135,Oscoda County,Michigan,ML,7.2,18.4
+2010,26137,Otsego County,Michigan,MM,7.3,22
+2010,26139,Ottawa County,Michigan,MM,8.1,24.7
+2010,26141,Presque Isle County,Michigan,MM,7.5,23.4
+2010,26143,Roscommon County,Michigan,HH,9.5,30.9
+2010,26145,Saginaw County,Michigan,HH,9.7,39.3
+2010,26147,St. Clair County,Michigan,HH,8.8,29.4
+2010,26149,St. Joseph County,Michigan,HH,8.3,28.7
+2010,26151,Sanilac County,Michigan,MH,8,31.4
+2010,26153,Schoolcraft County,Michigan,ML,7.3,18.6
+2010,26155,Shiawassee County,Michigan,HH,8.4,28.3
+2010,26157,Tuscola County,Michigan,HM,8.3,25.2
+2010,26159,Van Buren County,Michigan,HM,8.4,23.8
+2010,26161,Washtenaw County,Michigan,HM,8.3,22.3
+2010,26163,Wayne County,Michigan,HH,11.8,34.5
+2010,26165,Wexford County,Michigan,MH,7.5,26.5
+2010,27001,Aitkin County,Minnesota,MH,7.2,26.3
+2010,27003,Anoka County,Minnesota,MH,7.3,28.7
+2010,27005,Becker County,Minnesota,LM,7,24
+2010,27007,Beltrami County,Minnesota,LH,6.8,27.5
+2010,27009,Benton County,Minnesota,HM,9.7,22.7
+2010,27011,Big Stone County,Minnesota,LL,6.8,17
+2010,27013,Blue Earth County,Minnesota,MM,7.2,21.1
+2010,27015,Brown County,Minnesota,MH,7.2,29.4
+2010,27017,Carlton County,Minnesota,ML,7.6,20.2
+2010,27019,Carver County,Minnesota,LM,7.1,22.9
+2010,27021,Cass County,Minnesota,LM,6.4,21.6
+2010,27023,Chippewa County,Minnesota,LL,6.9,19.4
+2010,27025,Chisago County,Minnesota,MM,7.5,22.9
+2010,27027,Clay County,Minnesota,MH,7.8,26.8
+2010,27029,Clearwater County,Minnesota,LL,7.1,17
+2010,27031,Cook County,Minnesota,ML,7.2,17.4
+2010,27033,Cottonwood County,Minnesota,ML,7.2,18
+2010,27035,Crow Wing County,Minnesota,LL,6.2,19.1
+2010,21201,Robertson County,Kentucky,LL,6.9,19.1
+2010,21203,Rockcastle County,Kentucky,HH,9.4,30.1
+2010,21205,Rowan County,Kentucky,MH,8.2,31.3
+2010,21207,Russell County,Kentucky,HH,8.8,29
+2010,21209,Scott County,Kentucky,LM,6.9,24.6
+2010,21211,Shelby County,Kentucky,MM,8.2,24.9
+2010,21213,Simpson County,Kentucky,MM,8.2,21.5
+2010,21215,Spencer County,Kentucky,LM,6.8,24.4
+2010,21217,Taylor County,Kentucky,MH,8,27.2
+2010,21219,Todd County,Kentucky,LL,7,19.3
+2010,21221,Trigg County,Kentucky,LM,7,23.7
+2010,21223,Trimble County,Kentucky,LL,7,18
+2010,21225,Union County,Kentucky,LH,7,26.3
+2010,21227,Warren County,Kentucky,MM,7.7,25.3
+2010,21229,Washington County,Kentucky,LL,7,16.9
+2010,21231,Wayne County,Kentucky,HH,8.4,28
+2010,21233,Webster County,Kentucky,HH,8.5,28.2
+2010,21235,Whitley County,Kentucky,HH,10.7,28.8
+2010,21237,Wolfe County,Kentucky,LL,7,18.7
+2010,21239,Woodford County,Kentucky,LM,6.7,23.2
+2010,22001,Acadia Parish,Louisiana,MH,7.8,28.2
+2010,22003,Allen Parish,Louisiana,HH,9.2,30
+2010,22005,Ascension Parish,Louisiana,HH,8.3,29.3
+2010,22007,Assumption Parish,Louisiana,HM,9.2,23.8
+2010,22009,Avoyelles Parish,Louisiana,HH,9.3,33.2
+2010,22011,Beauregard Parish,Louisiana,HH,9.2,27.9
+2010,22013,Bienville Parish,Louisiana,HH,8.9,29.1
+2010,22015,Bossier Parish,Louisiana,HH,10.9,30.8
+2010,22017,Caddo Parish,Louisiana,HH,10.9,31.3
+2010,22019,Calcasieu Parish,Louisiana,HH,11.4,33
+2010,22021,Caldwell Parish,Louisiana,ML,7.6,17.6
+2010,22023,Cameron Parish,Louisiana,LL,7.1,17.5
+2010,22025,Catahoula Parish,Louisiana,HL,8.3,18.3
+2010,22027,Claiborne Parish,Louisiana,HH,12,26.8
+2010,22029,Concordia Parish,Louisiana,HM,8.7,25.3
+2010,22031,De Soto Parish,Louisiana,HH,8.6,29
+2010,22033,East Baton Rouge Parish,Louisiana,HH,11.4,31.3
+2010,22035,East Carroll Parish,Louisiana,HL,8.6,17.3
+2010,22037,East Feliciana Parish,Louisiana,HH,9.9,28
+2010,22039,Evangeline Parish,Louisiana,HM,8.8,25.2
+2010,22041,Franklin Parish,Louisiana,HH,8.6,27.7
+2010,22043,Grant Parish,Louisiana,HM,9.4,25
+2010,22045,Iberia Parish,Louisiana,HH,9.6,31.6
+2010,22047,Iberville Parish,Louisiana,HH,9.5,29.5
+2010,22049,Jackson Parish,Louisiana,MH,7.3,26.5
+2010,22051,Jefferson Parish,Louisiana,HH,11.2,31.6
+2010,22053,Jefferson Davis Parish,Louisiana,HH,10.2,27.2
+2010,22055,Lafayette Parish,Louisiana,LH,6.3,27.5
+2010,22057,Lafourche Parish,Louisiana,HH,11,32.7
+2010,22059,Lasalle Parish,Louisiana,HM,8.8,25.6
+2010,22061,Lincoln Parish,Louisiana,HH,8.7,30.7
+2010,22063,Livingston Parish,Louisiana,HH,8.5,28.9
+2010,22065,Madison Parish,Louisiana,HL,8.6,18.9
+2010,22067,Morehouse Parish,Louisiana,HH,10.2,32.3
+2010,22069,Natchitoches Parish,Louisiana,HH,10.8,33.5
+2010,22071,Orleans Parish,Louisiana,HH,11.7,27.5
+2010,22073,Ouachita Parish,Louisiana,HH,11.9,30.2
+2010,22075,Plaquemines Parish,Louisiana,HM,8.8,21.7
+2010,22077,Pointe Coupee Parish,Louisiana,HM,8.9,22
+2010,22079,Rapides Parish,Louisiana,HH,12.3,30.5
+2010,22081,Red River Parish,Louisiana,ML,7.8,18.7
+2010,22083,Richland Parish,Louisiana,MH,8,27.6
+2010,22085,Sabine Parish,Louisiana,HH,10.7,27.5
+2010,22087,St. Bernard Parish,Louisiana,MH,8.1,26.4
+2010,22089,St. Charles Parish,Louisiana,HH,8.4,28
+2010,22091,St. Helena Parish,Louisiana,ML,8.2,17.8
+2010,22093,St. James Parish,Louisiana,HM,9.1,23.2
+2010,22095,St. John The Baptist Parish,Louisiana,HH,9.3,32.2
+2010,22097,St. Landry Parish,Louisiana,HH,10.6,36.3
+2010,22099,St. Martin Parish,Louisiana,HH,9.4,30.8
+2010,22101,St. Mary Parish,Louisiana,HH,10.5,36.4
+2010,22103,St. Tammany Parish,Louisiana,HH,8.7,27.1
+2010,22105,Tangipahoa Parish,Louisiana,HH,9.3,32.5
+2010,22107,Tensas Parish,Louisiana,HL,8.4,17.3
+2010,22109,Terrebonne Parish,Louisiana,HH,11.6,37.7
+2010,22111,Union Parish,Louisiana,HH,9.3,27
+2010,22113,Vermilion Parish,Louisiana,MH,8.2,30.5
+2010,22115,Vernon Parish,Louisiana,HH,9.8,33.2
+2010,22117,Washington Parish,Louisiana,HH,12.2,30.8
+2010,22119,Webster Parish,Louisiana,HH,10.4,29.9
+2010,22121,West Baton Rouge Parish,Louisiana,HM,8.7,25.6
+2010,22123,West Carroll Parish,Louisiana,ML,7.6,17
+2010,22125,West Feliciana Parish,Louisiana,HL,8.6,16.7
+2010,22127,Winn Parish,Louisiana,HM,8.3,23.3
+2010,23001,Androscoggin County,Maine,HH,8.7,30.4
+2010,23003,Aroostook County,Maine,HH,10.8,31.8
+2010,23005,Cumberland County,Maine,LM,6.4,21.1
+2010,23007,Franklin County,Maine,LH,6.7,28.1
+2010,23009,Hancock County,Maine,LM,7.1,23.9
+2010,23011,Kennebec County,Maine,MH,7.7,29.3
+2010,23013,Knox County,Maine,MM,7.4,25.9
+2010,23015,Lincoln County,Maine,LM,6.5,22.4
+2010,23017,Oxford County,Maine,HM,8.3,26
+2010,23019,Penobscot County,Maine,HH,9.8,32
+2010,23021,Piscataquis County,Maine,HH,8.3,32.4
+2010,23023,Sagadahoc County,Maine,LM,7,23.6
+2010,23025,Somerset County,Maine,HH,9.1,32.9
+2010,23027,Waldo County,Maine,MH,8.1,27.6
+2010,23029,Washington County,Maine,HH,9.5,31.6
+2010,23031,York County,Maine,LH,7.1,26.7
+2010,20059,Franklin County,Kansas,HH,8.7,30.5
+2010,20061,Geary County,Kansas,MH,8.2,27.4
+2010,20063,Gove County,Kansas,LL,7,18.3
+2010,20065,Graham County,Kansas,LL,7,18.3
+2010,20067,Grant County,Kansas,LL,7,18.8
+2010,20069,Gray County,Kansas,ML,7.3,18.6
+2010,20071,Greeley County,Kansas,LL,7,17.7
+2010,20073,Greenwood County,Kansas,LL,6.8,18.9
+2010,20075,Hamilton County,Kansas,LL,6.9,17.7
+2010,20077,Harper County,Kansas,LL,7,17.8
+2010,20079,Harvey County,Kansas,MM,7.4,25.9
+2010,20081,Haskell County,Kansas,LL,6.9,16.9
+2010,20083,Hodgeman County,Kansas,ML,7.3,18.8
+2010,20085,Jackson County,Kansas,MM,7.6,24.7
+2010,20087,Jefferson County,Kansas,MH,8.2,33.3
+2010,20089,Jewell County,Kansas,LL,7.1,17.6
+2010,20091,Johnson County,Kansas,LM,6.5,23.6
+2010,20093,Kearny County,Kansas,LL,7.1,18
+2010,20095,Kingman County,Kansas,LL,7.1,19.1
+2010,20097,Kiowa County,Kansas,LL,6.8,17.2
+2010,20099,Labette County,Kansas,HH,8.5,28.7
+2010,20101,Lane County,Kansas,LL,6.9,17.5
+2010,20103,Leavenworth County,Kansas,HH,8.6,29
+2010,20105,Lincoln County,Kansas,LL,6.8,17
+2010,20107,Linn County,Kansas,LL,6.9,19.9
+2010,20109,Logan County,Kansas,LL,7.1,19.3
+2010,20111,Lyon County,Kansas,MH,7.2,28.8
+2010,20113,Mcpherson County,Kansas,MH,7.4,27.7
+2010,20115,Marion County,Kansas,LM,7.1,20.7
+2010,20117,Marshall County,Kansas,LM,6.8,21.6
+2010,20119,Meade County,Kansas,LL,7,17
+2010,20121,Miami County,Kansas,LH,7.1,28.2
+2010,20123,Mitchell County,Kansas,LL,6.8,18.1
+2010,20125,Montgomery County,Kansas,HH,9,28.2
+2010,20127,Morris County,Kansas,ML,7.2,18.6
+2010,20129,Morton County,Kansas,LL,6.7,17.3
+2010,20131,Nemaha County,Kansas,LL,7.1,18.2
+2010,20133,Neosho County,Kansas,HH,9.4,31.4
+2010,20135,Ness County,Kansas,LL,6.9,18.2
+2010,20137,Norton County,Kansas,LL,7,17.3
+2010,20139,Osage County,Kansas,HH,9.6,31.7
+2010,20141,Osborne County,Kansas,LL,7.1,19.7
+2010,20143,Ottawa County,Kansas,ML,7.2,18.7
+2010,20145,Pawnee County,Kansas,LL,7.1,17.3
+2010,20147,Phillips County,Kansas,ML,7.2,18.5
+2010,20149,Pottawatomie County,Kansas,HH,9,28.3
+2010,20151,Pratt County,Kansas,LL,6.9,18.8
+2010,20153,Rawlins County,Kansas,LL,6.8,17.8
+2010,20155,Reno County,Kansas,HH,9.2,31.5
+2010,20157,Republic County,Kansas,LL,7.1,20.2
+2010,20159,Rice County,Kansas,ML,7.2,18.8
+2010,20161,Riley County,Kansas,MM,7.7,24.5
+2010,20163,Rooks County,Kansas,LL,6.9,17.7
+2010,20165,Rush County,Kansas,LL,6.7,17.9
+2010,20167,Russell County,Kansas,LL,7,18.4
+2010,20169,Saline County,Kansas,MH,7.5,32
+2010,20171,Scott County,Kansas,LL,6.7,18.4
+2010,20173,Sedgwick County,Kansas,HH,9.1,28.7
+2010,20175,Seward County,Kansas,LH,6.5,28.3
+2010,20177,Shawnee County,Kansas,HH,9,32.4
+2010,20179,Sheridan County,Kansas,LL,6.8,17.6
+2010,20181,Sherman County,Kansas,LL,7.1,18.5
+2010,20183,Smith County,Kansas,LL,6.8,18.2
+2010,20185,Stafford County,Kansas,LL,7,18.7
+2010,20187,Stanton County,Kansas,LL,6.9,17.3
+2010,20189,Stevens County,Kansas,ML,7.3,17.1
+2010,20191,Sumner County,Kansas,HH,9,29.6
+2010,20193,Thomas County,Kansas,LL,6.9,19
+2010,20195,Trego County,Kansas,LL,6.8,17.8
+2010,20197,Wabaunsee County,Kansas,LL,6.7,18.9
+2010,20199,Wallace County,Kansas,ML,7.2,17.2
+2010,20201,Washington County,Kansas,LL,6.8,17.3
+2010,20203,Wichita County,Kansas,LL,6.9,17.1
+2010,20205,Wilson County,Kansas,MM,7.3,20.9
+2010,20207,Woodson County,Kansas,ML,7.2,17.6
+2010,20209,Wyandotte County,Kansas,HH,11.9,37.4
+2010,21001,Adair County,Kentucky,HH,8.7,31.5
+2010,21003,Allen County,Kentucky,LM,7.1,25.9
+2010,21005,Anderson County,Kentucky,MM,8.2,25.6
+2010,21007,Ballard County,Kentucky,LL,6.9,17
+2010,21009,Barren County,Kentucky,HM,10.3,24.1
+2010,21011,Bath County,Kentucky,MM,7.5,20.8
+2010,21013,Bell County,Kentucky,HH,11.8,29.1
+2010,21015,Boone County,Kentucky,HH,8.7,28.4
+2010,21017,Bourbon County,Kentucky,LM,7,21.9
+2010,21019,Boyd County,Kentucky,HH,10.8,31.3
+2010,21021,Boyle County,Kentucky,ML,7.6,18.6
+2010,21023,Bracken County,Kentucky,ML,7.5,19.9
+2010,21025,Breathitt County,Kentucky,HH,11.9,34.8
+2010,21027,Breckinridge County,Kentucky,HH,9.1,28.6
+2010,21029,Bullitt County,Kentucky,HH,8.8,28.2
+2010,21031,Butler County,Kentucky,MM,7.9,24.3
+2010,21033,Caldwell County,Kentucky,MM,7.4,24.8
+2010,21035,Calloway County,Kentucky,HM,8.4,24.4
+2010,21037,Campbell County,Kentucky,MM,7.8,24.4
+2010,21039,Carlisle County,Kentucky,LL,7.1,18.8
+2010,21041,Carroll County,Kentucky,LL,6.7,17.9
+2010,21043,Carter County,Kentucky,HH,9.8,28.7
+2010,21045,Casey County,Kentucky,MH,8.2,28.7
+2010,24001,Allegany County,Maryland,HH,11.9,29.6
+2010,18161,Union County,Indiana,LL,7,18.5
+2010,18163,Vanderburgh County,Indiana,HH,8.5,27
+2010,18165,Vermillion County,Indiana,HM,9.6,21.1
+2010,18167,Vigo County,Indiana,LH,7.1,29.6
+2010,18169,Wabash County,Indiana,HH,8.9,33
+2010,18171,Warren County,Indiana,ML,7.3,18.9
+2010,18173,Warrick County,Indiana,HH,8.4,29.1
+2010,18175,Washington County,Indiana,LM,7,22.8
+2010,18177,Wayne County,Indiana,LM,5.9,21.8
+2010,18179,Wells County,Indiana,LM,6.9,23.7
+2010,18181,White County,Indiana,LH,7,29.9
+2010,18183,Whitley County,Indiana,LH,5.8,30.7
+2010,19001,Adair County,Iowa,ML,7.2,17.9
+2010,19003,Adams County,Iowa,LL,6.9,18
+2010,19005,Allamakee County,Iowa,MM,7.2,23.2
+2010,19007,Appanoose County,Iowa,LL,7.1,20.2
+2010,19009,Audubon County,Iowa,LL,6.9,19.1
+2010,19011,Benton County,Iowa,MM,7.5,25.4
+2010,19013,Black Hawk County,Iowa,HH,9,28.7
+2010,19015,Boone County,Iowa,LH,6.9,28
+2010,19017,Bremer County,Iowa,MM,7.3,23.4
+2010,19019,Buchanan County,Iowa,MM,7.9,23.7
+2010,19021,Buena Vista County,Iowa,LM,7,22.3
+2010,19023,Butler County,Iowa,LL,5.6,18.2
+2010,19025,Calhoun County,Iowa,ML,7.4,19.7
+2010,19027,Carroll County,Iowa,LH,5.6,26.5
+2010,19029,Cass County,Iowa,LH,5.9,32.2
+2010,19031,Cedar County,Iowa,MH,7.2,27.2
+2010,19033,Cerro Gordo County,Iowa,MM,7.7,24.9
+2010,19035,Cherokee County,Iowa,LL,6.9,17.3
+2010,19037,Chickasaw County,Iowa,LL,6.9,18.5
+2010,19039,Clarke County,Iowa,LL,6.7,16.8
+2010,19041,Clay County,Iowa,LM,6,23.5
+2010,19043,Clayton County,Iowa,LM,6.1,21.7
+2010,19045,Clinton County,Iowa,LM,6.7,24.9
+2010,19047,Crawford County,Iowa,LH,6.8,26.3
+2010,19049,Dallas County,Iowa,HH,8.4,27.8
+2010,19051,Davis County,Iowa,LL,6.7,17.2
+2010,19053,Decatur County,Iowa,LL,6.8,16.7
+2010,19055,Delaware County,Iowa,LH,6.3,27.9
+2010,19057,Des Moines County,Iowa,HH,9.8,30.9
+2010,19059,Dickinson County,Iowa,LM,6.6,20.7
+2010,19061,Dubuque County,Iowa,MH,7.2,26.5
+2010,19063,Emmet County,Iowa,LL,7.1,20.2
+2010,19065,Fayette County,Iowa,LH,6.5,31.5
+2010,19067,Floyd County,Iowa,LM,6.8,22.2
+2010,19069,Franklin County,Iowa,ML,7.4,20.1
+2010,19071,Fremont County,Iowa,LL,6.7,17.7
+2010,19073,Greene County,Iowa,LL,6.8,17.6
+2010,19075,Grundy County,Iowa,LL,6.8,17.7
+2010,19077,Guthrie County,Iowa,LL,6.7,18.8
+2010,19079,Hamilton County,Iowa,LH,7,26.2
+2010,19081,Hancock County,Iowa,LL,7,17.9
+2010,19083,Hardin County,Iowa,LH,6.9,32.4
+2010,19085,Harrison County,Iowa,MM,7.3,24.2
+2010,19087,Henry County,Iowa,HH,8.6,26.5
+2010,19089,Howard County,Iowa,LL,6.8,17.5
+2010,19091,Humboldt County,Iowa,LL,6.6,18.2
+2010,19093,Ida County,Iowa,LL,6.8,17.4
+2010,21047,Christian County,Kentucky,HH,9,29
+2010,21049,Clark County,Kentucky,LL,6.8,17.4
+2010,21051,Clay County,Kentucky,HM,10.7,24.5
+2010,21053,Clinton County,Kentucky,LL,7.1,18.1
+2010,21055,Crittenden County,Kentucky,LL,6.8,18.8
+2010,21057,Cumberland County,Kentucky,ML,7.2,19.1
+2010,21059,Daviess County,Kentucky,HH,8.8,26.7
+2010,21061,Edmonson County,Kentucky,ML,7.2,19.4
+2010,21063,Elliott County,Kentucky,LL,7,19.4
+2010,21065,Estill County,Kentucky,MM,7.6,21.9
+2010,21067,Fayette County,Kentucky,HH,9,28.1
+2010,21069,Fleming County,Kentucky,HH,9,32.3
+2010,21071,Floyd County,Kentucky,HH,14.5,35.8
+2010,21073,Franklin County,Kentucky,MH,7.9,27.6
+2010,21075,Fulton County,Kentucky,ML,7.2,16.9
+2010,21077,Gallatin County,Kentucky,LL,6.9,17.5
+2010,21079,Garrard County,Kentucky,LL,7,18.7
+2010,21081,Grant County,Kentucky,MH,8,30.3
+2010,21083,Graves County,Kentucky,HH,8.4,28.7
+2010,21085,Grayson County,Kentucky,HH,9,26.5
+2010,21087,Green County,Kentucky,LL,7,18
+2010,21089,Greenup County,Kentucky,HH,12.4,33.1
+2010,21091,Hancock County,Kentucky,LL,6.9,17.4
+2010,21093,Hardin County,Kentucky,HH,10.4,28.6
+2010,21095,Harlan County,Kentucky,HH,11.2,27.9
+2010,21097,Harrison County,Kentucky,HL,8.7,18.8
+2010,21099,Hart County,Kentucky,MM,7.4,25.7
+2010,21101,Henderson County,Kentucky,HH,8.9,28.8
+2010,21103,Henry County,Kentucky,MM,7.7,23.3
+2010,21105,Hickman County,Kentucky,ML,7.3,18.1
+2010,21107,Hopkins County,Kentucky,HH,9.1,32.7
+2010,21109,Jackson County,Kentucky,HH,8.7,26.4
+2010,21111,Jefferson County,Kentucky,HH,9.7,33.2
+2010,21113,Jessamine County,Kentucky,MM,7.5,23.2
+2010,21115,Johnson County,Kentucky,HH,10,34
+2010,21117,Kenton County,Kentucky,HH,9.1,28.1
+2010,21119,Knott County,Kentucky,HH,10.4,31.1
+2010,21121,Knox County,Kentucky,HH,10.8,30.4
+2010,21123,Larue County,Kentucky,HM,8.7,25.3
+2010,21125,Laurel County,Kentucky,HH,10.2,31.6
+2010,21127,Lawrence County,Kentucky,HH,9.7,30.2
+2010,17085,Jo Daviess County,Illinois,LM,7,20.6
+2010,17087,Johnson County,Illinois,LL,7.1,17.2
+2010,17089,Kane County,Illinois,MM,7.8,24.7
+2010,17091,Kankakee County,Illinois,MM,7.6,23.2
+2010,17093,Kendall County,Illinois,LL,6,19.5
+2010,17095,Knox County,Illinois,MM,7.6,25.2
+2010,17097,Lake County,Illinois,LM,6.2,22
+2010,17099,Lasalle County,Illinois,MH,7.3,26.4
+2010,17101,Lawrence County,Illinois,LL,6.9,19.9
+2010,17103,Lee County,Illinois,ML,8,17.9
+2010,17105,Livingston County,Illinois,MM,7.5,23.4
+2010,17107,Logan County,Illinois,MM,7.4,23.7
+2010,17109,Mcdonough County,Illinois,LL,6.5,19.6
+2010,17111,Mchenry County,Illinois,LM,5.8,22.1
+2010,17113,Mclean County,Illinois,MH,7.7,28.7
+2010,17115,Macon County,Illinois,MH,7.5,28.7
+2010,17117,Macoupin County,Illinois,LM,7,21.4
+2010,17119,Madison County,Illinois,HH,8.7,26.6
+2010,17121,Marion County,Illinois,LM,6,24.8
+2010,19095,Iowa County,Iowa,LM,6.6,21.3
+2010,19097,Jackson County,Iowa,LM,6.4,23.5
+2010,19099,Jasper County,Iowa,MH,8.1,29.7
+2010,19101,Jefferson County,Iowa,MM,7.7,22.8
+2010,19103,Johnson County,Iowa,LM,6.3,23.6
+2010,19105,Jones County,Iowa,LM,7,23.4
+2010,19107,Keokuk County,Iowa,LL,6.7,16.7
+2010,19109,Kossuth County,Iowa,LM,6.7,23.1
+2010,19111,Lee County,Iowa,MH,7.2,29
+2010,19113,Linn County,Iowa,MH,8.2,26.6
+2010,19115,Louisa County,Iowa,LM,6.8,20.3
+2010,19117,Lucas County,Iowa,LL,6.8,17.3
+2010,19119,Lyon County,Iowa,LL,6.9,17.2
+2010,19121,Madison County,Iowa,LM,7.1,20.8
+2010,19123,Mahaska County,Iowa,LM,6.6,22.5
+2010,19125,Marion County,Iowa,LH,6.5,27.4
+2010,19127,Marshall County,Iowa,LH,7.1,29.1
+2010,19129,Mills County,Iowa,LL,6.7,17.5
+2010,19131,Mitchell County,Iowa,LL,6.6,17.6
+2010,19133,Monona County,Iowa,LL,6.8,17.1
+2010,19135,Monroe County,Iowa,LL,7,17.6
+2010,19137,Montgomery County,Iowa,ML,7.3,18
+2010,19139,Muscatine County,Iowa,LH,6.4,29.5
+2010,19141,O&#39;brien County,Iowa,MM,7.7,21.9
+2010,19143,Osceola County,Iowa,LL,6.8,17.7
+2010,19145,Page County,Iowa,HH,9.1,29.8
+2010,19147,Palo Alto County,Iowa,ML,7.2,17
+2010,19149,Plymouth County,Iowa,LM,7.1,23.2
+2010,19151,Pocahontas County,Iowa,LL,7.1,17.6
+2010,19153,Polk County,Iowa,MH,7.5,26.8
+2010,19155,Pottawattamie County,Iowa,MH,8,28.5
+2010,19157,Poweshiek County,Iowa,LM,6.8,25.6
+2010,19159,Ringgold County,Iowa,LL,6.8,17.2
+2010,19161,Sac County,Iowa,LL,6.7,17.6
+2010,19163,Scott County,Iowa,MH,8.1,27.7
+2010,19165,Shelby County,Iowa,LL,6.7,18
+2010,19167,Sioux County,Iowa,LM,5.3,23.2
+2010,19169,Story County,Iowa,LM,6.5,24.6
+2010,19171,Tama County,Iowa,ML,8,18.7
+2010,19173,Taylor County,Iowa,LL,6.9,18.2
+2010,19175,Union County,Iowa,LL,6.8,17
+2010,19177,Van Buren County,Iowa,LL,6.8,18.1
+2010,19179,Wapello County,Iowa,HM,8.4,25.5
+2010,19181,Warren County,Iowa,MH,7.7,30.3
+2010,19183,Washington County,Iowa,MM,7.2,25.6
+2010,19185,Wayne County,Iowa,LL,6.9,18.8
+2010,19187,Webster County,Iowa,HM,8.7,24.4
+2010,19189,Winnebago County,Iowa,LL,6.9,17.9
+2010,19191,Winneshiek County,Iowa,LL,7,19.6
+2010,19193,Woodbury County,Iowa,MH,8,28.5
+2010,19195,Worth County,Iowa,LL,6.8,17.6
+2010,19197,Wright County,Iowa,LL,7.1,18.8
+2010,20001,Allen County,Kansas,HH,8.5,27.9
+2010,20003,Anderson County,Kansas,LL,7.1,17.9
+2010,20005,Atchison County,Kansas,LH,6.7,28.2
+2010,20007,Barber County,Kansas,LL,6.8,18.5
+2010,20009,Barton County,Kansas,HH,9,31.5
+2010,20011,Bourbon County,Kansas,MH,7.3,30.6
+2010,20013,Brown County,Kansas,MM,7.4,20.6
+2010,20015,Butler County,Kansas,MH,7.3,31.8
+2010,20017,Chase County,Kansas,LL,7,17.9
+2010,20019,Chautauqua County,Kansas,ML,7.2,17.6
+2010,20021,Cherokee County,Kansas,MH,8,32.8
+2010,20023,Cheyenne County,Kansas,LL,6.9,16.9
+2010,20025,Clark County,Kansas,LL,6.8,17.4
+2010,20027,Clay County,Kansas,LL,7,20
+2010,20029,Cloud County,Kansas,ML,7.7,19.9
+2010,20031,Coffey County,Kansas,LL,6.9,19.6
+2010,20033,Comanche County,Kansas,LL,6.8,17.4
+2010,20035,Cowley County,Kansas,MH,8.1,31.1
+2010,20037,Crawford County,Kansas,HH,8.7,32.8
+2010,20039,Decatur County,Kansas,ML,7.2,19.1
+2010,20041,Dickinson County,Kansas,MM,7.2,25.1
+2010,20043,Doniphan County,Kansas,ML,7.5,18.5
+2010,20045,Douglas County,Kansas,LM,7,25.9
+2010,20047,Edwards County,Kansas,ML,7.2,18.1
+2010,20049,Elk County,Kansas,ML,7.4,18.4
+2010,20051,Ellis County,Kansas,LH,6.9,28.1
+2010,20053,Ellsworth County,Kansas,ML,7.4,19.4
+2010,20055,Finney County,Kansas,HH,8.4,28.5
+2010,20057,Ford County,Kansas,HH,9.1,30.3
+2010,17123,Marshall County,Illinois,LL,6.8,18.5
+2010,17125,Mason County,Illinois,LM,6.9,20.4
+2010,17127,Massac County,Illinois,ML,7.4,18.6
+2010,17129,Menard County,Illinois,LL,7,17.2
+2010,17131,Mercer County,Illinois,MM,7.2,25
+2010,17133,Monroe County,Illinois,LL,7.1,19.9
+2010,17135,Montgomery County,Illinois,ML,7.6,15.9
+2010,17137,Morgan County,Illinois,LL,6.4,20
+2010,17139,Moultrie County,Illinois,LL,7,17.9
+2010,17141,Ogle County,Illinois,LM,6.6,20.9
+2010,17143,Peoria County,Illinois,MM,8.1,23.2
+2010,17145,Perry County,Illinois,ML,7.3,17.4
+2010,17147,Piatt County,Illinois,LM,6.7,20.3
+2010,17149,Pike County,Illinois,LL,7.1,19
+2010,17151,Pope County,Illinois,LL,6.9,17.1
+2010,17153,Pulaski County,Illinois,ML,7.8,17.5
+2010,17155,Putnam County,Illinois,LL,7,17.3
+2010,17157,Randolph County,Illinois,LM,6.6,20.4
+2010,17159,Richland County,Illinois,MM,7.4,21.2
+2010,17161,Rock Island County,Illinois,LM,7.1,24
+2010,17163,St. Clair County,Illinois,MH,8,28
+2010,17165,Saline County,Illinois,LM,6.8,21.8
+2010,17167,Sangamon County,Illinois,MM,8,23.7
+2010,17169,Schuyler County,Illinois,LL,7,17.2
+2010,17171,Scott County,Illinois,LL,6.9,16.8
+2010,17173,Shelby County,Illinois,LL,7,18.1
+2010,17175,Stark County,Illinois,LL,7.1,17.4
+2010,17177,Stephenson County,Illinois,MM,7.3,21.2
+2010,17179,Tazewell County,Illinois,LM,6,22.5
+2010,17181,Union County,Illinois,ML,7.2,19
+2010,17183,Vermilion County,Illinois,MM,7.8,21.2
+2010,17185,Wabash County,Illinois,LL,6.9,17
+2010,17187,Warren County,Illinois,ML,7.4,19.2
+2010,17189,Washington County,Illinois,LL,6.8,19.5
+2010,17191,Wayne County,Illinois,LL,6.8,19.5
+2010,17193,White County,Illinois,LL,6.9,19.5
+2010,17195,Whiteside County,Illinois,ML,7.3,19.9
+2010,17197,Will County,Illinois,HH,8.5,29.4
+2010,17199,Williamson County,Illinois,LM,7,25.3
+2010,17201,Winnebago County,Illinois,HH,8.9,26.5
+2010,17203,Woodford County,Illinois,MM,7.3,23.3
+2010,18001,Adams County,Indiana,LH,6.4,28.2
+2010,18003,Allen County,Indiana,HH,9.6,33.5
+2010,18005,Bartholomew County,Indiana,MH,8.2,28.1
+2010,18007,Benton County,Indiana,LL,6.8,17.8
+2010,18009,Blackford County,Indiana,MH,8.1,27.1
+2010,18011,Boone County,Indiana,LM,6.2,22.7
+2010,18013,Brown County,Indiana,ML,8.2,19.5
+2010,18015,Carroll County,Indiana,MM,7.3,25.6
+2010,18017,Cass County,Indiana,MH,7.8,31.6
+2010,18019,Clark County,Indiana,LH,6.8,26.3
+2010,18021,Clay County,Indiana,HH,8.6,34.3
+2010,18023,Clinton County,Indiana,HM,10,22.7
+2010,18025,Crawford County,Indiana,LL,7.1,18.8
+2010,18027,Daviess County,Indiana,MH,8.2,27.4
+2010,18029,Dearborn County,Indiana,HH,8.6,30.7
+2010,18031,Decatur County,Indiana,MM,7.8,24.8
+2010,18033,Dekalb County,Indiana,MH,7.6,26.6
+2010,18035,Delaware County,Indiana,HH,8.5,31.1
+2010,18037,Dubois County,Indiana,LH,7,29.1
+2010,18039,Elkhart County,Indiana,MM,7.8,25.7
+2010,18041,Fayette County,Indiana,MH,7.7,29
+2010,18043,Floyd County,Indiana,LH,6.8,26.3
+2010,18045,Fountain County,Indiana,HM,8.3,23.6
+2010,18047,Franklin County,Indiana,HL,9.5,18.8
+2010,18049,Fulton County,Indiana,MH,7.5,30
+2010,18051,Gibson County,Indiana,MM,7.4,23.5
+2010,18053,Grant County,Indiana,HH,9.7,27.8
+2010,18055,Greene County,Indiana,HH,9.5,26.7
+2010,18057,Hamilton County,Indiana,LL,7.1,19.3
+2010,18059,Hancock County,Indiana,MM,7.4,21.8
+2010,18061,Harrison County,Indiana,MM,7.8,24.5
+2010,18063,Hendricks County,Indiana,MH,8.1,32.7
+2010,18065,Henry County,Indiana,MM,7.3,24.9
+2010,18067,Howard County,Indiana,HH,8.3,31.5
+2010,18069,Huntington County,Indiana,MH,8.2,30.2
+2010,18071,Jackson County,Indiana,MH,7.3,27.4
+2010,18073,Jasper County,Indiana,HH,9,28.1
+2010,18075,Jay County,Indiana,HH,9.1,30.8
+2010,18077,Jefferson County,Indiana,MM,7.3,25.6
+2010,18079,Jennings County,Indiana,MM,7.6,24.5
+2010,18081,Johnson County,Indiana,HH,9.3,26.5
+2010,18083,Knox County,Indiana,LM,7.1,25.6
+2010,18085,Kosciusko County,Indiana,MH,7.9,30.3
+2010,18087,Lagrange County,Indiana,MH,7.5,27.2
+2010,18089,Lake County,Indiana,HH,10.9,34.4
+2010,18091,Laporte County,Indiana,HH,8.6,29
+2010,18093,Lawrence County,Indiana,HM,11.1,23.1
+2010,18095,Madison County,Indiana,HH,10.3,36.1
+2010,18097,Marion County,Indiana,HH,10.5,30.4
+2010,18099,Marshall County,Indiana,MM,7.4,25.8
+2010,18101,Martin County,Indiana,LL,7,18.6
+2010,18103,Miami County,Indiana,HH,9.3,27.1
+2010,18105,Monroe County,Indiana,HM,8.8,23.8
+2010,18107,Montgomery County,Indiana,HH,8.3,28
+2010,18109,Morgan County,Indiana,MH,7.5,26.5
+2010,18111,Newton County,Indiana,MM,7.6,22.3
+2010,18113,Noble County,Indiana,MH,7.6,27.8
+2010,18115,Ohio County,Indiana,LL,7.1,18
+2010,18117,Orange County,Indiana,HH,8.5,29.4
+2010,13225,Peach County,Georgia,HL,8.7,19.4
+2010,13227,Pickens County,Georgia,MM,8.2,21.8
+2010,13229,Pierce County,Georgia,HL,8.6,17.9
+2010,13231,Pike County,Georgia,LL,7,17.4
+2010,13233,Polk County,Georgia,ML,8,20.2
+2010,13235,Pulaski County,Georgia,ML,8,18.8
+2010,13237,Putnam County,Georgia,HL,9.9,18.3
+2010,13239,Quitman County,Georgia,HL,8.3,17.5
+2010,13241,Rabun County,Georgia,LL,7.1,20.2
+2010,13243,Randolph County,Georgia,HL,8.8,18.9
+2010,13245,Richmond County,Georgia,HH,9.6,29.2
+2010,13247,Rockdale County,Georgia,HM,9.2,24.7
+2010,13249,Schley County,Georgia,ML,7.6,17.3
+2010,13251,Screven County,Georgia,ML,7.9,17.3
+2010,13253,Seminole County,Georgia,ML,8.1,17.6
+2010,13255,Spalding County,Georgia,MM,8,25.2
+2010,13257,Stephens County,Georgia,HM,8.6,24.9
+2010,13259,Stewart County,Georgia,HL,8.4,17.7
+2010,13261,Sumter County,Georgia,HH,10.3,28.1
+2010,13263,Talbot County,Georgia,HL,8.6,17.7
+2010,13265,Taliaferro County,Georgia,HL,8.3,17.8
+2010,13267,Tattnall County,Georgia,ML,7.7,19.9
+2010,13269,Taylor County,Georgia,ML,7.9,18.6
+2010,13271,Telfair County,Georgia,HM,8.8,20.6
+2010,13273,Terrell County,Georgia,HL,8.6,18.5
+2010,13275,Thomas County,Georgia,HH,10.5,27.4
+2010,13277,Tift County,Georgia,HM,10.7,25.7
+2010,13279,Toombs County,Georgia,HH,9.8,27.2
+2010,13281,Towns County,Georgia,LL,7,17
+2010,13283,Treutlen County,Georgia,ML,7.6,18.3
+2010,13285,Troup County,Georgia,HM,10.1,22.9
+2010,13287,Turner County,Georgia,HL,8.3,18.1
+2010,13289,Twiggs County,Georgia,ML,8.1,17
+2010,13291,Union County,Georgia,ML,7.6,17.6
+2010,13293,Upson County,Georgia,HL,8.6,18.8
+2010,13295,Walker County,Georgia,MH,7.9,27.1
+2010,13297,Walton County,Georgia,HM,8.9,24.5
+2010,13299,Ware County,Georgia,HH,10.6,26.3
+2010,13301,Warren County,Georgia,HL,8.5,18.1
+2010,13303,Washington County,Georgia,HL,8.8,17.1
+2010,13305,Wayne County,Georgia,LH,7,27.2
+2010,13307,Webster County,Georgia,ML,8.2,17.1
+2010,13309,Wheeler County,Georgia,ML,8,17.4
+2010,13311,White County,Georgia,LM,7,23
+2010,13313,Whitfield County,Georgia,HM,9.3,23.3
+2010,13315,Wilcox County,Georgia,ML,7.8,17.6
+2010,13317,Wilkes County,Georgia,HL,8.3,17.5
+2010,13319,Wilkinson County,Georgia,ML,8,17.2
+2010,13321,Worth County,Georgia,ML,7.7,20
+2010,15001,Hawaii County,Hawaii,MM,7.2,24.1
+2010,15003,Honolulu County,Hawaii,MM,8,21.5
+2010,15005,Kalawao County,Hawaii,HL,9.1,17.8
+2010,15007,Kauai County,Hawaii,LM,7.1,20.6
+2010,15009,Maui County,Hawaii,MM,7.6,23.3
+2010,16001,Ada County,Idaho,LM,7,23.3
+2010,16003,Adams County,Idaho,LL,6.7,18
+2010,16005,Bannock County,Idaho,HH,8.3,27.8
+2010,16007,Bear Lake County,Idaho,LL,7,17
+2010,16009,Benewah County,Idaho,MM,7.2,20.3
+2010,16011,Bingham County,Idaho,HH,10.8,32.5
+2010,16013,Blaine County,Idaho,LL,4.4,13.7
+2010,16015,Boise County,Idaho,LM,6.9,20.3
+2010,16017,Bonner County,Idaho,LM,6.5,20.9
+2010,16019,Bonneville County,Idaho,HH,8.3,26.3
+2010,16021,Boundary County,Idaho,LL,6.9,16.8
+2010,16023,Butte County,Idaho,LL,7,17.9
+2010,16025,Camas County,Idaho,LL,6.9,17.9
+2010,16027,Canyon County,Idaho,HH,8.6,29.5
+2010,16029,Caribou County,Idaho,LL,6.7,17.8
+2010,16031,Cassia County,Idaho,HH,8.9,28.6
+2010,16033,Clark County,Idaho,LL,7.1,17.6
+2010,16035,Clearwater County,Idaho,LM,6.9,20.7
+2010,16037,Custer County,Idaho,LL,6.8,18
+2010,16039,Elmore County,Idaho,MM,7.9,25
+2010,16041,Franklin County,Idaho,LM,6.9,21.5
+2010,16043,Fremont County,Idaho,LL,6.9,16.8
+2010,16045,Gem County,Idaho,LH,6.6,28.4
+2010,16047,Gooding County,Idaho,MH,8,29.1
+2010,16049,Idaho County,Idaho,LH,6.8,28.1
+2010,18119,Owen County,Indiana,MH,8.2,30.8
+2010,18121,Parke County,Indiana,HM,8.9,22.3
+2010,18123,Perry County,Indiana,MH,7.8,27.3
+2010,18125,Pike County,Indiana,LL,6.9,17.3
+2010,18127,Porter County,Indiana,MM,7.3,25.5
+2010,18129,Posey County,Indiana,MM,7.2,25.4
+2010,18131,Pulaski County,Indiana,HH,8.7,31.3
+2010,18133,Putnam County,Indiana,HM,8.3,23.8
+2010,18135,Randolph County,Indiana,HH,8.9,32.2
+2010,18137,Ripley County,Indiana,LH,6.5,26.9
+2010,18139,Rush County,Indiana,HH,9,27.5
+2010,18141,St. Joseph County,Indiana,HH,8.8,28.5
+2010,18143,Scott County,Indiana,HM,9.4,23.5
+2010,18145,Shelby County,Indiana,HH,8.3,31.3
+2010,18147,Spencer County,Indiana,HH,8.7,26.3
+2010,18149,Starke County,Indiana,MH,7.8,28.3
+2010,18151,Steuben County,Indiana,HH,9.5,28.4
+2010,18153,Sullivan County,Indiana,LM,6.7,20.8
+2010,18155,Switzerland County,Indiana,LL,7.1,19
+2010,18157,Tippecanoe County,Indiana,HM,9,25.2
+2010,18159,Tipton County,Indiana,MM,7.9,22.9
+2010,12077,Liberty County,Florida,MM,7.7,23.8
+2010,12079,Madison County,Florida,HH,11.9,34.5
+2010,12081,Manatee County,Florida,HM,8.8,24.4
+2010,12083,Marion County,Florida,HH,9.3,33.2
+2010,12085,Martin County,Florida,LL,5.7,19.9
+2010,12086,Miami-Dade County,Florida,MM,7.9,24.6
+2010,12087,Monroe County,Florida,LL,5.3,17.6
+2010,12089,Nassau County,Florida,MM,7.6,25.8
+2010,12091,Okaloosa County,Florida,MH,8.2,28.5
+2010,12093,Okeechobee County,Florida,HH,8.7,31.8
+2010,12095,Orange County,Florida,HH,9.2,26.5
+2010,12097,Osceola County,Florida,HH,8.9,28.8
+2010,12099,Palm Beach County,Florida,ML,7.5,20.2
+2010,12101,Pasco County,Florida,MH,8,28.7
+2010,12103,Pinellas County,Florida,HM,8.4,22.8
+2010,12105,Polk County,Florida,HH,10.6,33.5
+2010,12107,Putnam County,Florida,HH,11.6,34.4
+2010,12109,St. Johns County,Florida,LM,6.4,20.7
+2010,12111,St. Lucie County,Florida,HH,11.2,27.8
+2010,12113,Santa Rosa County,Florida,HH,9.7,28.3
+2010,12115,Sarasota County,Florida,LL,6.7,20
+2010,12117,Seminole County,Florida,HM,10.2,24.2
+2010,12119,Sumter County,Florida,HH,8.8,27.3
+2010,12121,Suwannee County,Florida,HH,9.2,28.4
+2010,12123,Taylor County,Florida,HH,10.9,34.3
+2010,12125,Union County,Florida,HH,12.9,34.3
+2010,12127,Volusia County,Florida,HM,9.8,25.7
+2010,12129,Wakulla County,Florida,HH,9.8,35
+2010,12131,Walton County,Florida,MM,8.1,25.9
+2010,12133,Washington County,Florida,HH,12.2,34.8
+2010,13001,Appling County,Georgia,HM,8.7,23.6
+2010,13003,Atkinson County,Georgia,ML,7.5,17.5
+2010,13005,Bacon County,Georgia,ML,7.3,17.5
+2010,13007,Baker County,Georgia,ML,8.1,17.2
+2010,13009,Baldwin County,Georgia,HM,8.6,24.8
+2010,13011,Banks County,Georgia,ML,7.6,18
+2010,13013,Barrow County,Georgia,HM,8.8,23.4
+2010,13015,Bartow County,Georgia,MM,7.5,21.9
+2010,13017,Ben Hill County,Georgia,HM,10.2,23.6
+2010,16051,Jefferson County,Idaho,MM,7.7,25.2
+2010,16053,Jerome County,Idaho,MH,8.2,32.5
+2010,16055,Kootenai County,Idaho,MM,7.6,24.9
+2010,16057,Latah County,Idaho,MM,7.2,23.5
+2010,16059,Lemhi County,Idaho,LL,6.7,18.4
+2010,16061,Lewis County,Idaho,LL,7.1,18.4
+2010,16063,Lincoln County,Idaho,ML,7.2,18
+2010,16065,Madison County,Idaho,MH,7.5,26.3
+2010,16067,Minidoka County,Idaho,HH,8.8,30.7
+2010,16069,Nez Perce County,Idaho,HH,9.5,30.4
+2010,16071,Oneida County,Idaho,LL,6.8,18.8
+2010,16073,Owyhee County,Idaho,LL,7,19.2
+2010,16075,Payette County,Idaho,MM,7.8,24.2
+2010,16077,Power County,Idaho,LL,6.9,18.7
+2010,16079,Shoshone County,Idaho,MH,7.4,27.9
+2010,16081,Teton County,Idaho,LL,6.9,17.3
+2010,16083,Twin Falls County,Idaho,MM,8.1,26
+2010,16085,Valley County,Idaho,LL,6.9,19.3
+2010,16087,Washington County,Idaho,ML,7.2,18.2
+2010,17001,Adams County,Illinois,HH,8.3,26.7
+2010,17003,Alexander County,Illinois,ML,7.9,17.6
+2010,17005,Bond County,Illinois,ML,7.2,18.3
+2010,17007,Boone County,Illinois,LM,6.9,22.3
+2010,17009,Brown County,Illinois,ML,7.5,17.3
+2010,17011,Bureau County,Illinois,LM,6.7,20.8
+2010,17013,Calhoun County,Illinois,LL,6.9,17
+2010,17015,Carroll County,Illinois,ML,7.4,17.9
+2010,17017,Cass County,Illinois,ML,7.6,17.8
+2010,17019,Champaign County,Illinois,MM,7.3,23.4
+2010,17021,Christian County,Illinois,MM,7.7,20.4
+2010,17023,Clark County,Illinois,LL,6.9,17.8
+2010,17025,Clay County,Illinois,ML,7.3,17.3
+2010,17027,Clinton County,Illinois,LL,7,19.4
+2010,17029,Coles County,Illinois,LM,6.5,22
+2010,17031,Cook County,Illinois,HH,9.1,26.2
+2010,17033,Crawford County,Illinois,LL,7,19.3
+2010,17035,Cumberland County,Illinois,ML,7.2,18
+2010,17037,Dekalb County,Illinois,LM,7.1,25.4
+2010,17039,De Witt County,Illinois,LL,6.6,19.2
+2010,17041,Douglas County,Illinois,LL,6.5,19.3
+2010,17043,Dupage County,Illinois,LM,6.4,24.2
+2010,17045,Edgar County,Illinois,LL,6.8,18.6
+2010,17047,Edwards County,Illinois,LL,7,17.2
+2010,17049,Effingham County,Illinois,LM,6.8,21.4
+2010,17051,Fayette County,Illinois,ML,7.8,18.6
+2010,17053,Ford County,Illinois,LM,6.7,21.8
+2010,17055,Franklin County,Illinois,MM,8.2,22.2
+2010,17057,Fulton County,Illinois,LH,6.5,26.2
+2010,17059,Gallatin County,Illinois,LL,7.1,17.6
+2010,17061,Greene County,Illinois,ML,7.9,17.7
+2010,17063,Grundy County,Illinois,MM,7.2,25.4
+2010,17065,Hamilton County,Illinois,LL,6.9,16.9
+2010,17067,Hancock County,Illinois,MM,7.6,21.1
+2010,17069,Hardin County,Illinois,LL,6.9,17.1
+2010,17071,Henderson County,Illinois,LL,7.1,17.3
+2010,17073,Henry County,Illinois,LL,6.6,20.1
+2010,17075,Iroquois County,Illinois,MM,7.3,24.2
+2010,17077,Jackson County,Illinois,ML,7.6,19.1
+2010,17079,Jasper County,Illinois,LL,6.9,16.7
+2010,17081,Jefferson County,Illinois,MM,7.9,20.7
+2010,17083,Jersey County,Illinois,LL,6.8,19.8
+2010,13019,Berrien County,Georgia,HM,8.8,24.6
+2010,13021,Bibb County,Georgia,HM,9.3,24.4
+2010,13023,Bleckley County,Georgia,ML,7.9,17.5
+2010,13025,Brantley County,Georgia,LM,7.1,20.6
+2010,13027,Brooks County,Georgia,HL,8.9,18.5
+2010,13029,Bryan County,Georgia,LL,6.7,17
+2010,13031,Bulloch County,Georgia,HM,10.1,25.5
+2010,13033,Burke County,Georgia,ML,8.1,19.6
+2010,13035,Butts County,Georgia,HM,8.3,20.7
+2010,13037,Calhoun County,Georgia,HL,8.7,17.8
+2010,13039,Camden County,Georgia,HM,9.2,25.4
+2010,13043,Candler County,Georgia,ML,7.5,18.2
+2010,13045,Carroll County,Georgia,HM,11.4,24.7
+2010,13047,Catoosa County,Georgia,MH,7.6,29.5
+2010,13049,Charlton County,Georgia,ML,7.6,16.9
+2010,13051,Chatham County,Georgia,HM,9.5,25.1
+2010,13053,Chattahoochee County,Georgia,ML,7.8,17.6
+2010,13055,Chattooga County,Georgia,MM,7.6,21.1
+2010,13057,Cherokee County,Georgia,MH,7.2,26.4
+2010,13059,Clarke County,Georgia,HM,9.8,21.4
+2010,13061,Clay County,Georgia,HL,8.6,18.4
+2010,13063,Clayton County,Georgia,HH,11.6,32.8
+2010,13065,Clinch County,Georgia,ML,7.8,17.1
+2010,13067,Cobb County,Georgia,HM,8.5,22.3
+2010,13069,Coffee County,Georgia,HM,9.7,24.5
+2010,13071,Colquitt County,Georgia,HM,8.6,24.2
+2010,13073,Columbia County,Georgia,LM,7.1,21.8
+2010,13075,Cook County,Georgia,HH,9.2,27.5
+2010,13077,Coweta County,Georgia,MM,7.8,22.3
+2010,13079,Crawford County,Georgia,ML,7.5,18.2
+2010,13081,Crisp County,Georgia,HL,9.3,19.4
+2010,13083,Dade County,Georgia,MM,7.9,21.1
+2010,13085,Dawson County,Georgia,LL,7,18.6
+2010,13087,Decatur County,Georgia,HM,10.3,23.3
+2010,13089,Dekalb County,Georgia,HM,8.8,25.8
+2010,13091,Dodge County,Georgia,HH,10.4,28.7
+2010,13093,Dooly County,Georgia,ML,8.1,19.4
+2010,13095,Dougherty County,Georgia,HH,11.4,29.7
+2010,13097,Douglas County,Georgia,HH,8.7,27.1
+2010,13099,Early County,Georgia,HL,8.5,17.6
+2010,13101,Echols County,Georgia,ML,7.2,17.4
+2010,13103,Effingham County,Georgia,HM,8.6,23.8
+2010,13105,Elbert County,Georgia,HM,9.4,23.5
+2010,13107,Emanuel County,Georgia,ML,8.1,18.9
+2010,13109,Evans County,Georgia,ML,8.1,17.5
+2010,13111,Fannin County,Georgia,HH,8.6,26.4
+2010,13113,Fayette County,Georgia,ML,7.9,18
+2010,13115,Floyd County,Georgia,LM,6.8,24.8
+2010,13117,Forsyth County,Georgia,HL,8.6,19.9
+2010,13119,Franklin County,Georgia,ML,7.6,19.7
+2010,13121,Fulton County,Georgia,MM,7.8,22.6
+2010,13123,Gilmer County,Georgia,MH,8.1,26.7
+2010,13125,Glascock County,Georgia,LL,7,17.5
+2010,13127,Glynn County,Georgia,LM,7,20.8
+2010,13129,Gordon County,Georgia,MM,7.7,24.9
+2010,13131,Grady County,Georgia,MM,8.2,23.8
+2010,13133,Greene County,Georgia,ML,8.2,18.4
+2010,13135,Gwinnett County,Georgia,MM,7.2,23.7
+2010,13137,Habersham County,Georgia,LM,6.9,20.7
+2010,13139,Hall County,Georgia,HM,9.3,26.1
+2010,13141,Hancock County,Georgia,HL,9,18.1
+2010,13143,Haralson County,Georgia,MH,7.8,26.7
+2010,13145,Harris County,Georgia,HL,8.3,19.4
+2010,13147,Hart County,Georgia,ML,7.3,19.9
+2010,13149,Heard County,Georgia,ML,7.2,17.1
+2010,13151,Henry County,Georgia,HH,9.1,27.2
+2010,13153,Houston County,Georgia,HM,8.4,24.7
+2010,13155,Irwin County,Georgia,ML,7.5,18.1
+2010,13157,Jackson County,Georgia,MM,7.9,20.6
+2010,13159,Jasper County,Georgia,ML,7.3,16.1
+2010,13161,Jeff Davis County,Georgia,ML,7.4,17.2
+2010,13163,Jefferson County,Georgia,HL,8.4,18.1
+2010,13165,Jenkins County,Georgia,ML,8,18.4
+2010,13167,Johnson County,Georgia,HL,8.3,19.1
+2010,13169,Jones County,Georgia,ML,7.4,20
+2010,13171,Lamar County,Georgia,ML,7.3,18.2
+2010,13173,Lanier County,Georgia,ML,7.7,18.5
+2010,13175,Laurens County,Georgia,HH,10.4,35.4
+2010,13177,Lee County,Georgia,MM,7.9,21.6
+2010,13179,Liberty County,Georgia,HM,9.1,24
+2010,13181,Lincoln County,Georgia,ML,7.7,17.7
+2010,13183,Long County,Georgia,ML,7.9,17.4
+2010,13185,Lowndes County,Georgia,HH,11.5,30.7
+2010,13187,Lumpkin County,Georgia,LL,6.6,19.2
+2010,13189,Mcduffie County,Georgia,ML,7.4,18.4
+2010,13191,Mcintosh County,Georgia,ML,8,17.7
+2010,13193,Macon County,Georgia,HL,9.7,18.3
+2010,13195,Madison County,Georgia,MM,7.9,22.1
+2010,13197,Marion County,Georgia,ML,7.8,18
+2010,13199,Meriwether County,Georgia,ML,7.9,18.8
+2010,13201,Miller County,Georgia,ML,7.7,17.6
+2010,13205,Mitchell County,Georgia,HM,8.8,21.1
+2010,13207,Monroe County,Georgia,MM,7.8,22.5
+2010,13209,Montgomery County,Georgia,ML,7.6,19.3
+2010,13211,Morgan County,Georgia,HL,8.3,20.1
+2010,13213,Murray County,Georgia,HM,8.8,23.5
+2010,13215,Muscogee County,Georgia,HH,11.1,35.2
+2010,13217,Newton County,Georgia,MM,7.7,23.4
+2010,13219,Oconee County,Georgia,LL,6.2,18.8
+2010,13221,Oglethorpe County,Georgia,ML,7.2,19.3
+2010,06067,Sacramento County,California,HH,8.7,28.4
+2010,06069,San Benito County,California,ML,7.2,19.7
+2010,06071,San Bernardino County,California,HH,8.7,27.8
+2010,06073,San Diego County,California,MM,7.8,23.9
+2010,06075,San Francisco County,California,LL,6.5,16
+2010,06077,San Joaquin County,California,HH,9,30.4
+2010,06079,San Luis Obispo County,California,LM,5.8,20.5
+2010,06081,San Mateo County,California,LL,6.6,18.9
+2010,06083,Santa Barbara County,California,LM,6.8,20.9
+2010,06085,Santa Clara County,California,MM,7.4,21.1
+2010,06087,Santa Cruz County,California,LL,6,20.2
+2010,06089,Shasta County,California,MH,7.6,28
+2010,06091,Sierra County,California,LL,7.1,17.5
+2010,06093,Siskiyou County,California,MM,7.5,21.6
+2010,06095,Solano County,California,HM,9.8,25.1
+2010,06097,Sonoma County,California,LM,6.2,23.1
+2010,06099,Stanislaus County,California,HH,8.8,31.1
+2010,06101,Sutter County,California,MM,8.2,24.9
+2010,06103,Tehama County,California,HM,8.7,23.7
+2010,06105,Trinity County,California,ML,7.8,20
+2010,06107,Tulare County,California,HH,8.6,32.4
+2010,06109,Tuolumne County,California,LM,6,20.5
+2010,06111,Ventura County,California,LM,7.1,23.2
+2010,06113,Yolo County,California,HM,8.6,25.4
+2010,06115,Yuba County,California,MH,7.6,31.3
+2010,08001,Adams County,Colorado,MM,7.3,24.9
+2010,08003,Alamosa County,Colorado,MM,7.8,22
+2010,08005,Arapahoe County,Colorado,LL,5.9,19.8
+2010,08007,Archuleta County,Colorado,LL,6,14.7
+2010,08009,Baca County,Colorado,LL,6.8,17.7
+2010,08011,Bent County,Colorado,LL,7.1,18.9
+2010,08013,Boulder County,Colorado,LL,5,14.7
+2010,08014,Broomfield County,Colorado,LM,5.8,22.3
+2010,08015,Chaffee County,Colorado,LL,5.2,14.8
+2010,08017,Cheyenne County,Colorado,LL,6.9,17.3
+2010,08019,Clear Creek County,Colorado,LL,6.8,18.4
+2010,08021,Conejos County,Colorado,ML,7.2,17.5
+2010,08023,Costilla County,Colorado,ML,7.3,17.5
+2010,08025,Crowley County,Colorado,ML,7.3,16.6
+2010,08027,Custer County,Colorado,LL,6.9,17.5
+2010,08029,Delta County,Colorado,LL,6.2,20.1
+2010,08031,Denver County,Colorado,LL,6.4,18.6
+2010,08033,Dolores County,Colorado,LL,6.9,18.7
+2010,08035,Douglas County,Colorado,LL,4.8,14.8
+2010,08037,Eagle County,Colorado,LL,5,12.8
+2010,08039,Elbert County,Colorado,LM,4.6,21.4
+2010,08041,El Paso County,Colorado,LM,6.1,21.8
+2010,08043,Fremont County,Colorado,MM,7.9,22
+2010,08045,Garfield County,Colorado,LL,6.5,18.6
+2010,08047,Gilpin County,Colorado,LL,6.9,17.8
+2010,08049,Grand County,Colorado,LL,6.1,18.4
+2010,08051,Gunnison County,Colorado,LL,5.2,14.4
+2010,08053,Hinsdale County,Colorado,LL,7,17.2
+2010,08055,Huerfano County,Colorado,LL,6.9,17.8
+2010,08057,Jackson County,Colorado,LL,6.9,17.8
+2010,08059,Jefferson County,Colorado,LL,5.4,19.4
+2010,08061,Kiowa County,Colorado,LL,6.8,17.4
+2010,08063,Kit Carson County,Colorado,LL,7.1,19.5
+2010,08065,Lake County,Colorado,LL,7,17.7
+2010,08067,La Plata County,Colorado,LL,4.9,15.5
+2010,08069,Larimer County,Colorado,LL,5.4,19.5
+2010,08071,Las Animas County,Colorado,HM,9.2,23.9
+2010,08073,Lincoln County,Colorado,ML,7.2,17.6
+2010,08075,Logan County,Colorado,LM,6.5,22.2
+2010,08077,Mesa County,Colorado,LM,6,22.7
+2010,08079,Mineral County,Colorado,LL,6.9,17.4
+2010,08081,Moffat County,Colorado,MM,7.2,23.3
+2010,08083,Montezuma County,Colorado,LL,5.6,18.4
+2010,08085,Montrose County,Colorado,LM,5.8,21.4
+2010,08087,Morgan County,Colorado,MH,7.3,29.5
+2010,08089,Otero County,Colorado,MH,7.5,27
+2010,08091,Ouray County,Colorado,LL,6.6,16.9
+2010,08093,Park County,Colorado,LL,5.8,17
+2010,08095,Phillips County,Colorado,LL,6.9,17.9
+2010,08097,Pitkin County,Colorado,LL,5.5,11.7
+2010,08099,Prowers County,Colorado,LL,6.6,16.7
+2010,08101,Pueblo County,Colorado,MM,7.9,25.3
+2010,08103,Rio Blanco County,Colorado,LL,6.7,16.9
+2010,08105,Rio Grande County,Colorado,LL,6.9,17.4
+2010,08107,Routt County,Colorado,LL,4,12.6
+2010,08109,Saguache County,Colorado,LL,7,17.9
+2010,08111,San Juan County,Colorado,LL,7.1,17.3
+2010,08113,San Miguel County,Colorado,ML,7.2,16.4
+2010,08115,Sedgwick County,Colorado,LL,7.1,17.5
+2010,08117,Summit County,Colorado,LL,5.1,13.2
+2010,08119,Teller County,Colorado,LL,6.9,16.5
+2010,08121,Washington County,Colorado,LL,6.9,16.9
+2010,08123,Weld County,Colorado,LM,6.7,26.1
+2010,08125,Yuma County,Colorado,MM,7.4,21.6
+2010,09001,Fairfield County,Connecticut,LL,6,17.9
+2010,09003,Hartford County,Connecticut,MM,7.6,24.9
+2010,09005,Litchfield County,Connecticut,LL,6.2,20.1
+2010,09007,Middlesex County,Connecticut,LM,6.4,22
+2010,09009,New Haven County,Connecticut,HH,8.5,27.5
+2010,09011,New London County,Connecticut,LM,7.1,23.4
+2010,09013,Tolland County,Connecticut,MM,7.3,22
+2010,09015,Windham County,Connecticut,HH,8.5,30.7
+2010,10001,Kent County,Delaware,HH,10.9,32.5
+2010,10003,New Castle County,Delaware,MH,7.2,26.7
+2010,13223,Paulding County,Georgia,HL,9,19.7
+2010,01001,Autauga County,Alabama,HH,9.2,28.2
+2010,01003,Baldwin County,Alabama,HM,9.6,22.5
+2010,01005,Barbour County,Alabama,HH,11.4,29.8
+2010,01007,Bibb County,Alabama,HH,9,27.9
+2010,01009,Blount County,Alabama,HM,8.7,24.3
+2010,01011,Bullock County,Alabama,HL,9.2,20.2
+2010,01013,Butler County,Alabama,HH,12.4,35.5
+2010,01015,Calhoun County,Alabama,HH,11.3,30.4
+2010,01017,Chambers County,Alabama,HH,9.6,27.2
+2010,10005,Sussex County,Delaware,HH,9.4,29.3
+2010,11001,District Of Columbia,District of Columbia,HM,8.4,21.2
+2010,12001,Alachua County,Florida,LM,7.1,23.9
+2010,12003,Baker County,Florida,HH,12,33.3
+2010,12005,Bay County,Florida,HM,8.5,26.1
+2010,12007,Bradford County,Florida,HH,11.8,33.2
+2010,12009,Brevard County,Florida,HH,9.6,28.1
+2010,12011,Broward County,Florida,MM,7.4,25.3
+2010,12013,Calhoun County,Florida,HH,11.6,33.9
+2010,12015,Charlotte County,Florida,HM,8.6,24.9
+2010,12017,Citrus County,Florida,HH,8.5,27.5
+2010,12019,Clay County,Florida,HH,9.4,27.7
+2010,12021,Collier County,Florida,LM,7,20.4
+2010,12023,Columbia County,Florida,HH,11,33.2
+2010,12027,Desoto County,Florida,HH,10.4,33.5
+2010,12029,Dixie County,Florida,HH,10,33.8
+2010,12031,Duval County,Florida,HH,10.5,26.8
+2010,12033,Escambia County,Florida,HH,10,28.1
+2010,12035,Flagler County,Florida,HH,8.7,27.4
+2010,12037,Franklin County,Florida,ML,8,20.2
+2010,12039,Gadsden County,Florida,HH,12.3,34.1
+2010,12041,Gilchrist County,Florida,HH,9.2,30.4
+2010,12043,Glades County,Florida,HM,8.3,23.5
+2010,12045,Gulf County,Florida,HH,9.5,27
+2010,12047,Hamilton County,Florida,HH,12.7,38.1
+2010,12049,Hardee County,Florida,HH,12.4,37.4
+2010,12051,Hendry County,Florida,HH,10.2,34.1
+2010,12053,Hernando County,Florida,HH,8.4,27.8
+2010,12055,Highlands County,Florida,HH,9.2,28.6
+2010,12057,Hillsborough County,Florida,HM,10.1,24.6
+2010,12059,Holmes County,Florida,HH,12.3,28.2
+2010,12061,Indian River County,Florida,MM,8.1,21.4
+2010,12063,Jackson County,Florida,HH,11.9,31.4
+2010,12065,Jefferson County,Florida,HH,11,33.3
+2010,12067,Lafayette County,Florida,MM,8.1,20.5
+2010,12069,Lake County,Florida,HH,9.1,26.9
+2010,12071,Lee County,Florida,MM,7.9,25.4
+2010,12073,Leon County,Florida,HM,9.9,25.5
+2010,12075,Levy County,Florida,HH,10.1,33.1
+2010,02185,North Slope Borough,Alaska,HH,8.4,28.8
+2010,02188,Northwest Arctic Borough,Alaska,MM,7.6,20.9
+2010,02220,Sitka City and Borough,Alaska,MM,7.8,24.6
+2010,02230,Skagway Municipality,Alaska,LL,6.7,18.1
+2010,02240,Southeast Fairbanks Census Area,Alaska,LH,6.9,26.6
+2010,02261,Valdez-Cordova Census Area,Alaska,MM,7.3,24.4
+2010,02270,Wade Hampton Census Area,Alaska,ML,8.2,19.1
+2010,02275,Wrangell City and Borough,Alaska,MM,7.7,21.7
+2010,02282,Yakutat City and Borough,Alaska,HL,8.4,17.9
+2010,02290,Yukon-Koyukuk Census Area,Alaska,MM,7.4,25.7
+2010,04001,Apache County,Arizona,HH,11.9,30.1
+2010,04003,Cochise County,Arizona,MM,7.3,23.8
+2010,04005,Coconino County,Arizona,LM,6.4,24.3
+2010,04007,Gila County,Arizona,HM,8.5,25.1
+2010,04009,Graham County,Arizona,HH,9.8,31.5
+2010,04011,Greenlee County,Arizona,MH,7.8,27.6
+2010,04012,La Paz County,Arizona,HH,9.3,32.9
+2010,04013,Maricopa County,Arizona,MM,7.8,23.3
+2010,04015,Mohave County,Arizona,HH,9.4,27.1
+2010,01019,Cherokee County,Alabama,ML,7.7,20.1
+2010,01021,Chilton County,Alabama,HH,9.3,27.1
+2010,01023,Choctaw County,Alabama,HH,12,34.7
+2010,01025,Clarke County,Alabama,HH,10.4,29.7
+2010,01027,Clay County,Alabama,HH,9.9,28.2
+2010,01029,Cleburne County,Alabama,HM,8.7,22.2
+2010,01031,Coffee County,Alabama,HH,10.7,27.9
+2010,01033,Colbert County,Alabama,HH,9.9,29.2
+2010,01035,Conecuh County,Alabama,HH,11.2,26.3
+2010,01037,Coosa County,Alabama,ML,7.9,17.3
+2010,01039,Covington County,Alabama,MH,8.2,29.6
+2010,01041,Crenshaw County,Alabama,HH,9,28
+2010,01043,Cullman County,Alabama,HH,9.6,28.2
+2010,01045,Dale County,Alabama,HH,10.3,28.8
+2010,01047,Dallas County,Alabama,HH,11.5,38.8
+2010,01049,Dekalb County,Alabama,HH,8.3,28.5
+2010,01051,Elmore County,Alabama,HH,10,26.6
+2010,01053,Escambia County,Alabama,HH,10.8,32.7
+2010,01055,Etowah County,Alabama,HH,10.1,29.6
+2010,01057,Fayette County,Alabama,HH,9.6,33.4
+2010,01059,Franklin County,Alabama,HH,11.2,27.3
+2010,01061,Geneva County,Alabama,HH,9.1,29.5
+2010,01063,Greene County,Alabama,HM,9.7,22.8
+2010,01065,Hale County,Alabama,HH,10.5,37.2
+2010,01067,Henry County,Alabama,HM,8.9,23.1
+2010,01069,Houston County,Alabama,HH,9.4,30.4
+2010,01071,Jackson County,Alabama,HM,8.9,21.2
+2010,01073,Jefferson County,Alabama,HH,11.1,30.9
+2010,01075,Lamar County,Alabama,MM,7.5,22.5
+2010,01077,Lauderdale County,Alabama,HH,10.7,31.3
+2010,01079,Lawrence County,Alabama,HH,9.9,33.1
+2010,01081,Lee County,Alabama,HM,8.7,24.9
+2010,01083,Limestone County,Alabama,LH,6.9,26.7
+2010,01085,Lowndes County,Alabama,HM,9.5,24.1
+2010,01087,Macon County,Alabama,HH,9.4,29.2
+2010,01089,Madison County,Alabama,HH,9.9,30
+2010,01091,Marengo County,Alabama,HH,13.2,38.5
+2010,01093,Marion County,Alabama,MH,8.2,27.6
+2010,01095,Marshall County,Alabama,HM,9.2,25.2
+2010,01097,Mobile County,Alabama,HH,11,32.3
+2010,01099,Monroe County,Alabama,HH,9.9,29
+2010,01101,Montgomery County,Alabama,HH,12.7,33.7
+2010,01103,Morgan County,Alabama,MM,7.4,25.9
+2010,01105,Perry County,Alabama,HM,10.1,21.3
+2010,01107,Pickens County,Alabama,HM,8.5,24.2
+2010,01109,Pike County,Alabama,HH,13.6,30.6
+2010,01111,Randolph County,Alabama,HH,9.6,26.4
+2010,01113,Russell County,Alabama,HH,9.1,31
+2010,01115,St. Clair County,Alabama,HH,10.7,28.6
+2010,01117,Shelby County,Alabama,MM,7.2,25.7
+2010,01119,Sumter County,Alabama,HH,11.3,27.5
+2010,01121,Talladega County,Alabama,HH,11.3,35.7
+2010,01123,Tallapoosa County,Alabama,HH,9.3,29.8
+2010,01125,Tuscaloosa County,Alabama,HH,11,32.7
+2010,01127,Walker County,Alabama,HH,11.7,31.3
+2010,01129,Washington County,Alabama,MM,8.2,25.7
+2010,01131,Wilcox County,Alabama,HM,9.7,23.5
+2010,01133,Winston County,Alabama,MH,8,29.7
+2010,02013,Aleutians East Borough,Alaska,HL,9,17.8
+2010,02016,Aleutians West Census Area,Alaska,HL,8.3,18
+2010,02020,Anchorage Municipality,Alaska,MM,7.8,23.8
+2010,02050,Bethel Census Area,Alaska,LM,6.8,25.8
+2010,02060,Bristol Bay Borough,Alaska,HL,8.5,19
+2010,02068,Denali Borough,Alaska,LL,7.1,17.9
+2010,02070,Dillingham Census Area,Alaska,HM,9.4,26
+2010,02090,Fairbanks North Star Borough,Alaska,MH,7.7,27.4
+2010,02100,Haines Borough,Alaska,MM,7.2,21.2
+2010,02105,Hoonah-Angoon Census Area,Alaska,HL,8.4,19.7
+2010,02110,Juneau City and Borough,Alaska,LM,6,23.1
+2010,02122,Kenai Peninsula Borough,Alaska,LH,5.7,26.3
+2010,02130,Ketchikan Gateway Borough,Alaska,LH,7,28.2
+2010,02150,Kodiak Island Borough,Alaska,LM,7,25
+2010,02164,Lake and Peninsula Borough,Alaska,HL,8.9,18.7
+2010,02170,Matanuska-Susitna Borough,Alaska,LH,5.6,28.9
+2010,02180,Nome Census Area,Alaska,MH,8.2,30.4
+2010,06065,Riverside County,California,HH,9.3,28.2
+2010,04017,Navajo County,Arizona,HH,10.6,28.7
+2010,04019,Pima County,Arizona,MM,7.3,25.8
+2010,04021,Pinal County,Arizona,HH,9.2,30.5
+2010,04023,Santa Cruz County,Arizona,LM,6.9,20.4
+2010,04025,Yavapai County,Arizona,LM,6.7,21.5
+2010,04027,Yuma County,Arizona,HH,9.3,31.5
+2010,05001,Arkansas County,Arkansas,HH,9.6,29.1
+2010,05003,Ashley County,Arkansas,MH,7.5,29
+2010,05005,Baxter County,Arkansas,LM,6.4,22.2
+2010,05007,Benton County,Arkansas,LM,6.4,25.5
+2010,05009,Boone County,Arkansas,HM,8.6,22.6
+2010,05011,Bradley County,Arkansas,ML,7.7,17.5
+2010,05013,Calhoun County,Arkansas,ML,7.7,18.8
+2010,05015,Carroll County,Arkansas,MM,7.5,21.3
+2010,05017,Chicot County,Arkansas,HM,9.1,22.3
+2010,05019,Clark County,Arkansas,MM,8,24.5
+2010,05021,Clay County,Arkansas,HM,8.6,24.5
+2010,05023,Cleburne County,Arkansas,ML,7.8,18
+2010,05025,Cleveland County,Arkansas,ML,7.7,17.6
+2010,05027,Columbia County,Arkansas,HM,9.6,25.2
+2010,05029,Conway County,Arkansas,HM,8.6,25.6
+2010,05031,Craighead County,Arkansas,HH,10.1,28.2
+2010,05033,Crawford County,Arkansas,LH,6.9,28.8
+2010,05035,Crittenden County,Arkansas,HH,11.3,32.2
+2010,05037,Cross County,Arkansas,MM,7.8,20.5
+2010,05039,Dallas County,Arkansas,ML,7.9,17.4
+2010,05041,Desha County,Arkansas,HM,8.6,21
+2010,05043,Drew County,Arkansas,HM,9.1,22.4
+2010,05045,Faulkner County,Arkansas,HH,8.8,27.6
+2010,05047,Franklin County,Arkansas,MM,7.8,20.7
+2010,05049,Fulton County,Arkansas,LL,6.9,18.3
+2010,05051,Garland County,Arkansas,MM,7.6,25
+2010,05053,Grant County,Arkansas,LM,7.1,24.8
+2010,05055,Greene County,Arkansas,HH,8.7,27.6
+2010,05057,Hempstead County,Arkansas,HM,9.9,25.5
+2010,05059,Hot Spring County,Arkansas,MH,8,28.9
+2010,05061,Howard County,Arkansas,HM,8.3,22.4
+2010,05063,Independence County,Arkansas,MM,8.2,22.2
+2010,05065,Izard County,Arkansas,LM,6.2,21.6
+2010,05067,Jackson County,Arkansas,HM,9.9,24.9
+2010,05069,Jefferson County,Arkansas,HH,12.1,35
+2010,05071,Johnson County,Arkansas,MH,8.2,29.4
+2010,05073,Lafayette County,Arkansas,ML,8,17.4
+2010,05075,Lawrence County,Arkansas,HH,8.7,26.7
+2010,05077,Lee County,Arkansas,HM,8.4,20.7
+2010,05079,Lincoln County,Arkansas,MM,7.6,21.2
+2010,05081,Little River County,Arkansas,HM,8.3,21.6
+2010,05083,Logan County,Arkansas,MM,8.1,21.9
+2010,05085,Lonoke County,Arkansas,HM,9.1,25.9
+2010,05087,Madison County,Arkansas,MM,7.9,24.7
+2010,05089,Marion County,Arkansas,HM,8.5,24.4
+2010,05091,Miller County,Arkansas,HH,9.6,29.1
+2010,05093,Mississippi County,Arkansas,HH,10.3,34.2
+2010,05095,Monroe County,Arkansas,ML,8.1,18.5
+2010,05097,Montgomery County,Arkansas,LL,7,17
+2010,05099,Nevada County,Arkansas,ML,7.9,18.2
+2010,05101,Newton County,Arkansas,ML,7.6,19.7
+2010,05103,Ouachita County,Arkansas,HH,9.3,32.8
+2010,05105,Perry County,Arkansas,LL,6.8,18.3
+2010,05107,Phillips County,Arkansas,HH,12.1,32.1
+2010,05109,Pike County,Arkansas,ML,7.2,16.6
+2010,05111,Poinsett County,Arkansas,HM,8.8,24.5
+2010,05113,Polk County,Arkansas,MH,7.3,32
+2010,05115,Pope County,Arkansas,MH,7.5,27.5
+2010,05117,Prairie County,Arkansas,LL,7,17.9
+2010,05119,Pulaski County,Arkansas,HH,9.7,31.6
+2010,05121,Randolph County,Arkansas,HM,9.2,23.8
+2010,05123,St. Francis County,Arkansas,HH,9.7,30.4
+2010,05125,Saline County,Arkansas,HH,8.8,27.1
+2010,05127,Scott County,Arkansas,ML,7.2,19.1
+2010,05129,Searcy County,Arkansas,ML,7.2,17.7
+2010,05131,Sebastian County,Arkansas,HM,9.1,23.6
+2010,05133,Sevier County,Arkansas,HM,9.7,25.1
+2010,05135,Sharp County,Arkansas,LM,6.8,20.9
+2010,05137,Stone County,Arkansas,LL,6.8,19.6
+2010,05139,Union County,Arkansas,HM,8.4,24.6
+2010,05141,Van Buren County,Arkansas,LM,6.4,21.9
+2010,05143,Washington County,Arkansas,HH,8.6,27.5
+2010,05145,White County,Arkansas,MH,8.2,26.9
+2010,05147,Woodruff County,Arkansas,ML,7.5,18
+2010,05149,Yell County,Arkansas,HH,11,26.8
+2010,06001,Alameda County,California,ML,7.2,19.7
+2010,06003,Alpine County,California,ML,7.5,17.6
+2010,06005,Amador County,California,HL,8.8,18.7
+2010,06007,Butte County,California,MM,8.1,23.7
+2010,06009,Calaveras County,California,MM,7.2,23.4
+2010,06011,Colusa County,California,ML,7.4,19.2
+2010,06013,Contra Costa County,California,LM,7,23
+2010,06015,Del Norte County,California,MM,7.8,21.3
+2010,06017,El Dorado County,California,LL,6.8,19.3
+2010,06019,Fresno County,California,HH,10.1,30.9
+2010,06021,Glenn County,California,MM,7.2,22.2
+2010,06023,Humboldt County,California,MH,7.8,27.3
+2010,06025,Imperial County,California,HM,8.6,23.2
+2010,06027,Inyo County,California,LL,6.9,16.8
+2010,06029,Kern County,California,HH,8.9,30.1
+2010,06031,Kings County,California,HM,8.7,25.7
+2010,06033,Lake County,California,HM,8.5,25.5
+2010,06035,Lassen County,California,HM,8.3,22.2
+2010,06037,Los Angeles County,California,MM,8.1,22.1
+2010,06039,Madera County,California,HH,9.6,31.2
+2010,06041,Marin County,California,LL,5.1,12.3
+2010,06043,Mariposa County,California,ML,7.3,20.2
+2010,06045,Mendocino County,California,LM,6,22.1
+2010,06047,Merced County,California,HH,8.5,33.5
+2010,06049,Modoc County,California,ML,7.2,17.3
+2010,06051,Mono County,California,LL,6.5,15.9
+2010,06053,Monterey County,California,MM,7.2,22.2
+2010,06055,Napa County,California,LL,6.2,19.4
+2010,06057,Nevada County,California,LL,5.3,17.4
+2010,06059,Orange County,California,MM,7.3,20.7
+2010,06061,Placer County,California,LL,6.5,19.8
+2010,06063,Plumas County,California,LL,6.9,20.1
+US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.,,,,,,
