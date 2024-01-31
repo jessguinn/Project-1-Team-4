@@ -1,4 +1,4 @@
-﻿Year,County_FIPS,County,State,Bivariate Tertile,Newly Diagnosed Diabetes (Rate per 1,000) 
+﻿Year,County_FIPS,County,State,Newly Diagnosed Bivariate Tertile,Newly Diagnosed Diabetes (Rate per 1,Newly Diagnosed 000) 
 2010,56045,Weston County,Wyoming,LM,7.4,20.6
 2010,54021,Gilmer County,West Virginia,HM,11.5,20.8
 2010,54023,Grant County,West Virginia,HL,14.1,19.6
