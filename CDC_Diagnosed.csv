@@ -1,4 +1,4 @@
-﻿Year,County_FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Obesity (Percentage) ,CDC Newly Diagnosed Merged.Newly Diagnosed Bivariate Tertile,CDC Newly Diagnosed Merged.Newly Diagnosed Diabetes (Rate per 1,CDC Newly Diagnosed Merged.Newly Diagnosed 000) 
+﻿Year,County_FIPS,County,State,Bivariate Tertile,Diagnosed Diabetes (Percentage) ,Obesity (Percentage) ,Newly Diagnosed Bivariate Tertile,Newly Diagnosed Diabetes (Rate per 1,Newly Diagnosed 000) 
 2018,56045,Weston County,Wyoming,LH,7.6,32,LM,7.9,21.8
 2010,56045,Weston County,Wyoming,LM,6.7,21.2,LM,7.4,20.6
 2018,2158,Kusilvak Census Area,Alaska,LL,7.4,22,MM,9.6,19.1
